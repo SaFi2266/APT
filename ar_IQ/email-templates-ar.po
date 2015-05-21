@@ -1,0 +1,183 @@
+# Translation of Email Templates in Arabic
+# This file is distributed under the same license as the Email Templates package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2013-11-24 21:30:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Email Templates\n"
+
+#: mail.sql:21
+msgid "{WEB_TITLE} - Success creating admin account!"
+msgstr "{WEB_TITLE} - نجاح إنشاء حساب مدير!"
+
+#: mail.sql:21
+msgid "<p>Hi {ADMIN_NAME},</p><p>The admin of {WEB_LINK} has created an account for you,</p><ul><li>Username: {USERNAME}</li><li>Password: {PASSWORD}</li></ul><p>You can access the admin panel here {WEB_ADMIN_LINK}.</p><p>Thank you!</p><p>Regards,</p>"
+msgstr "<p>مرحبا يا {ADMIN_NAME},</p><p>مدير موقع {WEB_LINK} قام بإنشاء حساب لك,</p><ul><li>اسم المستخدم: {USERNAME}</li><li>كلمة المرور: {PASSWORD}</li></ul><p>يمكنك الوصول الى لوحة تحكم الادارة من هنا {WEB_ADMIN_LINK}.</p><p>شكرا لك!</p><p>تحياتنا,</p>"
+
+#: mail.sql:22
+msgid "<p>Hi {USER_NAME},</p><p>Your listing <a href=\"{ITEM_URL}\">{ITEM_TITLE}</a> is about to expire at {WEB_LINK}."
+msgstr "<p>مرحبا يا {USER_NAME},</p><p>قائمتك <a href=\"{ITEM_URL}\">{ITEM_TITLE}</a> على وشك أن تنتهي على {WEB_LINK}."
+
+#: mail.sql:22
+msgid "{WEB_TITLE} - Your ad is about to expire"
+msgstr "{WEB_TITLE} - إعلانك على وشك الانتهاء"
+
+#: mail.sql:15
+msgid "<p>Hi {USER_NAME},</p><p>Please validate your alert registration by clicking on the following link: {VALIDATION_LINK}</p><p>Thank you!</p><p>Regards,</p><p>{WEB_LINK}</p>"
+msgstr "<p>مرحبا يا {USER_NAME},</p><p>يرجى تأييد صحة تسجيل التنبيه الخاص بك عن طريق النقر على الرابط التالي : {VALIDATION_LINK}</p><p>شكراً لك!</p><p>تحياتنا,</p><p>{WEB_LINK}</p>"
+
+#: mail.sql:15
+msgid "{WEB_TITLE} - Please validate your alert"
+msgstr "{WEB_TITLE} - رجاءاً أييد صحة التنبيه الخاص بك"
+
+#: mail.sql:14
+msgid "<p>Hi {USER_NAME}</p><p>You're receiving this e-mail because you requested an e-mail change. Please confirm this new e-mail address by clicking on the following validation link: {VALIDATION_LINK}</p><p>Regards,</p><p>{WEB_LINK}</p>"
+msgstr "<p>مرحبا يا {USER_NAME}</p><p>انت تتلقى رسالة البريد الالكتروني هذه لانك  طلبت تغيير عنوان البريد الالكتروني. الرجاء تأكييد عنوان البريد الإلكتروني الجديد من خلال النقر على رابط التحقق من صحة التالي: {VALIDATION_LINK}</p><p>تحياتنا,</p><p>{WEB_LINK}</p>"
+
+#: mail.sql:14
+msgid "{WEB_TITLE} - You requested an email change"
+msgstr "{WEB_TITLE} - طلبك بتغيير عنوان البريد الالكتروني"
+
+#: mail.sql:13
+msgid "<p>Hi {USER_NAME},</p><p>We've sent you this e-mail because you've requested a password reminder. Follow this link to recover it: {PASSWORD_LINK}</p><p>The link will be deactivated in 24 hours.</p><p>If you didn't request a password reminder, please ignore this message. This request was made from IP {IP_ADDRESS} on {DATE_TIME}</p><p>Regards,</p><p>{WEB_LINK}</p>"
+msgstr "<p>مرحبا يا {USER_NAME},</p><p>لقد أرسلنا لك هذا البريد الإلكتروني لأنك طلبت التذكير بكلمة المرور. اتبع هذا الرابط لاستعادتها: {PASSWORD_LINK}</p><p>سيتم إلغاء تنشيط الرابط بعد 24 ساعة..</p><p>إذا كنت لم تطلب تذكير كلمة السر، يرجى تجاهل هذه الرسالة. وقد جاء هذا الطلب من الـ IP {IP_ADDRESS} في {DATE_TIME}</p><p>تحياتنا,</p><p>{WEB_LINK}</p>"
+
+#: mail.sql:13
+msgid "{WEB_TITLE} - Recover your password"
+msgstr "{WEB_TITLE} - استعادة كلمة المرور الخاصة بك"
+
+#: mail.sql:12
+msgid "<p>Dear {WEB_TITLE} admin,</p><p>You're receiving this email because a listing has been published at {WEB_LINK}.</p><p>Listing details:</p><p>Contact name: {USER_NAME}<br />Contact email: {USER_EMAIL}</p><p>{ITEM_DESCRIPTION}</p><p>Url: {ITEM_URL}</p><p>You can edit this listing by clicking on the following link: {EDIT_LINK}</p><p>Regards,</p><p>{WEB_LINK}</p>"
+msgstr "<p>عزيزنا مدير موقع {WEB_TITLE},</p><p>انت تتلقى رسالة البريد الالكتروني هذه لان هنالك قائمة نشرت على {WEB_LINK}.</p><p>تفاصيل الفائمة:</p><p>اسم صاحب الاتصال: {USER_NAME}<br />البريد الالكتروني لصاحب الاتصال: {USER_EMAIL}</p><p>{ITEM_DESCRIPTION}</p><p>الرابط: {ITEM_URL}</p><p>يمكنك تحرير هذه القائمة من خلال النقر على الرابط التالي: {EDIT_LINK}</p><p>تحياتنا,</p><p>{WEB_LINK}</p>"
+
+#: mail.sql:12
+msgid "{WEB_TITLE} - A new listing has been published"
+msgstr "{WEB_TITLE} - تم نشر قائمة جديدة"
+
+#: mail.sql:11 mail.sql:17
+msgid "{WEB_TITLE} - Validate your listing"
+msgstr "{WEB_TITLE} - تأييد صحة قائمتك"
+
+#: mail.sql:11
+msgid "<p>Hi {USER_NAME},</p><p>You're receiving this e-mail because a listing has been published at {WEB_LINK}. Please validate this listing by clicking on the following link: {VALIDATION_LINK}. If you didn't publish this listing, please ignore this email.</p><p>Listing details:</p><p>Contact name: {USER_NAME}<br />Contact e-mail: {USER_EMAIL}</p><p>{ITEM_DESCRIPTION}</p><p>Url: {ITEM_URL}</p><p>Regards,</p><p>{WEB_LINK}</p>"
+msgstr "<p>مرحبا يا {USER_NAME},</p><p>انت تتلقى رسالة البريد الالكتروني هذه لان هنالك قائمة نشرت على موقع {WEB_LINK}. يرجى تأييد صحة هذه القائمة من خلال النقر على الرابط التالي: {VALIDATION_LINK}. إذا كنت لم تنشر هذه القائمة، الرجاء تجاهل هذا البريد الإلكتروني.</p><p>تفاصيل القائمة:</p><p>اسم صاحب الاتصال: {USER_NAME}<br />البريد الالكتروني لصاحب الاتصال: {USER_EMAIL}</p><p>{ITEM_DESCRIPTION}</p><p>الرابط: {ITEM_URL}</p><p>تحياتنا,</p><p>{WEB_LINK}</p>"
+
+#: mail.sql:10
+msgid "<p>Hi {USER_NAME},</p><p>You're not registered at {WEB_LINK}, but you can still edit or delete the listing <a href=\"{ITEM_URL}\">{ITEM_TITLE}</a> for a short period of time.</p><p>You can edit your listing by following this link: {EDIT_LINK}</p><p>You can delete your listing by following this link: {DELETE_LINK}</p><p>If you register as a user, you will have full access to editing options.</p><p>Regards,</p><p>{WEB_LINK}</p>"
+msgstr "<p>مرحبا يا {USER_NAME},</p><p>انت غير مسجل في {WEB_LINK}, ولكن لا يزال بإمكانك تعديل أو حذف القائمة <a href=\"{ITEM_URL}\">{ITEM_TITLE}</a> ولفترة قصيرة من الزمن.</p><p>يمكنك تحرير قائمتك من خلال اتباع هذا الرابط: {EDIT_LINK}</p><p>يمكنك حذف قائمتك من خلال اتباع هذا الرابط: {DELETE_LINK}</p><p>إذا قمت بالتسجيل كمستخدم، سيكون لديك الوصول الكامل إلى خيارات التحرير.</p><p>تحياتنا,</p><p>{WEB_LINK}</p>"
+
+#: mail.sql:10
+msgid "{WEB_TITLE} - Edit options for the listing {ITEM_TITLE}"
+msgstr "{WEB_TITLE} - تحرير خيارات القائمة {ITEM_TITLE}"
+
+#: mail.sql:9
+msgid "<p>Someone commented on the listing <a href=\"{ITEM_URL}\">{ITEM_TITLE}</a>.</p><p>Commenter: {COMMENT_AUTHOR}<br />Commenter's email: {COMMENT_EMAIL}<br />Title: {COMMENT_TITLE}<br />Comment: {COMMENT_TEXT}</p>"
+msgstr "<p>احدهم علّق على القائمة <a href=\"{ITEM_URL}\">{ITEM_TITLE}</a>.</p><p>المعلق: {COMMENT_AUTHOR}<br />البريد الالكتروني للمعلق: {COMMENT_EMAIL}<br />العنوان: {COMMENT_TITLE}<br />التعليق: {COMMENT_TEXT}</p>"
+
+#: mail.sql:9
+msgid "{WEB_TITLE} - New comment"
+msgstr "{WEB_TITLE} - تعليق جديد"
+
+#: mail.sql:8
+msgid "<p>Hi {USER_NAME},</p><p>A new listing has been published, check it out!</p><p>{ADS}</p><p>-------------</p><p>To unsubscribe from this alert, click on: {UNSUB_LINK}</p><p>{WEB_LINK}</p>"
+msgstr "<p>مرحبا  {USER_NAME},</p><p>قائمة جديدة قد تم نشرها, تحقق منها!</p><p>{ADS}</p><p>-------------</p><p>لالغاء اشتراكك بهذا التنبيه, اضغط على: {UNSUB_LINK}</p><p>{WEB_LINK}</p>"
+
+#: mail.sql:8
+msgid "{WEB_TITLE} - New listings"
+msgstr "{WEB_TITLE} - قوائم جديدة"
+
+#: mail.sql:7
+msgid "<p>Hi {USER_NAME},</p><p>New listings have been published in the last week. Take a look at them:</p><p>{ADS}</p><p>-------------</p><p>To unsubscribe from this alert, click on: {UNSUB_LINK}</p><p>{WEB_LINK}</p>"
+msgstr "<p>مرحبا يا {USER_NAME},</p><p>قوائم جديد تم نشرها في الاسبوع الماضي. الق نظرة عليها:</p><p>{ADS}</p><p>-------------</p><p>لالغاء اشتراكك بهذا التنبيه, اضغط على: {UNSUB_LINK}</p><p>{WEB_LINK}</p>"
+
+#: mail.sql:7
+msgid "{WEB_TITLE} - New listings in the last week"
+msgstr "{WEB_TITLE} - القوائم الجديدة للاسبوع السابق"
+
+#: mail.sql:6
+msgid "<p>Hi {USER_NAME},</p><p>New listings have been published in the last day. Take a look at them:</p><p>{ADS}</p><p>-------------</p><p>To unsubscribe from this alert, click on: {UNSUB_LINK}</p><p>{WEB_LINK}</p>"
+msgstr "<p>مرحبا يا {USER_NAME},</p><p>قوائم جديدة تم نشرها بالامس. الق نظرة عليها:</p><p>{ADS}</p><p>-------------</p><p>لالغاء اشتراكك بهذا التنبيه, اضغط على: {UNSUB_LINK}</p><p>{WEB_LINK}</p>"
+
+#: mail.sql:6
+msgid "{WEB_TITLE} - New listings in the last day"
+msgstr "{WEB_TITLE} - القوائم الجديدة امس"
+
+#: mail.sql:5
+msgid "<p>Hi {USER_NAME},</p><p>New listings have been published in the last hour. Take a look at them:</p><p>{ADS}</p><p>-------------</p><p>To unsubscribe from this alert, click on: {UNSUB_LINK}</p><p>{WEB_LINK}</p>"
+msgstr "<p>مرحبا يا {USER_NAME},</p><p>قوائم جديدة تم نشرها قبل ساعة من الان. الق نظرة عليها:</p><p>{ADS}</p><p>-------------</p><p>لالغاء اشتراكك بهذا التنبيه, اضغط على: {UNSUB_LINK}</p><p>{WEB_LINK}</p>"
+
+#: mail.sql:5
+msgid "{WEB_TITLE} - New listings in the last hour"
+msgstr "{WEB_TITLE} - القوائم الجديد في الساعات السابقة"
+
+#: mail.sql:4
+msgid "<p>Hi {FRIEND_NAME},</p><p>Your friend {USER_NAME} wants to share this listing with you <a href=\"{ITEM_URL}\">{ITEM_TITLE}</a>.</p><p>Message:</p><p>{COMMENT}</p><p>Regards,</p><p>{WEB_TITLE}</p>"
+msgstr "<p>مرحبا يا {FRIEND_NAME},</p><p>صديقك {USER_NAME} يريد مشاركة هذه القائمة معك <a href=\"{ITEM_URL}\">{ITEM_TITLE}</a>.</p><p>الرسالة:</p><p>{COMMENT}</p><p>تحياتنا,</p><p>{WEB_TITLE}</p>"
+
+#: mail.sql:4
+msgid "Look at what I discovered on {WEB_TITLE}"
+msgstr "انظر ما اكتشفته على موقع {WEB_TITLE}"
+
+#: mail.sql:3
+msgid "<p>Hi {USER_NAME},</p><p>You've successfully registered for {WEB_LINK}.</p><p>Thank you!</p><p>Regards,</p><p>{WEB_LINK}</p>"
+msgstr "<p>مرحبا يا {USER_NAME},</p><p>لقد سجلت بنجاح في {WEB_LINK}.</p><p>شكراً لك!</p><p>تحياتنا,</p><p>{WEB_LINK}</p>"
+
+#: mail.sql:3
+msgid "{WEB_TITLE} - Registration successful!"
+msgstr "{WEB_TITLE} - نجاح عملية التسجيل!"
+
+#: mail.sql:2
+msgid "<p>Hi {USER_NAME},</p><p>Please validate your registration by clicking on the following link: {VALIDATION_LINK}</p><p>Thank you!</p><p>Regards,</p><p>{WEB_LINK}</p>"
+msgstr "<p>مرحبا يا {USER_NAME},</p><p>يرجى التحقق من صحة التسجيل الخاصة بك عن طريق النقر على الرابط التالي: {VALIDATION_LINK}</p><p>شكراً لك!</p><p>تحياتنا,</p><p>{WEB_LINK}</p>"
+
+#: mail.sql:2
+msgid "Please validate your {WEB_TITLE} account"
+msgstr "الرجاء تأييد صحة حسابك على موقع {WEB_TITLE}"
+
+#: mail.sql:1
+msgid "<p>Hi {CONTACT_NAME}!</p><p>{USER_NAME} ({USER_EMAIL}, {USER_PHONE}) left you a message about your listing <a href=\"{ITEM_URL}\">{ITEM_TITLE}</a>:</p><p>{COMMENT}</p><p>Regards,</p><p>{WEB_LINK}</p>"
+msgstr "<p>مرحبا يا {CONTACT_NAME}!</p><p>{USER_NAME} ({USER_EMAIL}, {USER_PHONE}) ترك لك رسالة حول قائمتك <a href=\"{ITEM_URL}\">{ITEM_TITLE}</a>:</p><p>{COMMENT}</p><p>تحياتنا,</p><p>{WEB_LINK}</p>"
+
+#: mail.sql:1
+msgid "{WEB_TITLE} - Someone has a question about your listing"
+msgstr "{WEB_TITLE} - شخص ما لديه سؤال حول قائمتك"
+
+#: mail.sql:16
+msgid "{WEB_TITLE} - Your comment has been approved"
+msgstr "{WEB_TITLE} - تمت الموافقة على تعليقك"
+
+#: mail.sql:18
+msgid "{WEB_TITLE} - A new user has registered"
+msgstr "{WEB_TITLE} - تسجيل مستخدم جديد"
+
+#: mail.sql:18
+msgid "<p>Dear {WEB_TITLE} admin,</p><p>You're receiving this email because a new user has been created at {WEB_LINK}.</p><p>User details:</p><p>Name: {USER_NAME}<br />E-mail: {USER_EMAIL}</p><p>Regards,</p><p>{WEB_LINK}</p>"
+msgstr "<p>عزيزنا مدير موقع {WEB_TITLE},</p><p>انت تتلقى هذا البريد الإلكتروني لأنه قد تم إنشاء مستخدم جديد في {WEB_LINK}.</p><p>تفاصيل المستخدم:</p><p>الاسم: {USER_NAME}<br />البريد الالكتروني: {USER_EMAIL}</p><p>تحياتنا,</p><p>{WEB_LINK}</p>"
+
+#: mail.sql:19
+msgid "{WEB_TITLE} - Someone has a question for you"
+msgstr "{WEB_TITLE} - شخص ما لديه سؤال لك"
+
+#: mail.sql:19
+msgid "<p>Hi {CONTACT_NAME}!</p><p>{USER_NAME} ({USER_EMAIL}, {USER_PHONE}) left you a message:</p><p>{COMMENT}</p><p>Regards,</p><p>{WEB_LINK}</p>"
+msgstr "<p>مرحبا يا {CONTACT_NAME}!</p><p>{USER_NAME} ({USER_EMAIL}, {USER_PHONE}) ترك لك رسالة:</p><p>{COMMENT}</p><p>تحياتنا,</p><p>{WEB_LINK}</p>"
+
+#: mail.sql:20
+msgid "{WEB_TITLE} - Someone has commented on your listing"
+msgstr "{WEB_TITLE} - شخص ما فام بالتعليق على قائمتك"
+
+#: mail.sql:20
+msgid "<p>There's a new comment on the listing: <a href=\"{ITEM_URL}\">{ITEM_TITLE}</a>.</p><p>Author: {COMMENT_AUTHOR}<br />Author's email: {COMMENT_EMAIL}<br />Title: {COMMENT_TITLE}<br />Comment: {COMMENT_TEXT}</p><p>{WEB_LINK}</p>"
+msgstr "<p>هناك تعليق جديد على القائمة: <a href=\"{ITEM_URL}\">{ITEM_TITLE}</a>.</p><p>الكاتب: {COMMENT_AUTHOR}<br />البريد الالكتروني للكاتب: {COMMENT_EMAIL}<br />العنوان: {COMMENT_TITLE}<br />التعليق: {COMMENT_TEXT}</p><p>{WEB_LINK}</p>"
+
+#: mail.sql:16
+msgid "<p>Hi {COMMENT_AUTHOR},</p><p>Your comment on <a href=\"{ITEM_URL}\">{ITEM_TITLE}</a> has been approved.</p><p>Regards,</p><p>{WEB_LINK}</p>"
+msgstr "<p>مرحبا يا {COMMENT_AUTHOR},</p><p>تعليقك على <a href=\"{ITEM_URL}\">{ITEM_TITLE}</a> تمت الموافقة عليه.</p><p>تحياتنا,</p><p>{WEB_LINK}</p>"
+
+#: mail.sql:17
+msgid "<p>Hi {USER_NAME},</p><p>You're receiving this e-mail because you\\’ve published a listing at {WEB_LINK}. Please validate this listing by clicking on the following link: {VALIDATION_LINK}. If you didn't publish this listing, please ignore this e-mail.</p><p>Listing details:</p><p>Contact name: {USER_NAME}<br />Contact e-mail: {USER_EMAIL}</p><p>{ITEM_DESCRIPTION}</p><p>Url: {ITEM_URL}</p><p>Even if you're not registered at {WEB_LINK}, you can still edit or delete your listing:</p><p>You can edit your listing by following this link: {EDIT_LINK}</p><p>You can delete your listing by following this link: {DELETE_LINK}</p><p>Regards,</p><p>{WEB_LINK}</p>"
+msgstr "<p>مرحبا يا {USER_NAME},</p><p>انت تتلقى رسالة البريد الالكتروني هذه لانك نشرت قائمة على {WEB_LINK}. يرجى تأييد هذه القائمة من خلال النقر على الرابط التالي: {VALIDATION_LINK}. اذا كنت لم تنشر هذه القائمة, الرجاء تجاهل هذه الرسالة.</p><p>تفاصيل القائمة:</p><p>اسم صاحب الاتصال: {USER_NAME}<br />البريد الالكتروني لصاحب الاتصال: {USER_EMAIL}</p><p>{ITEM_DESCRIPTION}</p><p>الرابط: {ITEM_URL}</p><p>حتى لو كنت غير مسجل في {WEB_LINK}, لا يزال بإمكانك تعديل أو حذف قائمتك:</p><p>يمكنك تحرير قائمتك من خلال اتباع هذا الرابط: {EDIT_LINK}</p><p>يمكنك حذف قائمتك من خلال اتباع هذا الرابط: {DELETE_LINK}</p><p>تحياتنا,</p><p>{WEB_LINK}</p>"

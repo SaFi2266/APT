@@ -1,0 +1,1613 @@
+# Translation of Event Espresso in Arabic
+# This file is distributed under the same license as the Event Espresso package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2013-11-27 06:59+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Poedit 1.5.7\n"
+"Project-Id-Version: Event Espresso\n"
+"POT-Creation-Date: \n"
+"Last-Translator: SaFi <safi2266@gmail.com>\n"
+"Language-Team: \n"
+
+#: ../../../plugins/espresso-price-modifier/EE_Price_Modifier.class.php:179
+msgid "Price Modifier Max Quantities"
+msgstr "معدل السعر للكميات القصوى"
+
+#: ../../../plugins/espresso-price-modifier/EE_Price_Modifier.class.php:199
+msgid "Price Modifiers Items Sold"
+msgstr "معدلات السعر للعنصر المباع"
+
+#: ../../../plugins/espresso-s2member/index.php:80
+msgid "Use S2 member level threshold. "
+msgstr "استخدام عتبة مستوى عضوية  S2"
+
+#: ../../../plugins/espresso-s2member/index.php:89
+msgid "S2 member threshold. "
+msgstr "عتبة عضوية S2"
+
+#: ../../../plugins/event-espresso.3.1/gateways/wepay/wepay_vars.php:38
+msgid "WePay seems to be misconfigured. Error: %s"
+msgstr "يبدو ان WePay فيها سوء اعداد. الخطأ: %s"
+
+#: ../../../plugins/event-espresso.3.1/gateways/wepay/settings.php:123
+msgid "Access Token"
+msgstr "رمز وصول"
+
+#: ../../../plugins/event-espresso.3.1/gateways/paypal/settings.php:111
+#: ../../../plugins/event-espresso.3.1/gateways/paypal/settings.php:292
+msgid "Override Profile-Based Shipping"
+msgstr "تجاوز الشحن على اساس الملف الشخصي"
+
+#: ../../../plugins/event-espresso.3.1/gateways/wepay/settings.php:190
+msgid "Add Event Espresso as an API application in your account."
+msgstr "إضافة احداث اسبرسو كتطبيق API في حسابك."
+
+#: ../../../plugins/event-espresso.3.1/gateways/paypal/settings.php:105
+#: ../../../plugins/event-espresso.3.1/gateways/paypal/settings.php:287
+msgid "Override Profile-Based Tax"
+msgstr "تجاوز الضريبة على اساس الملف الشخصي"
+
+#: ../../../plugins/event-espresso.3.1/gateways/paychoice/paychoice_vars.php:24
+msgid "Secure payment gateway by PayChoice"
+msgstr "تأمين الدفع بواسطة بوابة PayChoice"
+
+#: ../../../plugins/event-espresso.3.2/gateways/Check/EE_Check.class.php:62
+msgid "Check"
+msgstr "تحقق"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:780
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:796
+msgid "Set Registration Status to Not Approved"
+msgstr "تعيين حالة التسجيل إلى غير المعتمدة"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/events/Events_Admin_Page.core.php:2554
+msgid "An error occured. Event ID # %d could not be deleted."
+msgstr "حدث خطأ. لا يمكن حذف معرف الحدث ذو الرقم %d."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Registration.class.php:453
+msgid "View the Transaction for this Registration"
+msgstr "عرض الصفقة لهذا التسجيل"
+
+#: ../../../plugins/event-espresso.3.2/gateways/Invoice/EE_Invoice.class.php:144
+msgid "(Logo for the top left of the invoice)"
+msgstr "(الشعار لأعلى يسار الفاتورة)"
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Payment.model.php:264
+msgid "The payment has been %s succesfully."
+msgstr "الدفع تم %sبنجاح."
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/messages/Messages_Admin_Page.core.php:1407
+msgid "These are the shortcodes you can use in the templates: "
+msgstr "هذه هي الشفرة القصيرة التي يمكنك استخدامها في القوالب:"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/events/Events_Admin_Page.core.php:2385
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/events/Events_Admin_Page.core.php:2503
+msgid "An error occured. No Event ID or an invalid Event ID was received."
+msgstr "حدث خطأ. استقبال معرف رقم الحدث أو معرف الحدث غير صالح."
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/transactions/templates/txn_admin_details_header.template.php:22
+msgid "Selected Method of Payment: "
+msgstr "اختيار طريقة الدفع:"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:1335
+msgid "An error occured. An ID for the new attendee could not be retreived."
+msgstr "حدث خطأ. لا يمكن استرجاع معرف المتقدم الجديد."
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/EE_messages.core.php:187
+msgid "The %s has been succesfully sent."
+msgstr "تم إرسال %s بنجاح."
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:824
+msgid "Reactivate this Registration"
+msgstr "اعادة تنشيط هذا التسجيل"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:793
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:809
+msgid "Set Registration Status to Approved"
+msgstr "تعيين حالة التسجيل الى مقبول"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:784
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:800
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:816
+msgid "Cancel this Registration"
+msgstr "إلغاء هذا التسجيل"
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Payment.model.php:319
+#, fuzzy
+msgid "No Payment ID or Object was supplied."
+msgstr "تم توفير أي معرف الدفع أو كائن."
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:777
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:812
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:823
+msgid "Set Registration Status to Pending"
+msgstr "تعيين حالة التسجيل قيد الانتظار"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:428
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:440
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:452
+msgid "Activate Registrations"
+msgstr "تفعيل التسجيلات"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:427
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:439
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:451
+msgid "Set Registrations to Pending"
+msgstr "ضع التسجيلات قيد الانتظار"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:426
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:438
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:450
+msgid "Decline Registrations"
+msgstr "رفض التسجيلات"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/EE_Registrations_List_Table.class.php:209
+msgid "Only Show Registrations For This Event"
+msgstr "فقط اضهر التسجيلات لهذا الحدث"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/EE_Registrations_List_Table.class.php:209
+msgid "Filter this list to only show registrations for %s"
+msgstr "تصفية هذه القائمة لعرض التسجيلات فقط لـ %s"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/EE_Registrations_List_Table.class.php:205
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/transactions/EE_Admin_Transactions_List_Table.class.php:250
+#: ../../../plugins/event-espresso.3.2/includes/functions/init.php:494
+msgid "Edit Event: %s"
+msgstr "تحرير الحدث:%s"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/messages/Messages_Admin_Page.core.php:263
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/messages/templates/ee_msg_messages_shortcodes_help_tab.template.php:1
+msgid "Shortcode Descriptions"
+msgstr "وصف الشفرة القصيرة"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/transactions/EE_Admin_Transactions_List_Table.class.php:156
+msgid "View Transaction Details for TXN #"
+msgstr "عرض تفاصيل الصفقة لـ TXN #"
+
+#: ../../../plugins/event-espresso.3.1/includes/admin-files/admin_reports_filters.php:227
+msgid "Active / Ongoing"
+msgstr "النشطة / الجارية"
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Message_Template.model.php:93
+msgid "Message Templates"
+msgstr "قوالب الرسالة"
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Message_Template.model.php:763
+msgid "The Validator class was unable to load"
+msgstr "كانت الطبقة مدقق قادر على تحميل"
+
+#: ../../../plugins/espresso-calendar/espresso-calendar.php:348
+msgid "UNL"
+msgstr "UNL"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/transactions/Transactions_Admin_Page.core.php:913
+msgid "The payment has been processed succesfully."
+msgstr "تم معالجة الدفع بنجاح."
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/EE_Registrations_List_Table.class.php:124
+msgid "Select Status"
+msgstr "حدد الحالة"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/templates/reg_admin_details_main_meta_box_attendees.template.php:28
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/templates/reg_admin_details_side_meta_box_registrant.template.php:44
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/transactions/templates/txn_admin_details_main_meta_box_attendees.template.php:37
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/transactions/templates/txn_admin_details_side_meta_box_registrant.template.php:44
+msgid "View details for this attendee"
+msgstr "عرض تفاصيل لهذا المتقدم"
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Gateways.model.php:763
+msgid "Please select a method of payment in order to continue."
+msgstr "الرجاء اختيار طريقة الدفع من أجل الاستمرار."
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Transaction.model.php:364
+msgid "No Transaction ID was received."
+msgstr "وكان في استقبال أي معرف عملية."
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:389
+msgid "An extra field you may use for accounting purposes or simple notes."
+msgstr "حقل الإضافية التي قد تستخدم لأغراض المحاسبة أو ملاحظات بسيطة."
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:391
+msgid "Defaults to the primary attendees registration code."
+msgstr "افتراضات إلى المتقدم الأولية رمز التسجيل."
+
+#: ../../../plugins/espresso-calendar/calendar_admin_classic.php:498
+msgid "Disable Categories."
+msgstr "تعطيل فئات."
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/messages/templates/ee_msg_preview_help_tab.template.php:7
+msgid "2. Setup data."
+msgstr "2. إعداد البيانات."
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/messages/templates/ee_msg_preview_help_tab.template.php:9
+msgid "3. Parse shortcodes"
+msgstr "3. تحليل الشفرة القصيرة"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/messages/templates/ee_msg_preview_help_tab.template.php:12
+msgid "4. Display the preview!"
+msgstr "4. عرض المعاينة!"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/payments/Payments_Admin_Page.core.php:41
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/payments/Payments_Admin_Page.core.php:86
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/payments/Payments_Admin_Page_Init.core.php:46
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/payments/Payments_Admin_Page_Init.core.php:47
+msgid "Payment Methods"
+msgstr "طرق الدفع"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/payments/Payments_Admin_Page.core.php:108
+msgid "Affiliate Settings"
+msgstr "إعدادات التابعة لها"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/payments/Payments_Admin_Page.core.php:254
+msgid "Modify this Gateway"
+msgstr "تعديل هذه العبارة"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/payments/Payments_Admin_Page.core.php:448
+msgid "Affiliates"
+msgstr "الشركات التابعة"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/payments/Payments_Admin_Page.core.php:468
+msgid "Before the opening %s tag of every page on the website"
+msgstr "قبل فتح مرحلة%من كل صفحة على الموقع"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/payments/Payments_Admin_Page.core.php:469
+msgid "On the purchase confirmation page after completed purchase"
+msgstr "على الصفحة تأكيد الشراء الشراء بعد الانتهاء"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/payments/Payments_Admin_Page.core.php:470
+msgid "Before the closing %s tag of every page on the website"
+msgstr "قبل المرحلة الختامية%من كل صفحة على الموقع"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/payments/Payments_Admin_Page.core.php:482
+msgid "Enter in the affiliate code in this box:"
+msgstr "أدخل في رمز التابعة لها في هذا المربع:"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/payments/Payments_Admin_Page.core.php:508
+msgid "Update Affiliate Settings"
+msgstr "انضم إعدادات التحديث"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/payments/Payments_Admin_Page.core.php:525
+msgid "Affiliate Settings Updated!"
+msgstr "إعدادات التابعة التحديث!"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/payments/Payments_Admin_Page.core.php:528
+msgid "Affiliate Settings were not saved!"
+msgstr "لم يتم حفظ الإعدادات التابعة لها!"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/payments/templates/payment_settings.template.php:8
+msgid "Show Additional Payment Methods for Pending Payments"
+msgstr "تظهر طرق الدفع إضافية لقيد المدفوعات"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/EE_Attendee_Contact_List_Table.class.php:124
+msgid "Move Attendee to Trash"
+msgstr "نقل المتقدم إلى المهملات"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/EE_Attendee_Contact_List_Table.class.php:128
+msgid "Restore Attendee"
+msgstr "استعادة المتقدم"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/EE_Attendee_Contact_List_Table.class.php:131
+msgid "Delete Attendee Permanently"
+msgstr "حذف بشكل دائم المتقدم"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/EE_Event_Registrations_List_Table.class.php:35
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/EE_Registrations_List_Table.class.php:71
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/EE_Registrations_List_Table.class.php:88
+msgid "Att #"
+msgstr "توري #"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/EE_Event_Registrations_List_Table.class.php:137
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/EE_Registrations_List_Table.class.php:264
+msgid " of "
+msgstr "من"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/EE_Registrations_List_Table.class.php:57
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/message_type/EE_Registration_message_type.class.php:37
+msgid "registration"
+msgstr "تسجيل"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/EE_Registrations_List_Table.class.php:75
+msgid "Final Price"
+msgstr "السعر النهائي"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:73
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:253
+msgid "Register New Attendee"
+msgstr "تسجيل جديد المتقدم"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:259
+msgid "Save Registration"
+msgstr "حفظ التسجيل"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:284
+msgid "Contact List"
+msgstr "قائمة الاتصال"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:508
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:1968
+msgid "This indicates that the Attendee is the Primary Attendee"
+msgstr "هذا يشير إلى أن المتقدم هو المتقدم الابتدائية"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:520
+msgid "Resend registration details to attendee"
+msgstr "إعادة إرسال تفاصيل التسجيل إلى المتقدم"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:648
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:2034
+msgid "click to return to viewing all registrations "
+msgstr "انقر للعودة إلى عرض جميع التسجيلات"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:648
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:2034
+msgid "Back to All Registrations"
+msgstr "إلى جميع التسجيلات"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:652
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:2038
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/templates/reg_admin_register_new_attendee.template.php:3
+msgid "Event: "
+msgstr "الحدث:"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:744
+msgid "Attendees Registration Form"
+msgstr "نموذج المتقدم التسجيل"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:747
+msgid "Other Attendees Registered in this Transaction"
+msgstr "المتقدم الأخرى المسجلين في هذا عملية"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:778
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:813
+msgid "Set this Registration to Pending"
+msgstr "تعيين هذا التسجيل لريثما"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:781
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:797
+msgid "Decline this Registration"
+msgstr "ينخفض ​​هذا التسجيل"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:1173
+msgid "click to edit attendee question"
+msgstr "انقر للتحرير مسألة المتقدم"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:1174
+msgid "edit the above question group"
+msgstr "تحرير مجموعة السؤال أعلاه"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:1175
+msgid "Edit Attendee Question"
+msgstr "تحرير المتقدم سؤال"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:1235
+msgid "Attendee Registration Form"
+msgstr "استمارة التسجيل المتقدم"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:1616
+msgid "Date, Time, &amp; Price Selection"
+msgstr "التاريخ والوقت، واختيار السعر"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:1626
+msgid "Registration Form Questions"
+msgstr "أسئلة استمارة التسجيل"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:1779
+msgid "An error occured. No Event ID or an  invalid Event ID was submitted."
+msgstr "حدث خطأ. لم تقدم معرف الحدث أو معرف الحدث غير صالح."
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:1783
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:1797
+msgid "New Attendee Registration"
+msgstr "تسجيل المتقدم جديدة"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:1784
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:1798
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:2356
+msgid "created"
+msgstr "خلق"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:2290
+msgid "Event Registrations for this Attendee"
+msgstr "التسجيلات الحدث لهذا المتقدم"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:2409
+msgid "moved to the trash"
+msgstr "انتقل إلى سلة المهملات"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:2409
+msgid "restored"
+msgstr "مرمم"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page.core.php:2580
+msgid "Total Registrations per Event"
+msgstr "جميع المسجلين في حدث"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/Registrations_Admin_Page_Init.core.php:57
+msgid "Registrations Overview"
+msgstr "التسجيلات نظرة عامة"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/templates/attendee_details_main_meta_box.template.php:61
+msgid "The attendees street address."
+msgstr "عنوان المتقدم الشارع."
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/templates/attendee_details_main_meta_box.template.php:123
+msgid "Attendee Notes"
+msgstr "المتقدم ملاحظات"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/templates/attendee_registrations_main_meta_box.template.php:14
+msgid "Reg Code"
+msgstr "ريج رمز"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/templates/reg_admin_details_header.template.php:11
+msgid "scroll to Other Attendees Registered in the Same Transaction"
+msgstr "انتقل إلى المتقدم أخرى مسجلة في نفس عملية"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/templates/reg_admin_details_main_meta_box_reg_details.template.php:61
+msgid "view additional registration session details"
+msgstr "عرض تفاصيل إضافية الدورة تسجيل"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registrations/templates/reg_admin_details_main_meta_box_reg_details.template.php:68
+msgid "hide additional registration session details"
+msgstr "إخفاء تفاصيل إضافية الدورة تسجيل"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/support/Support_Admin_Page.core.php:41
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/support/Support_Admin_Page_Init.core.php:43
+msgid "Help & Support"
+msgstr "مساعدة ودعم"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/support/Support_Admin_Page.core.php:82
+msgid "Resources"
+msgstr "موارد"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/support/Support_Admin_Page.core.php:96
+msgid "Support"
+msgstr "دعم"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/support/templates/support_admin_details_additional_information.template.php:5
+msgid "Tutorials"
+msgstr "الدروس"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/support/templates/support_admin_details_additional_information.template.php:5
+msgid "(calendar, css override, payment gateway system, etc.)"
+msgstr "((التقويم، المغلق تجاوز، ودفع النظام العبارة، الخ))"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/support/templates/support_admin_details_additional_information.template.php:7
+msgid "Adding Your First Event"
+msgstr "مضيفا ديك حدث أولا"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/support/templates/support_admin_details_additional_information.template.php:11
+msgid "%sVariables and Shortcodes%s"
+msgstr "متغيرات%و%s الشفرة القصيرة"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/support/templates/support_admin_details_additional_information.template.php:12
+msgid "%sCompatibility Issues%s"
+msgstr "%%و مسائل توافق"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/support/templates/support_admin_details_additional_information.template.php:13
+msgid "%sBug Submission Form%s"
+msgstr "%sBug تقديم نموذج%s"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/support/templates/support_admin_details_additional_information.template.php:14
+msgid "%sChange log%s"
+msgstr "نسبة التغير سجلات"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/support/templates/support_admin_details_additional_information.template.php:15
+msgid "%sUpdate Request Form%s"
+msgstr "%%تحديث نموذج طلب ق"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/support/templates/support_admin_details_contact_support.template.php:4
+msgid "Before Contacting Support"
+msgstr "قبل الاتصال بالدعم"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/support/templates/support_admin_details_favorite_theme_developers.template.php:18
+msgid "Fine art WordPress themes."
+msgstr "الفنون الجميلة وورد المواضيع."
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/support/templates/support_admin_details_hire_developer.template.php:10
+msgid "WordPress Professionals and theme developers."
+msgstr "المهنيين والمطورين وورد موضوع."
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/support/templates/support_admin_details_recommended_plugins.template.php:3
+msgid "Exclude Pages from Navigation"
+msgstr "استبعاد صفحات من الملاحة"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/support/templates/support_admin_details_recommended_plugins.template.php:8
+msgid "Gravity Forms"
+msgstr "أشكال الجاذبية"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/transactions/EE_Admin_Transactions_List_Table.class.php:61
+msgid "transactions"
+msgstr "المعاملات"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/transactions/Transactions_Admin_Page.core.php:79
+msgid "Add New Transaction"
+msgstr "إضافة عملية جديدة"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/transactions/Transactions_Admin_Page.core.php:80
+msgid "Edit Transaction"
+msgstr "تحرير عملية"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/transactions/Transactions_Admin_Page.core.php:81
+msgid "Delete Transaction"
+msgstr "حذف عملية"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/transactions/Transactions_Admin_Page.core.php:259
+msgid "An error occured! Please refresh the page and try again."
+msgstr "حدث خطأ! يرجى تحديث الصفحة وحاول مرة أخرى."
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/transactions/Transactions_Admin_Page.core.php:357
+msgid "An error occured and the details for Transaction ID #"
+msgstr "حدث خطأ والتفاصيل لمعرف عملية #"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/transactions/Transactions_Admin_Page.core.php:357
+msgid " could not be retreived."
+msgstr "لا يمكن استردادها."
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/transactions/Transactions_Admin_Page.core.php:377
+msgid "Download Invoice for Transaction."
+msgstr "تحميل فاتورة للعملية."
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:101
+msgid "Notes / Extra&nbsp;Accounting"
+msgstr "الملاحظات / المحاسبة اضافية"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/EE_message_type.core.php:473
+msgid "Hey %s hasnt declared a handler for the incoming data, so Im stuck"
+msgstr "مهلا%و لم تعلن معالج للبيانات واردة، حتى ايم عالقة"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/EE_message_type.core.php:484
+msgid "uhoh, Something went wrong and no data handler is found"
+msgstr "أه أوه، حدث خطأ ما ويتم العثور على أي معالج البيانات"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/EE_messages.core.php:183
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/EE_messages.core.php:230
+msgid "Message type: %s does not exist"
+msgstr "نوع الرسالة:%s لا وجود لها"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/EE_messages.core.php:225
+msgid "Messenger: %s does not exist"
+msgstr "رسول:%s لا وجود لها"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/EE_messages.core.php:318
+msgid "Something went wrong with creating a new template"
+msgstr "ذهب شيء خاطئ مع إنشاء قالب جديد"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/EE_messages.core.php:353
+msgid "Something went wrong and we couldnt get any templates assembled"
+msgstr "ذهب شيء خاطئ، ونحن لا يمكن أن تحصل على أي قوالب تجميعها"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/EE_messages_init.core.php:140
+msgid "Something went wrong because were missing the registration ID"
+msgstr "ذهب شيء خاطئ لأننا في عداد المفقودين معرف تسجيل"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/EE_messages_init.core.php:151
+msgid "The registration confirmation has been sent"
+msgstr "تم إرسال تأكيد التسجيل"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/EE_messages_init.core.php:153
+msgid "Something went wrong and the registration confirmation was NOT resent"
+msgstr "ذهب شيئا خاطئا وكان تأكيد التسجيل غير موجود"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/EE_messages_init.core.php:184
+msgid "The payment confirmation has been sent"
+msgstr "تم إرسال تأكيد الدفع"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/EE_messages_init.core.php:186
+msgid "Something went wrong and the payment confirmation was NOT resent"
+msgstr "ذهب شيئا خاطئا وكان على تأكيد الدفع غير موجود"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/EE_messenger.core.php:449
+msgid "Global Templates"
+msgstr "قوالب العالمية"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/EE_messenger.core.php:471
+msgid "Switch to Custom Templates"
+msgstr "التحول إلى قوالب مخصص"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/EE_messenger.core.php:471
+msgid "Switch to Global Templates"
+msgstr "التحول إلى قوالب عمومية"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/EE_messenger.core.php:504
+msgid "Click to Edit"
+msgstr "انقر لتحرير"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/message_type/EE_Payment_message_type.class.php:39
+msgid "payment"
+msgstr "دفع"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/message_type/EE_Payment_message_type.class.php:40
+msgid "payments"
+msgstr "المدفوعات"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/message_type/EE_Payment_message_type.class.php:116
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/message_type/EE_Payment_Reminder_message_type.class.php:116
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/message_type/EE_Registration_message_type.class.php:173
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/message_type/EE_Resend_Registration_message_type.class.php:132
+msgid "recipient"
+msgstr "مستلم"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/message_type/EE_Payment_message_type.class.php:117
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/message_type/EE_Payment_Reminder_message_type.class.php:117
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/message_type/EE_Registration_message_type.class.php:174
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/message_type/EE_Resend_Registration_message_type.class.php:133
+msgid "recipients"
+msgstr "المستلمين"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/message_type/EE_Resend_Registration_message_type.class.php:37
+msgid "resend registration"
+msgstr "إعادة تسجيل"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/message_type/EE_Resend_Registration_message_type.class.php:38
+msgid "resend registrations"
+msgstr "إعادة إرسال التسجيلات"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/messenger/EE_Email_messenger.class.php:53
+msgid "emails"
+msgstr "رسائل البريد الإلكتروني"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/messenger/EE_Email_messenger.class.php:185
+msgid "Test email sent from %s"
+msgstr "اختبار البريد الإلكتروني المرسلة من%s"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/messenger/EE_Email_messenger.class.php:217
+msgid "From"
+msgstr "من"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/messages/messenger/EE_Email_messenger.class.php:226
+msgid "Subject"
+msgstr "موضوع"
+
+#: ../../../plugins/event-espresso.3.2/includes/functions/main.php:338
+msgid "Registration Open"
+msgstr "تسجيل المفتوح"
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Base.model.php:246
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Base.model.php:295
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Base.model.php:354
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Base.model.php:397
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Base.model.php:461
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Base.model.php:524
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Base.model.php:799
+msgid "No table has been specified."
+msgstr "لم يتم تحديد الجدول."
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Base.model.php:404
+msgid "No column name has been specified for the SELECT clause."
+msgstr "لم يتم تحديد اسم العمود لجملة SELECT."
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Base.model.php:589
+msgid "The insert can not be performed because of missing data."
+msgstr "إدراج لا يمكن أن يؤديها بسبب البيانات المفقودة."
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Base.model.php:614
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Base.model.php:707
+msgid "The table column %s does not exist."
+msgstr "عدم وجود عمود الجدول%s."
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Base.model.php:632
+msgid "%s  details have been successfully saved to the database."
+msgstr "تم حفظ التفاصيل%s بنجاح إلى قاعدة البيانات."
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Base.model.php:638
+msgid "Details for %d %s have been successfully saved to the database."
+msgstr "تم حفظ التفاصيل ل%d%و بنجاح إلى قاعدة البيانات."
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Base.model.php:643
+msgid "An error occured and the %s has not been saved to the database."
+msgstr "حدث خطأ ولم يتم حفظ هذه إلى قاعدة البيانات."
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Base.model.php:677
+msgid "The update can not be performed because of missing data."
+msgstr "التحديث لا يمكن أن يؤديها بسبب البيانات المفقودة."
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Base.model.php:721
+msgid "The table column %s used in the WHERE clause, does not exist."
+msgstr "أعمدة الجدول المستخدمة في جملة WHERE، لا وجود لها."
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Base.model.php:737
+msgid "%s details have been successfully updated."
+msgstr "تم تحديث التفاصيل%s بنجاح."
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Base.model.php:742
+msgid "Details for %d %s have been successfully updated."
+msgstr "تم تحديث التفاصيل ل%d%s بنجاح."
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Base.model.php:768
+msgid "The following error occured and the record was not updated : "
+msgstr "حدث الخطأ التالي ولم يتم تحديث السجل:"
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Base.model.php:850
+msgid "No column name was provided for the WHERE clause."
+msgstr "لم تقدم أي اسم العمود لجملة WHERE."
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Base.model.php:857
+msgid "The table data types array is missing."
+msgstr "الجدول أنواع البيانات مجموعة مفقود."
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Datetime.model.php:56
+msgid "Datetime"
+msgstr "التاريخ والوقت"
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Datetime.model.php:111
+msgid "No Event datetimes could be retreived because no event ID was received."
+msgstr "يمكن استرجاع أي datetimes حدث لأنه كان يتلق أي معرف الحدث."
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Event.model.php:285
+msgid "An error occured. No Question Group IDs were received."
+msgstr "حدث خطأ. لم ترد أية معرفات السؤال المجموعة."
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Event.model.php:315
+msgid "An error occured. No Question IDs were received."
+msgstr "حدث خطأ. لم ترد أية معرفات السؤال."
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Gateways.model.php:246
+msgid "The file : %s could not be located in : %s"
+msgstr "ملف:%s لا يمكن أن يكون موجودا في:%s"
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Gateways.model.php:257
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Gateways.model.php:731
+msgid "The file : %s could not be located in either : %s or %s"
+msgstr "ملف:%s لا يمكن أن يكون موجودا في أي:%s أو ل%s"
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Gateways.model.php:785
+msgid "payment method"
+msgstr "طريقة الدفع"
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Question.model.php:66
+msgid "Question ID"
+msgstr "رقم السؤال"
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Question.model.php:67
+msgid "Question Text"
+msgstr "نص السؤال"
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Question.model.php:69
+msgid "System ID"
+msgstr "معرف النظام"
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Question.model.php:70
+msgid "Question Type"
+msgstr "السؤال نوع"
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Question.model.php:74
+msgid "For Admins Only"
+msgstr "للمشرفين فقط"
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Question_Group.model.php:49
+msgid "Question Group"
+msgstr "السؤال المجموعة"
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Question_Option.model.php:49
+msgid "Question Option"
+msgstr "سؤال الخيار"
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Question_Option.model.php:50
+msgid "Question Options"
+msgstr "خيارات السؤال"
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_TempBase.model.php:137
+msgid "There is no field/column %s on %s"
+msgstr "ليس هناك مجال / عمود%s على%s"
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_TempBase.model.php:238
+msgid "Class %s has no field of type %s set in its fieldsSettings"
+msgstr "الطبقة%s ليس لها مجال مجموعة اكتب%و في إعدادات مجالها"
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_TempBase.model.php:476
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_TempBase.model.php:572
+msgid "Relationship of type %s is not allowed"
+msgstr "غير مسموح علاقة اكتب%s"
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_TempBase.model.php:728
+msgid "%s is neither an object of type %s, nor an ID!"
+msgstr "%و ليس كائن من نوع%ث، ولا هوية!"
+
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_TempBase.model.php:1115
+msgid "A modelReation of type %s is not valid"
+msgstr "A modelReation من النوع%s غير صالحة"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Attendee_List_Shortcodes.lib.php:42
+msgid "Attendee List Shortcodes"
+msgstr "قائمة المتقدم الشفرة القصيرة"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Attendee_List_Shortcodes.lib.php:43
+msgid "All shortcodes specific to attendee lists"
+msgstr "جميع الشفرة القصيرة محددة لقوائم المتقدم"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Attendee_Shortcodes.lib.php:42
+msgid "Attendee Shortcodes"
+msgstr "المتقدم الشفرة القصيرة"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Attendee_Shortcodes.lib.php:43
+msgid "All shortcodes specific to attendee related data"
+msgstr "جميع الشفرة القصيرة الخاصة المتقدم البيانات ذات الصلة"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Attendee_Shortcodes.lib.php:45
+msgid "First Name of an attendee"
+msgstr "الاسم الأول من أحد المتقدم"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Attendee_Shortcodes.lib.php:46
+msgid "Last Name of an attendee"
+msgstr "اسم آخر من أحد المتقدم"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Email_Shortcodes.lib.php:42
+msgid "Email Shortcodes"
+msgstr "الشفرة القصيرة البريد الإلكتروني"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Email_Shortcodes.lib.php:43
+msgid "All shortcodes related to emails"
+msgstr "جميع الشفرة القصيرة المتصلة رسائل البريد الإلكتروني"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Email_Shortcodes.lib.php:146
+msgid "The admin details could not be retrieved from the database."
+msgstr "لا يمكن استرجاع تفاصيل مشرف من قاعدة البيانات."
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Email_Shortcodes.lib.php:147
+msgid "Query: %s"
+msgstr "الاستعلام:%s"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Email_Shortcodes.lib.php:148
+msgid "Events Data: %s"
+msgstr "الأحداث البيانات:%s"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Email_Shortcodes.lib.php:149
+msgid "Event IDS: %s"
+msgstr "IDS الحدث:%s"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Email_Shortcodes.lib.php:150
+msgid "Query Results: %s"
+msgstr "نتائج الاستعلام:%s"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Event_List_Shortcodes.lib.php:42
+msgid "Event List Shortcodes"
+msgstr "الحدث قائمة الشفرة القصيرة"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Event_List_Shortcodes.lib.php:43
+msgid "All shortcodes specific to event lists"
+msgstr "جميع الشفرة القصيرة إلى قوائم محددة الحدث"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Event_Meta_Shortcodes.lib.php:42
+msgid "Event Meta Shortcodes"
+msgstr "الحدث ميتا الشفرة القصيرة"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Event_Meta_Shortcodes.lib.php:43
+msgid "All shortcodes related to Event Meta data"
+msgstr "جميع الشفرة القصيرة المتصلة حدث الفوقية"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Event_Shortcodes.lib.php:42
+msgid "Event Shortcodes"
+msgstr "الحدث الشفرة القصيرة"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Event_Shortcodes.lib.php:43
+msgid "All shortcodes specific to event related data"
+msgstr "جميع الشفرة القصيرة المحددة لبيانات الحدث المتعلقة"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Event_Shortcodes.lib.php:45
+msgid "Will be replaced by the event ID of an event"
+msgstr "سيتم استبدال معرف الحدث من حدث"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Event_Shortcodes.lib.php:46
+msgid "Will be replaced with the event identifier of an event"
+msgstr "سيتم استبدال مع معرف الحدث من حدث"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Event_Shortcodes.lib.php:49
+msgid "The description of the event"
+msgstr "وصف الحدث"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Event_Shortcodes.lib.php:51
+msgid "A link associated with the event"
+msgstr "ارتباط المرتبطة مع الحدث"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Event_Shortcodes.lib.php:52
+msgid "A link to the event set up on the host site."
+msgstr "تعيين ارتباط إلى الحدث على هذا الموقع المضيف."
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Event_Shortcodes.lib.php:55
+msgid "This is the date the event starts"
+msgstr "هذا هو التاريخ الذي يبدأ الحدث"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Event_Shortcodes.lib.php:56
+msgid "This is the event start time"
+msgstr "هذا هو وقت بدء الحدث"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Event_Shortcodes.lib.php:57
+msgid "This is the event end date"
+msgstr "هذا هو تاريخ نهاية الحدث"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Event_Shortcodes.lib.php:58
+msgid "This is the event end time"
+msgstr "هذه هي المرة نهاية الحدث"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Event_Shortcodes.lib.php:59
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Transaction_Shortcodes.lib.php:47
+msgid "The price of the given event"
+msgstr "سعر حدث معين"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Organization_Shortcodes.lib.php:42
+msgid "Organization Shortcodes"
+msgstr "منظمة الشفرة القصيرة"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Organization_Shortcodes.lib.php:43
+msgid "All shortcodes specific to organization related data"
+msgstr "جميع الشفرة القصيرة محددة لبيانات منظمة ذات صلة"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Organization_Shortcodes.lib.php:45
+msgid "Event organization name"
+msgstr "الحدث اسم المؤسسة"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Organization_Shortcodes.lib.php:46
+msgid "Address 1 value for the organization"
+msgstr "1 معالجة قيمة للمنظمة"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Organization_Shortcodes.lib.php:47
+msgid "Address 2 value for the organization"
+msgstr "2 معالجة قيمة للمنظمة"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Organization_Shortcodes.lib.php:48
+msgid "City the organization is in"
+msgstr "المدينة المنظمة في"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Organization_Shortcodes.lib.php:49
+msgid "State the organization is located in"
+msgstr "دولة تقع في المنظمة"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Organization_Shortcodes.lib.php:50
+msgid "The zip code for the organization"
+msgstr "الرمز البريدي لتنظيم"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Organization_Shortcodes.lib.php:51
+msgid "The logo for the organization"
+msgstr "شعار للمنظمة"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Organization_Shortcodes.lib.php:52
+msgid "Just the link to the image used as the logo for the organization"
+msgstr "مجرد الارتباط إلى الصورة المستخدمة كشعار للمنظمة"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Questions_Answers_Shortcodes.lib.php:42
+msgid "Questions and Answers Shortcodes"
+msgstr "أسئلة وأجوبة الشفرة القصيرة"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Questions_Answers_Shortcodes.lib.php:43
+msgid "All shortcodes related to custom questions and answers"
+msgstr "جميع الشفرة القصيرة المتعلقة الأسئلة والأجوبة مخصصة"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Registration_Shortcodes.lib.php:40
+msgid "Registration Shortcodes"
+msgstr "تسجيل الشفرة القصيرة"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Registration_Shortcodes.lib.php:41
+msgid "All shortcodes specific to registration related data"
+msgstr "جميع الشفرة القصيرة المحددة لتسجيل البيانات المتعلقة"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Shortcodes.lib.php:182
+msgid "Expecting an array for the data sent to %s"
+msgstr "تتوقع مجموعة للبيانات المرسلة إلى%s"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Shortcodes.lib.php:192
+msgid "The incoming data does not have the required data index in its array"
+msgstr "لا تملك البيانات الواردة مؤشر البيانات المطلوبة في مجموعتها"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Transaction_Shortcodes.lib.php:41
+msgid "All shortcodes specific to transaction related data"
+msgstr "جميع الشفرة القصيرة المحددة لبيانات المعاملات المتعلقة"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Transaction_Shortcodes.lib.php:43
+msgid "The transaction id for the purchase."
+msgstr "هوية الصفقة لشراء."
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Transaction_Shortcodes.lib.php:44
+msgid "This is a link to make a payment for the event"
+msgstr "هذا هو الرابط لتسديد دفعة لهذا الحدث"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Transaction_Shortcodes.lib.php:45
+msgid "This is a link to the invoice"
+msgstr "هذا هو الرابط على الفاتورة"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Transaction_Shortcodes.lib.php:46
+msgid "The total cost for the registration"
+msgstr "التكلفة الإجمالية للتسجيل"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Transaction_Shortcodes.lib.php:48
+msgid "The payment status for the transaction"
+msgstr "حالة السداد لهذه الصفقة"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Transaction_Shortcodes.lib.php:49
+msgid "The payment gateway used for the transaction"
+msgstr "بوابة الدفع المستخدمة في المعاملات"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Transaction_Shortcodes.lib.php:50
+msgid "The amount paid with a payment"
+msgstr "المبلغ المدفوع مع دفع"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Transaction_Shortcodes.lib.php:51
+msgid "The total oweing on a transaction"
+msgstr "مجموع بسبب على الصفقة"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Venue_Shortcodes.lib.php:43
+msgid "All shortcodes specific to venue related data"
+msgstr "جميع الشفرة القصيرة محددة بالنسبة للملاعب البيانات ذات الصلة"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Venue_Shortcodes.lib.php:45
+msgid "The title for the event venue"
+msgstr "عنوان لمكان الحدث"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Venue_Shortcodes.lib.php:46
+msgid "A url to a webpage for the venue"
+msgstr "ورابط إلى صفحة ويب للمكان"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Venue_Shortcodes.lib.php:47
+msgid "An image representing the event venue"
+msgstr "صورة تمثل مكان الحدث"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Venue_Shortcodes.lib.php:48
+msgid "The phone number for the venue"
+msgstr "رقم الهاتف للمكان"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Venue_Shortcodes.lib.php:49
+msgid "The address for the venue"
+msgstr "عنوان المكان"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Venue_Shortcodes.lib.php:50
+msgid "Address 2 for the venue"
+msgstr "عنوان 2 للمكان"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Venue_Shortcodes.lib.php:51
+msgid "The city the venue is in"
+msgstr "المدينة مكان هو في"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Venue_Shortcodes.lib.php:52
+msgid "The state the venue is located in"
+msgstr "الدولة يقع في مكان"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Venue_Shortcodes.lib.php:53
+msgid "The country the venue is located in"
+msgstr "البلد يقع في مكان"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Venue_Shortcodes.lib.php:54
+msgid "The zip code for the venue address"
+msgstr "الرمز البريدي لعنوان المكان"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Venue_Shortcodes.lib.php:55
+msgid "Link to a google map for the venue"
+msgstr "رابط لخريطة جوجل لمكان"
+
+#: ../../../plugins/event-espresso.3.2/libraries/shortcodes/EE_Venue_Shortcodes.lib.php:56
+msgid "Google map for venue wrapped in image tags"
+msgstr "خريطة جوجل لمكان ملفوفة في العلامات صورة"
+
+#: ../../../plugins/event-espresso.3.2/templates/payment_overview.template.php:28
+msgid "No payment have yet been made toward this registration."
+msgstr "لم يتم حتى الآن إحراز أي دفع باتجاه هذا التسجيل."
+
+#: ../../../plugins/event-espresso.3.2/templates/payment_overview.template.php:53
+msgid "Payment Amount: "
+msgstr "دفع المبلغ:"
+
+#: ../../../plugins/event-espresso.3.2/templates/payment_overview.template.php:61
+msgid "Payment Status: "
+msgstr "الحالة الدفع:"
+
+#: ../../../plugins/event-espresso.3.2/templates/payment_overview.template.php:90
+msgid "Try Another Payment Method"
+msgstr "حاول أسلوب آخر الدفع"
+
+#: ../../../plugins/event-espresso.3.1/gateways/anz/settings.php:64
+msgid "Deactivate ANZ IPN."
+msgstr "إلغاء ANZ IPN."
+
+#: ../../../plugins/event-espresso.3.1/gateways/qbms/settings.php:154
+msgid "How to Configure QuickBooks Merchant Services Payment Gateway"
+msgstr "كيفية تكوين قراء بوابة الدفع الخدمات التجارية"
+
+#: ../../../plugins/event-espresso.3.2/helpers/EE_Tabbed_Content.helper.php:176
+msgid "Link for Item"
+msgstr "رابط القطعة ل"
+
+#: ../../../plugins/event-espresso.3.2/helpers/EE_Template.helper.php:112
+msgid "click for help"
+msgstr "انقر للحصول على المساعدة"
+
+#: ../../../plugins/event-espresso.3.2/helpers/EE_MSG_Template.helper.php:56
+msgid "We need at least one message type to generate templates!"
+msgstr "نحن بحاجة إلى نوع رسالة واحدة على الأقل لتوليد القوالب!"
+
+#: ../../../plugins/event-espresso.3.2/helpers/EE_Form_Fields.helper.php:65
+msgid "missing required variables for the form field generator"
+msgstr "في عداد المفقودين المتغيرات المطلوبة لمولد حقل النموذج"
+
+#: ../../../plugins/event-espresso.3.1/includes/admin_support.php:102
+msgid "Event Marketing Resources"
+msgstr "الحدث التسويق الموارد"
+
+#: ../../../plugins/event-espresso.3.1/gateways/qbms/settings.php:27
+msgid "Payments by QuickBooks Merchant Services"
+msgstr "المدفوعات من قبل قراء الخدمات التجارية"
+
+#: ../../../plugins/event-espresso.3.1/gateways/qbms/settings.php:16
+msgid "qbms settings saved."
+msgstr "إعدادات qbms المحفوظة."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Base_Class.class.php:130
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Base_Class.class.php:390
+msgid "You have requested a field named %s on model %s"
+msgstr "كنت قد طلبت حقل يسمى%s على نموذج%s"
+
+msgid "No notes were supplied."
+msgstr "تم تزويد أية ملاحظات."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Attendee.class.php:509
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Price.class.php:448
+msgid "No deleted boolean flag was supplied."
+msgstr "تم تزويد حذف أي إشارة منطقية."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Attendee.class.php:425
+msgid "No phone number was supplied."
+msgstr "تم توفير رقم هاتف."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Attendee.class.php:383
+msgid "No zip/postal code was supplied."
+msgstr "تم توفير أية الرمز البريدي / الرمز البريدي."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Attendee.class.php:404
+msgid "No email address was supplied."
+msgstr "تم توفير أي عنوان البريد الإلكتروني."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Attendee.class.php:362
+msgid "No country ISO code was supplied."
+msgstr "تم توفير أي رمز البلد ISO."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Attendee.class.php:257
+msgid "No last name was supplied."
+msgstr "تم توفير أي اسم آخر."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Attendee.class.php:278
+msgid "No address was supplied."
+msgstr "تم توفير أي عنوان."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Attendee.class.php:299
+msgid "No second address was supplied."
+msgstr "تم توفير أي عنوان الثاني."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Attendee.class.php:320
+msgid "No city was supplied."
+msgstr "تم توفير أية مدينة."
+
+#: ../../../plugins/event-espresso.3.2/helpers/EE_Template_Validator.helper.php:142
+msgid "Variable %s should be an array, but it is not."
+msgstr "يجب أن تكون المتغيرات صفيف، لكنها ليست كذلك."
+
+#: ../../../plugins/event-espresso.3.2/helpers/EE_Template_Validator.helper.php:143
+msgid "Its value is, instead %s"
+msgstr "قيمته هو، بدلا%s"
+
+#: ../../../plugins/event-espresso.3.2/helpers/EE_Template_Validator.helper.php:165
+msgid "Malconfigured template."
+msgstr "قالب تكوينها."
+
+#: ../../../plugins/event-espresso.3.2/helpers/EE_Template_Validator.helper.php:166
+msgid "Variable named %s was set to %s. It can only be one of %s"
+msgstr "تم تعيين متغير اسمه%s إلى%s. يمكن أن تكون واحدة من ليالي%فقط"
+
+#: ../../../plugins/event-espresso.3.2/helpers/EE_Template_Validator.helper.php:97
+msgid "%s evaluated to false, but it must be true!"
+msgstr "%و تقييم إلى false، لكنه يجب أن يكون صحيحا!"
+
+#: ../../../plugins/event-espresso.3.2/helpers/EE_Template_Validator.helper.php:96
+msgid "Template error."
+msgstr "الخطأ القالب."
+
+#: ../../../plugins/event-espresso.3.2/helpers/EE_Template_Validator.helper.php:80
+msgid "Consider looking at the stack trace to see why it wasnt set."
+msgstr "النظر في النظر في تتبع المكدس لمعرفة لماذا لم يتم تعيين ذلك."
+
+#: ../../../plugins/event-espresso.3.2/helpers/EE_Template_Validator.helper.php:79
+msgid "Variable named %s is null."
+msgstr "متغير اسمه%s هو باطل."
+
+#: ../../../plugins/event-espresso.3.1/gateways/anz/settings.php:151
+msgid "ANZ eGate Credentials"
+msgstr "وثائق التفويض ANZ البوابة الإلكترونية"
+
+#: ../../../plugins/event-espresso.3.1/gateways/anz/settings.php:106
+msgid "Secure Secret"
+msgstr "آمنة السرية"
+
+#: ../../../plugins/event-espresso.3.1/gateways/anz/settings.php:67
+msgid "Activate ANZ IPN."
+msgstr "تفعيل ANZ IPN."
+
+#: ../../../plugins/event-espresso.3.1/gateways/anz/settings.php:93
+#: ../../../plugins/event-espresso.3.1/gateways/anz/settings.php:102
+#: ../../../plugins/event-espresso.3.1/gateways/anz/settings.php:111
+msgid "Eg, 1234567"
+msgstr "على سبيل المثال، 1234567"
+
+#: ../../../plugins/event-espresso.3.1/gateways/anz/settings.php:12
+msgid "ANZ settings saved."
+msgstr "إعدادات ANZ المحفوظة."
+
+#: ../../../plugins/event-espresso.3.1/gateways/anz/settings.php:49
+msgid "ANZ Settings"
+msgstr "إعدادات ANZ"
+
+#: ../../../plugins/event-espresso.3.1/gateways/anz/anz_ipn.php:103
+msgid "Payment Error Occured"
+msgstr "دفع حدث خطأ"
+
+#: ../../../plugins/event-espresso.3.1/gateways/anz/anz_vars.php:38
+msgid "Purchase with ANZ"
+msgstr "شراء مع ANZ"
+
+#: ../../../plugins/event-espresso.3.1/gateways/qbms/settings.php:152
+msgid "QuickBooks Merchant Services Connection Ticket"
+msgstr "قراء الخدمات التجارية التذاكر اتصال"
+
+#: ../../../plugins/event-espresso.3.1/includes/admin_support.php:764
+msgid "Why are mails are not being sent when someone registers."
+msgstr "لماذا لا يتم إرسال رسائل عندما يسجل شخص ما."
+
+#: ../../../plugins/event-espresso.3.1/gateways/qbms/settings.php:99
+msgid "QuickBooks Connection Ticket"
+msgstr "قراء التذاكر اتصال"
+
+#: ../../../plugins/event-espresso.3.1/gateways/qbms/settings.php:73
+msgid "Activate QuickBooks Merchant Services Payment Method."
+msgstr "تفعيل قراء طرق الدفع الخدمات التجارية."
+
+#: ../../../plugins/event-espresso.3.1/gateways/quickpay/settings.php:149
+msgid "On"
+msgstr "في"
+
+#: ../../../plugins/event-espresso.3.1/gateways/qbms/settings.php:174
+msgid "All done! Now just test that payments are working, and youre done!"
+msgstr "كل ذلك! الآن اختبار فقط أن المدفوعات تعمل، والانتهاء من ذلك!"
+
+#: ../../../plugins/event-espresso.3.1/gateways/qbms/settings.php:160
+msgid "First signup for a %s Merchant Services Account here %s"
+msgstr "الاشتراك أول ليالي%التاجر خدمات الحساب هنا %s"
+
+#: ../../../plugins/event-espresso.3.1/gateways/qbms/settings.php:70
+msgid "Deactivate QuickBooks Merchant Services Payment Method."
+msgstr "إلغاء قراء الطريقة الخدمات التجارية الدفع."
+
+#: ../../../plugins/event-espresso.3.1/gateways/qbms/settings.php:55
+msgid "QuickBooks Mechant Services Settings"
+msgstr "قراء الخدمات التجارية إعدادات"
+
+#: ../../../plugins/event-espresso.3.1/includes/admin_support.php:120
+msgid "Add a Merketing Resource"
+msgstr "إضافة موارد التسويق"
+
+#: ../../../plugins/event-espresso.3.1/includes/admin-files/misc_functions.php:132
+msgid "Opt-out now."
+msgstr "الانسحاب الآن."
+
+#: ../../../plugins/event-espresso.3.2/helpers/EE_Tabbed_Content.helper.php:102
+msgid "Nav Tabs cannot be generated because the tab array is missing"
+msgstr "لا يمكن أن تتولد الملاحة علامات التبويب لمجموعة مفقود"
+
+#: ../../../plugins/event-espresso.3.2/helpers/EE_Tabbed_Content.helper.php:173
+#: ../../../plugins/event-espresso.3.2/includes/models/EEM_Base.model.php:44
+msgid "Item"
+msgstr "بند"
+
+#: ../../../plugins/event-espresso.3.2/helpers/EE_Form_Fields.helper.php:78
+msgid "No label"
+msgstr "لم تسمية"
+
+#: ../../../plugins/event-espresso.3.2/helpers/EE_MSG_Template.helper.php:51
+msgid "We need a messenger to generate templates!"
+msgstr "نحن بحاجة إلى رسول لتوليد القوالب!"
+
+#: ../../../plugins/event-espresso.3.2/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:155
+msgid "Please Note"
+msgstr "لاحظ من فضلك"
+
+#: ../../../plugins/event-espresso.3.1/includes/admin-reports/enter_attendee_payments.php:118
+msgid "Manual Website Payment"
+msgstr "دليل الموقع الدفع"
+
+#: ../../../plugins/event-espresso.3.1/includes/admin-files/admin_reports_filters.php:281
+msgid "rows from the Database at a time"
+msgstr "الصفوف من قاعدة بيانات في وقت واحد"
+
+#: ../../../plugins/event-espresso.3.1/includes/event-management/update_event.php:14
+msgid "Sorry, there was a security error and your event was not updated."
+msgstr "آسف، لم يكن هناك خطأ والأمن لم يتم تحديث هذا الحدث الخاص بك."
+
+#: ../../../plugins/event-espresso.3.2/gateways/Invoice/lib/templates/invoice_body.template.php:149
+msgid "Amount Owed"
+msgstr "المبلغ المستحق"
+
+#: ../../../plugins/event-espresso.3.1/includes/functions/admin_menu.php:94
+#: ../../../plugins/espresso-infusionsoft/index.php:267
+msgid "Infusionsoft Settings"
+msgstr "إعدادات Infusionsoft"
+
+#: ../../../plugins/event-espresso.3.1/includes/functions/admin_menu.php:94
+msgid "Event Espresso - Infusionsoft Settings"
+msgstr "احداث اسبرسو - إعدادات Infusionsoft"
+
+#: ../../../plugins/event-espresso.3.2/gateways/Invoice/lib/templates/invoice_body.template.php:113
+msgid "P.O. / S.O.#"
+msgstr "ص ب / S.O. #"
+
+#: ../../../plugins/event-espresso.3.2/gateways/Invoice/lib/templates/invoice_body.template.php:95
+msgid "Sub Total"
+msgstr "إجمالي الفرعية"
+
+#: ../../../plugins/event-espresso.3.2/gateways/Invoice/lib/templates/invoice_body.template.php:67
+msgid "Purchases"
+msgstr "مشتريات"
+
+#: ../../../plugins/event-espresso.3.2/gateways/Invoice/EE_Invoice.class.php:152
+msgid "The following settings affect the functioning of the Invoice gateway."
+msgstr "الإعدادات التالية تؤثر على سير العمل في بوابة الفاتورة."
+
+#: ../../../plugins/event-espresso.3.2/gateways/Invoice/EE_Invoice.class.php:150
+msgid "Invoice Gateway Settings"
+msgstr "إعدادات فاتورة بوابة"
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Onsite_Gateway.class.php:172
+msgid "Billing information submitted successfully."
+msgstr "معلومات الفواتير المقدمة بنجاح."
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/caffeinated/pricing/Price_Types_List_Table.class.php:52
+msgid "price type"
+msgstr "نوع السعر"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/EE_Admin_Page.core.php:2052
+msgid "Save and Close"
+msgstr "حفظ وإغلاق"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/caffeinated/pricing/Price_Types_List_Table.class.php:118
+msgid "Move Price Type to Trash"
+msgstr "تحرك السعر نوع إلى المهملات"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/caffeinated/registration_form/Registration_Form_Admin_Page.core.php:95
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registration_form/Registration_Form_Admin_Page.core.php:95
+msgid "Add New Question Group"
+msgstr "إضافة سؤال جديد المجموعة"
+
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/caffeinated/registration_form/Registration_Form_Admin_Page.core.php:73
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/caffeinated/registration_form/Registration_Form_Admin_Page.core.php:89
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/caffeinated/registration_form/Registration_Form_Admin_Page_Init.core.php:37
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/caffeinated/registration_form/Registration_Form_Admin_Page_Init.core.php:51
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registration_form/Registration_Form_Admin_Page.core.php:73
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registration_form/Registration_Form_Admin_Page.core.php:89
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registration_form/Registration_Form_Admin_Page_Init.core.php:37
+#: ../../../plugins/event-espresso.3.2/includes/core/admin/registration_form/Registration_Form_Admin_Page_Init.core.php:51
+msgid "Registration Form"
+msgstr "استمارة التسجيل"
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Transaction.class.php:223
+msgid "No total or an invalid total was supplied."
+msgstr "تم توفير أي مجموع أو مجموع صالح."
+
+#: ../../../plugins/event-espresso.3.1/gateways/anz/anz_ipn.php:96
+msgid "Please try your payment again."
+msgstr "يرجى محاولة الدفع مرة أخرى."
+
+#: ../../../plugins/event-espresso.3.2/gateways/Invoice/lib/templates/invoice_body.template.php:136
+msgid "No approved payments have been received"
+msgstr "لم ترد المدفوعات المعتمدة"
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Attendee.class.php:446
+msgid "No social networking details were supplied."
+msgstr "تم تزويد أي تفاصيل الشبكات الاجتماعية."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Attendee.class.php:341
+msgid "No state ID was supplied."
+msgstr "تم توفير أي معرف الدولة."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Attendee.class.php:236
+msgid "No first name was supplied."
+msgstr "تم توفير أي اسم الأول."
+
+#: ../../../plugins/event-espresso.3.2/helpers/EE_Template_Validator.helper.php:118
+msgid "It should be of type %s"
+msgstr "ينبغي أن يكون من النوع%s"
+
+#: ../../../plugins/event-espresso.3.1/gateways/quickpay/settings.php:143
+msgid "Off"
+msgstr "بعيدا"
+
+#: ../../../plugins/event-espresso.3.1/gateways/anz/anz_ipn.php:95
+msgid "Response from ANZ:"
+msgstr "رد من ANZ:"
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Base_Class.class.php:242
+msgid "System is assigning imcompatible value %s to field %s"
+msgstr "النظام هو تعيين قيم تتعارض في الحقل%s"
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Base_Class.class.php:243
+msgid "Allowed values for %s are %s"
+msgstr "القيم المسموح بها ل%s هي%s"
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Base_Class.class.php:259
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Base_Class.class.php:323
+msgid "Internal Event Espresso error. Field %s on class %s is of type %s"
+msgstr "الخطأ حدث اسبرسو الداخلية. الحقول في الدرجة%و ​​هو من نوع%s"
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Cart.class.php:900
+msgid "An error occured. No cart properties were submitted for verification."
+msgstr "حدث خطأ. لم تقدم خصائص العربة للتحقق منها."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Cart.class.php:911
+msgid "An error occured. No cart or an invalid cart was specified."
+msgstr "حدث خطأ. تم تحديد أي عربة أو عربة غير صالحة."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Cart.class.php:920
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Cart.class.php:929
+msgid "An error occured. No item was specified."
+msgstr "حدث خطأ. تم تحديد أي بند."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Cart.class.php:951
+msgid "An error occured. Items passed to the cart must possess a valid %s."
+msgstr "حدث خطأ. يجب أن البنود التي تم تمريرها إلى العربة تمتلك صالحة%s."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Exceptions.class.php:155
+msgid "Sorry, but no trace information was available for this exception."
+msgstr "آسف، ولكن لا معلومات التتبع كانت متاحة لهذا الاستثناء."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Export.class.php:178
+msgid "We need an event_id to export events."
+msgstr "نحن بحاجة إلى event_id لتصدير الأحداث."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Export.class.php:187
+msgid "multiple-events"
+msgstr "الأحداث متعددة"
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Gateway.class.php:151
+msgid "%s payment settings initialized."
+msgstr "%s إعدادات تهيئة الدفع."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Gateway.class.php:154
+msgid "%s payment settings were not initialized."
+msgstr "لم تتم تهيئة إعدادات دفع%s."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Gateway.class.php:186
+msgid "%s payment settings updated."
+msgstr "%s إعدادات دفع تحديثها."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Gateway.class.php:189
+msgid "%s payment settings were not updated."
+msgstr "لم يتم تحديث إعدادات دفع%s."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Gateway.class.php:235
+msgid "Cannot get Return URL for gateway. Invalid registration"
+msgstr "لا يمكن الحصول على العائد URL للبوابة. تسجيل غير صالحة"
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Gateway.class.php:236
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Offsite_Gateway.class.php:28
+msgid "Registration being used is %s."
+msgstr "تسجيل المستخدمة هو%s."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Gateway.class.php:296
+msgid "Click to Activate"
+msgstr "انقر لتنشيط"
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Gateway.class.php:328
+msgid "Click here for more information about "
+msgstr "انقر هنا لمزيد من المعلومات حول"
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Gateway.class.php:330
+msgid "PCI DSS compliance"
+msgstr "الامتثال PCI DSS"
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Gateway.class.php:462
+msgid "The %s button URL was reset."
+msgstr "تم إعادة تعيين ليالي%URL الزر."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Gateway.class.php:465
+msgid "An error occured. The %s button URL was not reset."
+msgstr "حدث خطأ. كان ليالي%URL زر عدم إعادة تعيين."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Message_Template.class.php:227
+msgid "Missing required value for the message_type parameter"
+msgstr "مفقود القيمة المطلوبة للمعلمة message_type"
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Message_Template.class.php:236
+msgid "Missing required value for the messenger parameter"
+msgstr "مفقود القيمة المطلوبة للمعلمة رسول"
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Message_Template.class.php:245
+msgid "Missing required value for the message template group id"
+msgstr "مفقود القيمة المطلوبة للهوية المجموعة قالب رسالة"
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Message_Template.class.php:258
+msgid "Missing required values for the message template context"
+msgstr "في عداد المفقودين القيم المطلوبة للسياق قالب رسالة"
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Message_Template.class.php:422
+msgid "Messenger class loading fail."
+msgstr "فشل الطبقة رسول التحميل."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Message_Template.class.php:456
+msgid "Message Type class loading fail."
+msgstr "تفشل نوع الرسالة الطبقة التحميل."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Message_Template.class.php:624
+msgid "Shortcode library loading fail."
+msgstr "تفشل رمز قصير مكتبة التحميل."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Offline_Gateway.class.php:19
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Offsite_Gateway.class.php:55
+msgid " gateway selected."
+msgstr "اختيار العبارة."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Offsite_Gateway.class.php:27
+msgid "Cannot get Notify URL for gateway. Invalid registration"
+msgstr "لا يمكن الحصول على إخطار URL للبوابة. تسجيل غير صالحة"
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Payment.class.php:277
+msgid "No Status was supplied."
+msgstr "تم توفير أية حالة."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Payment.class.php:298
+msgid "No Timestamp was supplied."
+msgstr "تم توفير أية الطابع الزمني."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Payment.class.php:319
+msgid "No Payment Method was supplied."
+msgstr "تم توفير أية طريقة الدفع."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Payment.class.php:340
+msgid "No Payment Amount or an invalid Payment Amount was supplied."
+msgstr "تم توفير أي مبلغ دفع المبلغ أو الدفع غير صالحة."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Payment.class.php:364
+msgid "No Payment Gateway was supplied."
+msgstr "تم توفير بوابة الدفع لا."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Payment.class.php:385
+msgid "No Payment Gateway Response was supplied."
+msgstr "تم توفير أية استجابة بوابة الدفع."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Payment.class.php:406
+msgid "No Gateway Transaction ID or Cheque # was supplied."
+msgstr "تم توفير أي عبارة أو معرف عملية شيكات #."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Payment.class.php:426
+msgid "No Purchase Order Number info was supplied."
+msgstr "تم توفير أي معلومات أمر الشراء رقم."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Payment.class.php:447
+msgid "No Notes or Extra Accounting Field info was supplied."
+msgstr "تم توفير أية ملاحظات أو معلومات إضافية حقل المحاسبة."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Payment.class.php:468
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Payment.class.php:715
+msgid "Accepted"
+msgstr "قبلت"
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Payment.class.php:719
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Registration.class.php:891
+msgid "Cancelled"
+msgstr "ألغي"
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Price.class.php:236
+msgid "No price type was supplied."
+msgstr "تم توفير اي نوع السعر."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Price.class.php:257
+msgid "No amount was supplied."
+msgstr "تم توفير أي قدر."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Price.class.php:278
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Price_Type.class.php:153
+msgid "No name was supplied."
+msgstr "تم توفير أي اسم."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Price.class.php:299
+msgid "No description was supplied."
+msgstr "تم توفير لا يوجد وصف."
+
+#: ../../../plugins/event-espresso.3.2/includes/classes/EE_Price.class.php:320
+msgid "No registration limit was supplied."
+msgstr "تم توفير أي حد التسجيل."

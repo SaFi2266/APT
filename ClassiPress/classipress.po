@@ -1,0 +1,5297 @@
+# This file can be distributed under the ClassiPress terms
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ClassiPress 3.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-18 23:34+0100\n"
+"PO-Revision-Date: 2014-05-13 07:53+0300\n"
+"Last-Translator: SaFi <safi2266@gmail.com>\n"
+"Language-Team: AppThemes\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5\\n;\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_nx:1,2;_x:1,2c;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:1,2,3c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:22
+msgid "Whoops! Page Not Found."
+msgstr "يا الهي! الصفحة غير موجودة"
+
+#: 404.php:24
+#: attachment.php:19
+#, php-format
+msgid "Return to %s"
+msgstr "عودة إلى %s"
+
+#: attachment.php:20
+#, php-format
+msgid "&larr; Return to %s"
+msgstr "← العودة إلى٪ s"
+
+#: attachment.php:31
+#, php-format
+msgid "<span class=\"%1$s\">By</span> %2$s"
+msgstr "<span class=\"%1$s\">بواسطة</span> %2$s"
+
+#: attachment.php:35
+#, php-format
+msgid "View all ads by %s"
+msgstr "عرض جميع الإعلانات بواسطة٪ ليالي"
+
+#: attachment.php:44
+#, php-format
+msgid "<span class="%1$s">Uploaded</span> %2$s"
+msgstr ""
+
+#: attachment.php:55
+#, php-format
+msgid "Full size is %s pixels"
+msgstr "الحجم الكامل هو٪ s بكسل"
+
+#: attachment.php:58
+msgid "Link to full-size image"
+msgstr "الرابط إلى الصورة بالحجم الكامل"
+
+#: attachment.php:66 includes/theme-comments.php:36
+#: includes/admin/admin-post-types.php:30
+msgid "Edit"
+msgstr "تعديل"
+
+#: attachment.php:108
+msgid "&larr; prev"
+msgstr "← السابق"
+
+#: attachment.php:108
+msgid "next &rarr;"
+msgstr "→ القادم"
+
+#: author.php:30
+#, php-format
+msgid "About %s"
+msgstr "معلومات عن٪ ق"
+
+#: author.php:39 sidebar-ad.php:88 sidebar-user.php:48
+msgid "Member Since:"
+msgstr "عضو منذ:"
+
+#: author.php:40 tpl-profile.php:87
+msgid "Website:"
+msgstr "الموقع الإلكتروني:"
+
+#: author.php:41 footer.php:32 header.php:19 sidebar-user.php:67
+#: includes/theme-profile.php:19
+msgid "Twitter"
+msgstr "تغريد"
+
+#: author.php:42 header.php:15 sidebar-user.php:68
+#: includes/theme-profile.php:20
+msgid "Facebook"
+msgstr "الفيسبوك"
+
+#: author.php:49 single-ad_listing.php:116
+#: includes/admin/admin-options.php:873 includes/admin/admin-options.php:950
+#: includes/admin/admin-options.php:1459 includes/admin/admin-options.php:1756
+#: includes/admin/admin-post-types.php:208 includes/admin/admin-values.php:217
+#: includes/admin/admin-values.php:288
+msgid "Description"
+msgstr "وصف"
+
+#: author.php:62 author.php:71 includes/theme-actions.php:449
+#: includes/admin/admin-post-types.php:26
+#: includes/admin/admin-post-types.php:210
+#: includes/admin/admin-post-types.php:268
+msgid "Ads"
+msgstr "الإعلانات"
+
+#: author.php:63 author.php:85
+msgid "Posts"
+msgstr "المشاركات"
+
+#: author.php:71
+msgid "Latest items listed"
+msgstr "أحدث البنود المدرجة"
+
+#: author.php:85
+msgid "Recent blog posts"
+msgstr "بلوق وظائف الأخيرة"
+
+#: comments-ad_listing.php:11 comments-page.php:11 comments.php:11
+msgid "Please do not load this page directly."
+msgstr "الرجاء عدم تحميل هذه الصفحة مباشرة."
+
+#: comments-ad_listing.php:15 comments-page.php:15 comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "هذه الوظيفة هي كلمة السر المحمية. أدخل كلمة المرور لمشاهدة التعليقات."
+
+#: comments-ad_listing.php:33 comments-page.php:33 comments.php:33
+msgid "No Responses"
+msgstr "لا الردود"
+
+#: comments-ad_listing.php:33 comments-page.php:33 comments.php:33
+msgid "One Response"
+msgstr "رد واحد"
+
+#: comments-ad_listing.php:33 comments-page.php:33 comments.php:33
+msgid "% Responses"
+msgstr "٪ الردود"
+
+#: comments-ad_listing.php:33 comments-page.php:33 comments.php:33
+msgid "to"
+msgstr "إلى"
+
+#: comments-ad_listing.php:47 comments-page.php:47 comments.php:47
+msgid "Older Comments"
+msgstr "أقدم تعليقات"
+
+#: comments-ad_listing.php:49 comments-page.php:49 comments.php:49
+msgid "Newer Comments"
+msgstr "أحدث التعليقات"
+
+#: comments-ad_listing.php:63 comments-page.php:63 comments.php:63
+msgid "Trackbacks/Pingbacks"
+msgstr "تركبكس / pingbacks"
+
+#: featured.php:38 examples/classipress-child/tpl-featured-ads-home.php:27
+msgid "Featured Listings"
+msgstr "إعلانات مميزة"
+
+#: footer.php:29
+msgid "All Rights Reserved."
+msgstr "جميع الحقوق محفوظة."
+
+#: footer.php:36
+msgid "Classified Ads Software"
+msgstr "الإعلانات المبوبة البرامج"
+
+#: footer.php:36
+msgid "Powered by"
+msgstr "مدعوم من"
+
+#: header.php:12
+msgid "RSS Feed"
+msgstr "تغذيات RSS"
+
+#: header.php:72
+msgid "Post an Ad"
+msgstr "أضف اعلان"
+
+#: loop.php:40
+msgid "Continue reading &raquo;"
+msgstr "مواصلة القراءة &laquo;"
+
+#: order-checkout.php:16 order-summary.php:18
+#: includes/payments/admin/order-single.php:55
+msgid "Order Summary"
+msgstr "ملخص النظام"
+
+#: order-checkout.php:23
+msgid "Please select a method for processing your payment:"
+msgstr "الرجاء اختيار طريقة لمعالجة الدفع الخاص بك:"
+
+#: order-checkout.php:25
+msgid "Submit"
+msgstr "عرض"
+
+#: page.php:44
+msgid "Edit Page"
+msgstr "تحرير صفحة"
+
+#: page.php:64
+msgid "Sorry, no pages matched your criteria."
+msgstr "آسف، لا توجد صفحات مطابقة للمعايير الخاصة بك."
+
+#: search.php:3 includes/theme-functions.php:317
+#: includes/theme-functions.php:1848 includes/theme-searchbar.php:25
+#: includes/theme-widgets.php:109
+msgid "What are you looking for."
+msgstr "ما الذي تبحث عنه."
+
+#: search.php:26
+#, php-format
+msgid "Search for %s returned %s results"
+msgstr "البحث عن٪ و إرجاع نتائج٪ S"
+
+#: sidebar-ad.php:20
+msgid "Map"
+msgstr "خريطة"
+
+#: sidebar-ad.php:21
+msgid "Contact"
+msgstr "اتصل"
+
+#: sidebar-ad.php:22
+msgid "Poster"
+msgstr "الملصق"
+
+#: sidebar-ad.php:58
+msgid "You must be logged in to inquire about this ad."
+msgstr "يجب عليك أن تقوم بتسجيل الدخول للاستفسار عن هذا الإعلان."
+
+#: sidebar-ad.php:76
+msgid "Information about the ad poster"
+msgstr "معلومات عن ملصق إعلان"
+
+#: sidebar-ad.php:84
+msgid "Listed by:"
+msgstr "المعلن:"
+
+#: sidebar-ad.php:102
+msgid "Other items listed by"
+msgstr "غيرها من البنود المدرجة من قبل"
+
+#: sidebar-ad.php:120
+msgid "No other ads by this poster found."
+msgstr "العثور على أية إعلانات أخرى من قبل هذا الملصق."
+
+#: sidebar-ad.php:130
+msgid "Latest items listed by"
+msgstr "أحدث البنود المدرجة من قبل"
+
+#: sidebar-blog.php:10
+msgid "Popular"
+msgstr "شعبي"
+
+#: sidebar-blog.php:11 includes/sidebar-popular.php:46
+msgid "Comments"
+msgstr "تعليقات"
+
+#: sidebar-blog.php:12 includes/admin/admin-post-types.php:109
+msgid "Tags"
+msgstr "به"
+
+#: sidebar-page.php:14 sidebar.php:105
+msgid "BlogRoll"
+msgstr "المدونات"
+
+#: sidebar-page.php:32 sidebar.php:122
+msgid "Meta"
+msgstr "ميتا"
+
+#: sidebar-user.php:15
+msgid "User Options"
+msgstr "خيارات المستخدم"
+
+#: sidebar-user.php:22 includes/theme-functions.php:227
+msgid "My Dashboard"
+msgstr "لوحة بلدي"
+
+#: sidebar-user.php:23 sidebar.php:32 framework/kernel/view-edit-profile.php:8
+msgid "Edit Profile"
+msgstr "تعديل الملف الشخصي"
+
+#: sidebar-user.php:24
+msgid "WordPress Admin"
+msgstr "وورد الادارية"
+
+#: sidebar-user.php:25
+msgid "Log Out"
+msgstr "خروج"
+
+#: sidebar-user.php:42
+msgid "Account Information"
+msgstr "معلومات الحساب"
+
+#: sidebar-user.php:49
+msgid "Last Login:"
+msgstr "آخر تسجيل دخول:"
+
+#: sidebar-user.php:56 includes/forms/step3-membership.php:52
+msgid "Membership Pack:"
+msgstr "حزمة العضوية:"
+
+#: sidebar-user.php:57 includes/forms/step3-membership.php:53
+msgid "Membership Expires:"
+msgstr "عضوية تنتهي:"
+
+#: sidebar-user.php:58
+msgid "Renew or Extend Your Membership Pack"
+msgstr "تجديد أو توسيع حزمة العضوية الخاصة بك"
+
+#: sidebar-user.php:60 includes/forms/step1-membership.php:17
+msgid "Purchase a Membership Pack"
+msgstr "شراء حزمة العضوية"
+
+#: sidebar-user.php:84
+msgid "Account Statistics"
+msgstr "إحصائيات الحساب"
+
+#: sidebar-user.php:108
+msgid "Live Listings:"
+msgstr "يعيش القوائم:"
+
+#: sidebar-user.php:109
+msgid "Pending Listings:"
+msgstr "قوائم انتظار:"
+
+#: sidebar-user.php:110
+msgid "Offline Listings:"
+msgstr "قوائم حاليا:"
+
+#: sidebar-user.php:111
+msgid "Total Listings:"
+msgstr "مجموع القوائم:"
+
+#: sidebar.php:18
+msgid "Join Now!"
+msgstr "اشترك الآن!"
+
+#: sidebar.php:26
+msgid "Welcome back,"
+msgstr "نرحب مرة،"
+
+#: sidebar.php:27
+msgid "You last logged in at:"
+msgstr "آخر مرة قمت بتسجيل الدخول في:"
+
+#: sidebar.php:28
+msgid "Manage your ads or edit your profile from your personalized dashboard."
+msgstr "إدارة إعلاناتك أو تعديل ملفك الشخصي من لوحة أجهزة القياس الشخصية الخاصة بك."
+
+#: sidebar.php:32
+msgid "Manage Ads"
+msgstr "إدارة الإعلانات"
+
+#: sidebar.php:70
+msgid "Sub Categories"
+msgstr "التصنيفات الفرعية"
+
+#: single-ad_listing.php:17
+msgid "Post Was Reported"
+msgstr "وذكر آخر"
+
+#: single-ad_listing.php:19
+msgid "Report This Post"
+msgstr "تبليغ عن مشاركة"
+
+#: single-ad_listing.php:63
+msgid "This item has been sold"
+msgstr "وقد تم بيع هذا البند"
+
+#: single-ad_listing.php:71
+msgid "Listed:"
+msgstr "مدرج في القائمة:"
+
+#: single-ad_listing.php:73
+msgid "Expires:"
+msgstr "تنتهي:"
+
+#: taxonomy-ad_cat.php:23 taxonomy-ad_tag.php:23
+#, php-format
+msgid "%s RSS Feed"
+msgstr "٪ تغذيات"
+
+#: taxonomy-ad_cat.php:24
+msgid "Listings for"
+msgstr "قوائم لل"
+
+#: taxonomy-ad_tag.php:24
+msgid "Listings tagged with"
+msgstr "قوائم المفتاحية"
+
+#: tpl-ads-home.php:24 tpl-categories.php:24 includes/theme-widgets.php:22
+#: includes/admin/admin-post-types.php:58
+msgid "Ad Categories"
+msgstr "الإعلان الفئات"
+
+#: tpl-ads-home.php:44 tpl-ads-home.php:60
+msgid "Just Listed"
+msgstr "مجرد سرد"
+
+#: tpl-ads-home.php:45 tpl-ads-home.php:85
+msgid "Most Popular"
+msgstr "الأكثر شعبية"
+
+#: tpl-ads-home.php:46 tpl-ads-home.php:107
+msgid "Random"
+msgstr "عشوائية"
+
+#: tpl-ads-home.php:60 tpl-ads-home.php:85 tpl-ads-home.php:107
+msgid "Classified Ads"
+msgstr "الإعلانات المبوبة"
+
+#: tpl-ads-home.php:74 tpl-ads-home.php:94 tpl-ads-home.php:122
+msgid "View More Ads"
+msgstr "عرض المزيد من الإعلانات"
+
+#: tpl-dashboard.php:28
+#, php-format
+msgid "%ss Dashboard"
+msgstr "٪ SS لوحة"
+
+#: tpl-dashboard.php:43
+#: tpl-dashboard.php:49 includes/admin/admin-post-types.php:106
+msgid "Title"
+msgstr "لقب"
+
+#: tpl-dashboard.php:50
+msgid "Views"
+msgstr "المشاهدات"
+
+#: tpl-dashboard.php:51 includes/admin/admin-options.php:877
+#: includes/admin/admin-options.php:954 includes/admin/admin-options.php:1462
+#: includes/admin/admin-values.php:69
+#: includes/payments/admin/order-meta.php:147
+#: includes/payments/admin/order-single.php:137
+msgid "Status"
+msgstr "حالة"
+
+#: tpl-dashboard.php:52
+msgid "Options"
+msgstr "خيارات"
+
+#: tpl-dashboard.php:76
+msgid "Live Until"
+msgstr "من يحيا إلى حين"
+
+#: tpl-dashboard.php:79
+msgid "Pause Ad"
+msgstr "اعلان وقفة"
+
+#: tpl-dashboard.php:87
+msgid "Awaiting payment"
+msgstr "تنتظر السداد"
+
+#: tpl-dashboard.php:94
+msgid "Awaiting approval"
+msgstr "بانتظار الموافقة"
+
+#: tpl-dashboard.php:106
+msgid "Ended"
+msgstr "انتهت"
+
+#: tpl-dashboard.php:115
+msgid "Offline"
+msgstr "غير متصل"
+
+#: tpl-dashboard.php:118
+msgid "Restart ad"
+msgstr "إعادة إعلان"
+
+#: tpl-dashboard.php:160
+msgid "Pay now"
+msgstr "دفع الآن"
+
+#: tpl-dashboard.php:167
+msgid "Relist Ad"
+msgstr "اعادة تسجيلها الإعلان"
+
+#: tpl-dashboard.php:176 tpl-dashboard.php:177
+#: includes/theme-functions.php:2655 includes/admin/admin-post-types.php:31
+msgid "Edit Ad"
+msgstr "تعديل الإعلان"
+
+#: tpl-dashboard.php:181 tpl-dashboard.php:182 tpl-dashboard.php:200
+msgid "Delete Ad"
+msgstr "حذف الإعلان"
+
+#: tpl-dashboard.php:190
+msgid "Mark ad as sold"
+msgstr "علامة الإعلانية وبيعها"
+
+#: tpl-dashboard.php:190
+msgid "Mark Sold"
+msgstr "علامة مباع"
+
+#: tpl-dashboard.php:193
+msgid "Unmark ad as sold"
+msgstr "عدم تحديد الإعلان عن بيعها"
+
+#: tpl-dashboard.php:193
+msgid "Unmark Sold"
+msgstr "مباع عدم تحديد"
+
+#: tpl-dashboard.php:219
+msgid "You currently have no classified ads."
+msgstr "لديك حاليا أي إعلانات المبوبة."
+
+#: tpl-edit-item.php:35
+msgid "Edit Your Ad"
+msgstr "تعديل إعلانك"
+
+#: tpl-edit-item.php:39
+#: tpl-edit-item.php:93
+msgid "Images:"
+msgstr "الصور:"
+
+#: tpl-edit-item.php:93
+msgid "Sorry, image editing is not supported for this ad."
+msgstr "عذرا، لا يتم دعم تحرير الصور لهذا الإعلان."
+
+#: tpl-edit-item.php:102 includes/admin/admin-options.php:765
+#: includes/admin/admin-options.php:825 includes/admin/admin-options.php:1119
+#: includes/admin/admin-options.php:1174 includes/admin/admin-options.php:1336
+#: includes/admin/admin-options.php:1633 includes/admin/admin-options.php:1694
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: tpl-edit-item.php:103
+msgid "Update Ad &raquo;"
+msgstr "تحديث الإعلان »"
+
+#: tpl-full-width.php:56
+msgid "No content found."
+msgstr "لم يتم العثور على المحتوى."
+
+#: tpl-login.php:17 framework/includes/views-login.php:58
+#: framework/templates/form-login.php:20 includes/theme-functions.php:229
+msgid "Login"
+msgstr "دخول"
+
+#: tpl-login.php:21
+msgid "Please complete the fields below to login to your account."
+msgstr "يرجى ملء الحقول أدناه لتسجيل الدخول إلى حسابك."
+
+#: tpl-login.php:28 tpl-profile.php:40 tpl-registration.php:38
+#: framework/templates/form-login.php:7
+#: framework/templates/form-registration.php:8
+msgid "Username:"
+msgstr "اسم المستخدم:"
+
+#: tpl-login.php:33 tpl-registration.php:49
+#: framework/templates/form-login.php:14
+#: framework/templates/form-registration.php:22
+msgid "Password:"
+msgstr "كلمة السر:"
+
+#: tpl-login.php:43 framework/templates/form-login.php:27
+msgid "Remember me"
+msgstr "تذكرني"
+
+#: tpl-login.php:47
+msgid "Login &raquo;"
+msgstr "تسجيل الدخول »"
+
+#: tpl-login.php:53
+msgid "Password Lost and Found"
+msgstr "فقدت كلمة المرور وجدت"
+
+#: tpl-login.php:53 framework/templates/form-login.php:31
+msgid "Lost your password."
+msgstr "فقدت كلمة المرور الخاصة بك."
+
+#: tpl-membership-purchase.php:26
+msgid "Choosen membership package does not exist."
+msgstr "لا وجود حزمة عضوية المختار."
+
+#: tpl-membership-purchase.php:28
+msgid "You need to choose membership package."
+msgstr "عليك أن تختار حزمة العضوية."
+
+#: tpl-membership-purchase.php:32
+msgid "Membership order ID is invalid."
+msgstr "عضوية معرف الطلب غير صالح."
+
+#: tpl-membership-purchase.php:94
+msgid "Membership Not Enabled"
+msgstr "عضوية غير مفعل"
+
+#: tpl-membership-purchase.php:97
+#: tpl-membership-purchase.php:106 includes/forms/step2.php:181
+#: includes/forms/step3-membership.php:72 includes/forms/step3.php:99
+msgid "An Error Has Occurred"
+msgstr "لقد حدث خطأ"
+
+#: tpl-membership-purchase.php:117 includes/forms/step3.php:112
+#, php-format
+msgid "Please <a href="#" %s>go back</a> and fix the error(s)."
+msgstr "يرجى <a href=\"#\" %s> العودة </a> و إصلاح الخطأ."
+
+#: tpl-password-recovery.php:16 framework/includes/views-login.php:201
+msgid "Password Recovery"
+msgstr "استعادة كلمة السر"
+
+#: tpl-password-recovery.php:20
+#: framework/templates/form-password-recovery.php:3
+#: tpl-password-recovery.php:27
+#: framework/templates/form-password-recovery.php:9
+msgid "Username or Email:"
+msgstr "اسم المستخدم أو البريد الإلكتروني:"
+
+#: tpl-password-recovery.php:33 tpl-password-reset.php:45
+#: framework/templates/form-password-recovery.php:17
+#: framework/templates/form-password-reset.php:23
+msgid "Reset Password"
+msgstr "إعادة تعيين كلمة المرور"
+
+#: tpl-password-reset.php:16 framework/includes/views-login.php:333
+msgid "Password Reset"
+msgstr "إعادة تعيين كلمة المرور"
+
+#: tpl-password-reset.php:20 framework/templates/form-password-reset.php:2
+msgid "Enter your new password below."
+msgstr "أدخل كلمة المرور الجديدة أدناه."
+
+#: tpl-password-reset.php:29 framework/templates/form-password-reset.php:8
+msgid "New password"
+msgstr "كلمة مرور جديدة"
+
+#: tpl-password-reset.php:34 framework/templates/form-password-reset.php:13
+msgid "Confirm new password"
+msgstr "تأكيد كلمة المرور الجديدة"
+
+#: tpl-password-reset.php:39 tpl-profile.php:131 tpl-registration.php:59
+#: framework/templates/form-password-reset.php:18
+#: framework/templates/form-registration.php:35 includes/theme-enqueue.php:92
+msgid "Strength indicator"
+msgstr "مؤشر قوة"
+
+#: tpl-password-reset.php:40 tpl-registration.php:60
+#: framework/templates/form-password-reset.php:19
+#: framework/templates/form-registration.php:36
+#: tpl-profile.php:25
+#, php-format
+msgid "%ss Profile"
+msgstr "الملف٪ ق ق"
+
+#: tpl-profile.php:45
+msgid "First Name:"
+msgstr "الاسم الأول:"
+
+#: tpl-profile.php:50
+msgid "Last Name:"
+msgstr "اسم العائلة:"
+
+#: tpl-profile.php:55
+msgid "Nickname:"
+msgstr "الإسم المستعار:"
+
+#: tpl-profile.php:60
+msgid "Display Name:"
+msgstr "اسم العرض:"
+
+#: tpl-profile.php:82 tpl-registration.php:43
+#: framework/templates/form-registration.php:15
+#: includes/sidebar-contact.php:43
+msgid "Email:"
+msgstr "البريد الإلكتروني:"
+
+#: tpl-profile.php:92
+msgid "About Me:"
+msgstr "معلومات عني:"
+
+#: tpl-profile.php:113
+msgid "New Password:"
+msgstr "كلمة السر الجديدة:"
+
+#: tpl-profile.php:116
+msgid "Leave this field blank unless you would like to change your password."
+msgstr "ترك هذا الحقل فارغا إلا إذا كنت ترغب في تغيير كلمة المرور الخاصة بك."
+
+#: tpl-profile.php:121 tpl-registration.php:54
+#: framework/templates/form-registration.php:29
+msgid "Password Again:"
+msgstr "كلمة السر مرة أخرى:"
+
+#: tpl-profile.php:124
+msgid "Type your new password again."
+msgstr "اكتب كلمة المرور الجديدة مرة أخرى."
+
+#: tpl-profile.php:132
+msgid "Your password should be at least seven characters long."
+msgstr "يجب أن تكون كلمة المرور الخاصة بك لا يقل عن سبعة أحرف."
+
+#: tpl-profile.php:150
+msgid "Thumbnail"
+msgstr "تصغير"
+
+#: tpl-profile.php:160
+msgid "Delete existing photo."
+msgstr "حذف الصورة الموجودة."
+
+#: tpl-profile.php:176
+msgid "Update Profile &raquo;"
+msgstr "الملف التحديث »"
+
+#: tpl-registration.php:25 framework/includes/views-login.php:448
+#: framework/kernel/functions.php:131
+#: framework/templates/form-registration.php:43
+#: includes/theme-functions.php:229
+msgid "Register"
+msgstr "تسجيل"
+
+#: tpl-registration.php:29
+#: tpl-registration.php:69
+msgid "Create Account"
+msgstr "إنشاء حساب"
+
+#: tpl-registration.php:83
+#: wrapper.php:34
+msgid "Debug Mode On"
+msgstr "تصحيح الوضع في"
+
+#: examples/classipress-child/tpl-featured-ads-home.php:11
+#, php-format
+msgid "There are currently %s featured ad"
+msgid_plural "There are currently %s featured ads"
+msgstr[0] ""
+msgstr[1] ""
+
+#: examples/classipress-child/includes/child-views.php:6
+#: includes/theme-widgets.php:882
+msgid "Featured Ads"
+msgstr "الإعلانات المميزة"
+
+#: framework/admin/class-dashboard.php:12 includes/views.php:296
+msgid "Dashboard"
+msgstr "لوحة أجهزة القياس"
+
+#: framework/admin/class-dashboard.php:20
+msgid "Latest News"
+msgstr "آخر الأخبار"
+
+#: framework/admin/class-dashboard.php:21
+msgid "Latest Tweets"
+msgstr "آخر تويت"
+
+#: framework/admin/class-dashboard.php:22
+msgid "Tutorials"
+msgstr "الدروس"
+
+#: framework/admin/class-dashboard.php:23
+msgid "From the Marketplace"
+msgstr "من السوق"
+
+#: framework/admin/class-tabs-page.php:123
+#: includes/admin/admin-options.php:1335
+msgid "Save Changes"
+msgstr "حفظ التغييرات"
+
+#: framework/admin/class-tabs-page.php:143 includes/appthemes-functions.php:36
+msgid "Help"
+msgstr "مساعدة"
+
+#: framework/admin/importer.php:67
+msgid "CSV Importer"
+msgstr "CSV المستورد"
+
+#: framework/admin/importer.php:68
+msgid "Importer"
+msgstr "المستورد"
+
+#: framework/admin/importer.php:93
+#: framework/admin/importer.php:94
+msgid "Choose a CSV file to upload, then click "Upload file and import"."
+msgstr "Choose a CSV file to upload, then click "Upload file and import"."
+
+#: framework/admin/importer.php:104
+#: framework/admin/importer.php:110
+msgid "Choose a file from your computer:"
+msgstr "اختيار ملف من جهاز الكمبيوتر الخاص بك:"
+
+#: framework/admin/importer.php:110
+#, php-format
+msgid "Maximum size: %s"
+msgstr "الحجم الأقصى: %s"
+
+#: framework/admin/importer.php:118
+msgid "Upload file and import"
+msgstr "ارفع الملف و استورده"
+
+#: framework/admin/importer.php:130
+msgid "Sorry, there has been an error."
+msgstr "عذرا، كان هناك خطأ."
+
+#: framework/admin/importer.php:142
+msgid "The file could not be processed."
+msgstr "لا يمكن معالجة الملف."
+
+#: framework/admin/importer.php:144
+#, php-format
+msgid "Imported %s items."
+msgstr "ما يستورد٪ ق."
+
+#: framework/admin/importer.php:372
+msgid "Invalid file type"
+msgstr "نوع ملف غير صالح"
+
+#: framework/admin/importer.php:417
+msgid "Remote server did not respond"
+msgstr "لم يستجب الملقم البعيد"
+
+#: framework/admin/importer.php:423
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: framework/admin/importer.php:430
+msgid "Remote file is incorrect size"
+msgstr "الملف البعيد هو حجم غير صحيحة"
+
+#: framework/admin/importer.php:435
+msgid "Zero size file downloaded"
+msgstr "صفر ملف حجم تحميلها"
+
+#: framework/admin/importer.php:441
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "الملف البعيد كبير جدا، والحد هو٪ s"
+
+#: framework/admin/versions.php:49
+#, php-format
+msgid "Successfully updated to version %s."
+msgstr "تحديثها بنجاح إلى النسخة٪ s."
+
+#: framework/app-plupload/app-plupload.php:32
+msgid "Images"
+msgstr "الصور"
+
+#: framework/app-plupload/app-plupload.php:56
+msgid "Clear"
+msgstr "مسح"
+
+#: framework/app-plupload/app-plupload.php:64 includes/theme-functions.php:979
+#: includes/admin/write-panel.php:403
+msgid "Add Image"
+msgstr "إضافة صورة"
+
+#: framework/app-plupload/app-plupload.php:65
+#, php-format
+msgid "You are allowed to upload %s file(s)."
+msgstr ""
+
+#: framework/app-plupload/app-plupload.php:65
+#, php-format
+msgid "Maximum file size: %s KB."
+msgstr "الحد الأقصى لحجم الملف: KB٪ ق."
+
+#: framework/app-plupload/app-plupload.php:67
+#: framework/app-plupload/app-plupload.php:68
+#: framework/app-plupload/app-plupload.php:91
+msgid "Change Title"
+msgstr "تغيير العنوان"
+
+#: framework/app-plupload/app-plupload.php:95
+msgid "Delete"
+msgstr "حذف"
+
+#: framework/app-plupload/app-plupload.php:118
+msgid "Are you sure."
+msgstr "هل أنت متأكد."
+
+#: framework/app-plupload/app-plupload.php:131
+msgid "Allowed Files"
+msgstr "ملفات سمح"
+
+#: framework/app-plupload/app-plupload.php:234
+msgid "Your listing images are now being processed..."
+msgstr "ويجري حاليا معالجة الصور قوائمك ..."
+
+#: framework/app-plupload/app-plupload.php:250
+#: includes/theme-functions.php:837
+#, php-format
+msgid "Image number %1$d of %2$s has been processed."
+msgstr ""
+
+#: framework/includes/stats.php:22
+#, php-format
+msgid "%d total views, %d today"
+msgstr "٪ د مجموع المشاهدات،٪ D اليوم"
+
+#: framework/includes/stats.php:24
+msgid "No views yet"
+msgstr "لا توجد طرق عرض حتى الآن"
+
+#: framework/includes/stats.php:271
+msgid "Stats has been reseted!"
+msgstr "وقد reseted احصائيات!"
+
+#: framework/includes/stats.php:315
+msgid "Reset listing statistics"
+msgstr "إعادة تعيين الاحصائيات الإدراج"
+
+#: framework/includes/stats.php:315
+msgid "Reset stats"
+msgstr "تصفير الإحصاءات"
+
+#: framework/includes/views-login.php:121
+msgid "<strong>ERROR</strong>: The username field is empty."
+msgstr "على خطأ : حقل اسم المستخدم فارغا."
+
+#: framework/includes/views-login.php:124
+msgid "<strong>ERROR</strong>: The password field is empty."
+msgstr "على خطأ : حقل كلمة المرور فارغة."
+
+#: framework/includes/views-login.php:158
+#: framework/includes/views-login.php:162
+msgid "You are now logged out."
+msgstr "يتم تسجيل خروجك."
+
+#: framework/includes/views-login.php:165
+msgid "User registration is currently not allowed."
+msgstr "حاليا لا يسمح تسجيل المستخدم."
+
+#: framework/includes/views-login.php:168
+msgid "Check your email for the confirmation link."
+msgstr "التحقق من بريدك الالكتروني لتأكيد الصلة."
+
+#: framework/includes/views-login.php:171
+msgid "Check your email for your new password."
+msgstr "التحقق من بريدك الالكتروني لكلمة المرور الجديدة."
+
+#: framework/includes/views-login.php:174
+msgid "Registration complete. Please check your e-mail."
+msgstr "تسجيل كامل. يرجى التحقق من البريد الإلكتروني الخاص بك."
+
+#: framework/includes/views-login.php:176
+msgid "Your password has been reset. Please login."
+msgstr "وقد تم إعادة تعيين كلمة السر الخاصة بك. يرجى تسجيل الدخول."
+
+#: framework/includes/views-login.php:234
+msgid "Sorry, that key does not appear to be valid. Please try again."
+msgstr "آسف، لا يبدو أن رمز المفتاح غير صحيح. يرجى المحاولة مرة أخرى."
+
+#: framework/includes/views-login.php:253
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr "على خطأ : أدخل اسم المستخدم أو عنوان البريد الإلكتروني."
+
+#: framework/includes/views-login.php:257
+#: framework/includes/views-login.php:269
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr "على خطأ : اسم المستخدم أو البريد الإلكتروني غير صالح."
+
+#: framework/includes/views-login.php:283
+msgid "Password reset is not allowed for this user"
+msgstr "غير مسموح إعادة تعيين كلمة المرور لهذا المستخدم"
+
+#: framework/includes/views-login.php:295
+msgid "Someone requested that the password be reset for the following account:"
+msgstr "طلب شخص ما أن إعادة تعيين كلمة المرور للحساب التالي:"
+
+#: framework/includes/views-login.php:297 includes/theme-emails.php:244
+#: includes/theme-emails.php:281 includes/theme-options.php:163
+#, php-format
+msgid "Username: %s"
+msgstr "اسم المستخدم:٪ S"
+
+#: framework/includes/views-login.php:298
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "إذا كان هذا خطأ، فقط تجاهل هذه الرسالة و لن يحدث شيء."
+
+#: framework/includes/views-login.php:299
+msgid "To reset your password, visit the following address:"
+msgstr "لإعادة تعيين كلمة المرور الخاصة بك، قم بزيارة العنوان التالي:"
+
+#: framework/includes/views-login.php:311
+#, php-format
+msgid "[%s] Password Reset"
+msgstr "[%s] إعادة تعيين كلمة المرور"
+
+#: framework/includes/views-login.php:317
+msgid "The e-mail could not be sent."
+msgstr "تعذر إرسال البريد الإلكتروني."
+
+#: framework/includes/views-login.php:317
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr "Possible reason: your host may have disabled the mail() function..."
+
+#: framework/includes/views-login.php:372
+msgid "The passwords do not match."
+msgstr "كلمات المرور لا تتطابق."
+
+#: framework/includes/views-login.php:388
+#: framework/includes/views-login.php:391
+#: framework/includes/views-login.php:396
+msgid "Invalid key"
+msgstr "مفتاح غير صالح"
+
+#: framework/includes/views-login.php:514
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr "على خطأ : الرجاء إدخال اسم المستخدم."
+
+#: framework/includes/views-login.php:516
+#: framework/includes/views-login.php:519
+#: framework/includes/views-login.php:524
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr "على خطأ : الرجاء كتابة عنوان البريد الإلكتروني الخاص بك."
+
+#: framework/includes/views-login.php:526
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr "على خطأ : عنوان البريد الإلكتروني غير صحيح."
+
+#: framework/includes/views-login.php:529
+#: framework/includes/views-login.php:543
+msgid "<strong>ERROR</strong>: Please enter a password."
+msgstr "على خطأ : الرجاء إدخال كلمة مرور."
+
+#: framework/includes/views-login.php:545
+msgid "<strong>ERROR</strong>: Please enter the password twice."
+msgstr "على خطأ : الرجاء إدخال كلمة المرور مرتين."
+
+#: framework/includes/views-login.php:547
+msgid "<strong>ERROR</strong>: The passwords do not match."
+msgstr "على خطأ : كلمات المرور لا تتطابق."
+
+#: framework/includes/views-login.php:560
+msgid "<strong>ERROR</strong>: The reCaptcha anti-spam response was incorrect."
+msgstr "على خطأ : كانت الأخبار الإقتصادية العامة استجابة لمكافحة البريد المزعج غير صحيحة."
+
+#: framework/includes/views-login.php:576
+#: framework/includes/views-login.php:625
+#, php-format
+msgid "The default WordPress login page is still accessible."
+msgstr "صفحة تسجيل الدخول وورد الافتراضي لا يزال الوصول إليها."
+
+#: framework/includes/views-login.php:626
+#: framework/kernel/breadcrumb-trail.php:61
+#, php-format
+msgid "Browse:"
+msgstr "تصفح:"
+
+#: framework/kernel/breadcrumb-trail.php:64 includes/theme-functions.php:1233
+#: includes/admin/install-script.php:625
+msgid "Home"
+msgstr "منزل"
+
+#: framework/kernel/breadcrumb-trail.php:316
+msgid "g:i a"
+msgstr "ز: لي"
+
+#: framework/kernel/breadcrumb-trail.php:319
+#, php-format
+msgid "Minute %1$s"
+msgstr "Minute %1$s"
+
+#: framework/kernel/breadcrumb-trail.php:319
+msgid "i"
+msgstr "أنا"
+
+#: framework/kernel/breadcrumb-trail.php:322
+msgid "g a"
+msgstr "ز أ"
+
+#: framework/kernel/breadcrumb-trail.php:333
+#: framework/kernel/breadcrumb-trail.php:339
+#: framework/kernel/breadcrumb-trail.php:344
+#: framework/kernel/breadcrumb-trail.php:349
+#: framework/kernel/breadcrumb-trail.php:414
+msgid "Y"
+msgstr "Y"
+
+#: framework/kernel/breadcrumb-trail.php:334
+#: framework/kernel/breadcrumb-trail.php:345
+#: framework/kernel/breadcrumb-trail.php:418
+msgid "F"
+msgstr "F"
+
+#: framework/kernel/breadcrumb-trail.php:335
+#: framework/kernel/breadcrumb-trail.php:422
+msgid "d"
+msgstr "د"
+
+#: framework/kernel/breadcrumb-trail.php:340
+#, php-format
+msgid "Week %1$s"
+msgstr "Week %1$s"
+
+#: framework/kernel/breadcrumb-trail.php:340
+msgid "W"
+msgstr "W"
+
+#: framework/kernel/breadcrumb-trail.php:356
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr "Search results for &quot;%1$s&quot;"
+
+#: framework/kernel/breadcrumb-trail.php:360
+msgid "404 Not Found"
+msgstr "404 لم يتم العثور على"
+
+#: framework/kernel/breadcrumb-trail.php:418
+msgid "F Y"
+msgstr "F Y"
+
+#: framework/kernel/breadcrumb-trail.php:422
+msgid "F j, Y"
+msgstr "F ي، Y"
+
+#: framework/kernel/functions.php:97
+#, php-format
+msgid "Page %s"
+msgstr "صفحة٪ S"
+
+#: framework/kernel/functions.php:124
+msgid "Lost password."
+msgstr "فقدت كلمة السر."
+
+#: framework/kernel/functions.php:173
+#, php-format
+msgid "Page %s of %s"
+msgstr "الصفحة٪ s من٪ s"
+
+#: framework/kernel/functions.php:352
+msgid "No categories"
+msgstr "لا يوجد فئات"
+
+#: framework/kernel/functions.php:894
+#: includes/payments/admin/order-list.php:129
+#, php-format
+msgid "%s ago"
+msgstr "٪ قبل ق"
+
+#: framework/kernel/view-edit-profile.php:46
+msgid "Your profile has been updated."
+msgstr "تم تحديث ملفك الشخصي."
+
+#: framework/p2p-core/connection-type.php:102
+msgid "Create connections"
+msgstr "إنشاء اتصالات"
+
+#: framework/p2p-core/connection-type.php:120
+#, php-format
+msgid "Connected %s"
+msgstr "متصل٪ S"
+
+#: framework/p2p-core/side-user.php:16
+msgid "Users"
+msgstr "المستخدمين"
+
+#: framework/p2p-core/side-user.php:25
+msgid "User"
+msgstr "المستخدم"
+
+#: framework/p2p-core/side-user.php:26
+msgid "Search Users"
+msgstr "البحث عن مستخدم"
+
+#: framework/p2p-core/side-user.php:27
+msgid "No users found."
+msgstr "لم يتم العثور على المستخدمين."
+
+#: framework/p2p-core/widget.php:16
+msgid "Posts 2 Posts"
+msgstr "المشاركات 2 المشاركات"
+
+#: framework/p2p-core/widget.php:17
+msgid "A list of posts connected to the current post"
+msgstr "قائمة بالوظائف متصلا آخر الحالي"
+
+#: framework/p2p-core/widget.php:34 includes/theme-widgets.php:70
+#: includes/theme-widgets.php:256 includes/theme-widgets.php:326
+#: includes/theme-widgets.php:482 includes/theme-widgets.php:611
+#: includes/theme-widgets.php:655 includes/theme-widgets.php:701
+#: includes/theme-widgets.php:751 includes/theme-widgets.php:843
+#: includes/theme-widgets.php:925 includes/theme-widgets.php:1005
+msgid "Title:"
+msgstr "العنوان:"
+
+#: framework/p2p-core/widget.php:41
+msgid "Connection type:"
+msgstr "نوع الاتصال:"
+
+#: framework/p2p-core/widget.php:46
+msgid "Connection listing:"
+msgstr "قائمة الاتصال:"
+
+#: framework/p2p-core/widget.php:52
+msgid "connected"
+msgstr "متصل"
+
+#: framework/p2p-core/widget.php:53
+msgid "related"
+msgstr "متعلق"
+
+#: framework/scb/AdminPage.php:227
+msgid "Settings <strong>saved</strong>."
+msgstr "الإعدادات المحفوظة ."
+
+#: framework/scb/AdminPage.php:466 includes/admin/admin-settings.php:10
+#: includes/payments/admin/settings.php:17
+msgid "Settings"
+msgstr "إعدادات"
+
+#: framework/templates/form-registration.php:3
+msgid "Complete the fields below to register."
+msgstr "أكمل الحقول أدناه للتسجيل."
+
+#: includes/appthemes-functions.php:29
+msgid "Type the two words:"
+msgstr "اكتب الكلمتين:"
+
+#: includes/appthemes-functions.php:30
+msgid "Type what you hear:"
+msgstr "اكتب ما تسمع:"
+
+#: includes/appthemes-functions.php:31
+msgid "Play sound again"
+msgstr "تشغيل الصوت مرة أخرى"
+
+#: includes/appthemes-functions.php:32
+msgid "Download sound as MP3"
+msgstr "تحميل الصوت كما MP3"
+
+#: includes/appthemes-functions.php:33
+msgid "Visual challenge"
+msgstr "التحدي البصرية"
+
+#: includes/appthemes-functions.php:34
+msgid "Audio challenge"
+msgstr "التحدي الصوت"
+
+#: includes/appthemes-functions.php:35
+msgid "Get two new words"
+msgstr "الحصول على اثنين من كلمات جديدة"
+
+#: includes/appthemes-functions.php:37
+msgid "Incorrect. Try again."
+msgstr "غير صحيحة. حاول مرة أخرى."
+
+#: includes/appthemes-functions.php:62
+msgid "total views"
+msgstr "مجموع المشاهدات"
+
+#: includes/appthemes-functions.php:62
+msgid "today"
+msgstr "اليوم"
+
+#: includes/appthemes-functions.php:64
+msgid "no views yet"
+msgstr "لا توجد طرق عرض حتى الآن"
+
+#: includes/appthemes-functions.php:315 includes/appthemes-functions.php:317
+msgid "Perhaps you meant"
+msgstr "ربما كنت تعني"
+
+#: includes/appthemes-functions.php:335 includes/admin/admin-options.php:1870
+#, php-format
+msgid "Table %s has been deleted."
+msgstr "تم حذف الجدول٪ ق."
+
+#: includes/appthemes-functions.php:351
+msgid "All theme options have been deleted."
+msgstr "تم حذف جميع الخيارات موضوع."
+
+#: includes/sidebar-blog-posts.php:26 includes/sidebar-popular.php:46
+#: includes/admin/admin-options.php:902 includes/admin/admin-options.php:1005
+#: includes/admin/admin-options.php:1486 includes/admin/admin-options.php:1782
+msgid "by"
+msgstr "من قبل"
+
+#: includes/sidebar-blog-posts.php:26 includes/sidebar-popular.php:46
+#: includes/theme-comments.php:32
+msgid "on"
+msgstr "في"
+
+#: includes/sidebar-blog-posts.php:26
+msgid "0 Comments"
+msgstr "0 التعليقات"
+
+#: includes/sidebar-blog-posts.php:26
+msgid "1 Comment"
+msgstr "1 تعليق"
+
+#: includes/sidebar-blog-posts.php:26
+msgid "% Comments"
+msgstr "٪ تعليقات"
+
+#: includes/sidebar-blog-posts.php:36
+msgid "There are no blog articles yet."
+msgstr "لا يوجد مقالات بلوق حتى الآن."
+
+#: includes/sidebar-comments.php:38
+msgid "Comment on article "
+msgstr "التعليق على المقال"
+
+#: includes/sidebar-contact.php:21
+msgid "Your message has been sent!"
+msgstr "لقد تم إرسال رسالتك!"
+
+#: includes/sidebar-contact.php:33
+#: includes/sidebar-contact.php:37
+msgid "Name:"
+msgstr "الاسم:"
+
+#: includes/sidebar-contact.php:49
+msgid "Subject:"
+msgstr "الموضوع:"
+
+#: includes/sidebar-contact.php:50
+msgid "Re:"
+msgstr "إعادة:"
+
+#: includes/sidebar-contact.php:55
+msgid "Message:"
+msgstr "رسالة:"
+
+#: includes/sidebar-contact.php:71
+msgid "Sum of"
+msgstr "مجموع"
+
+#: includes/sidebar-contact.php:77
+msgid "Send Inquiry"
+msgstr "ارسال لجنة التحقيق"
+
+#: includes/sidebar-gmap.php:119
+msgid "Sorry, the address could not be found."
+msgstr "آسف، لا يمكن العثور على عنوان."
+
+#: includes/sidebar-popular.php:56
+msgid "There are no popular posts yet."
+msgstr "لا توجد وظائف شعبية حتى الآن."
+
+#: includes/theme-actions.php:75
+msgid "Ad Reference ID:"
+msgstr "إعلان رقم المرجع:"
+
+#: includes/theme-actions.php:75
+msgid "N/A"
+msgstr "غير متوفر"
+
+#: includes/theme-actions.php:112
+msgid "Sorry, no listings were found."
+msgstr "آسف، لا توجد قوائم."
+
+#: includes/theme-actions.php:154 includes/theme-actions.php:156
+msgid "No Tags"
+msgstr "لا وسوم"
+
+#: includes/theme-actions.php:181
+msgid "Sorry, no posts could be found."
+msgstr "آسف، لا يمكن العثور على وظيفة."
+
+#: includes/theme-actions.php:371
+msgid "Sponsored Links"
+msgstr "روابط إعلانية"
+
+#: includes/theme-actions.php:449 includes/theme-actions.php:450
+msgid "Download CSV file"
+msgstr "تحميل ملف CSV"
+
+#: includes/theme-actions.php:450
+msgid "Ads with attachments"
+msgstr "الإعلانات مع المرفقات"
+
+#: includes/theme-actions.php:452
+#, php-format
+msgid "Download example CSV files: %s, %s"
+msgstr "تنزيل ملفات CSV سبيل المثال:٪ s و٪ ق"
+
+#: includes/theme-comments.php:51
+msgid "Your comment is awaiting moderation."
+msgstr "تعليقك ينتظر الاعتدال."
+
+#: includes/theme-comments.php:59
+msgid "Reply"
+msgstr "رد"
+
+#: includes/theme-comments.php:60
+msgid "Log in to reply."
+msgstr "تسجيل الدخول للرد."
+
+#: includes/theme-comments.php:109 includes/theme-comments.php:173
+msgid "Leave a Reply"
+msgstr "ترك الرد"
+
+#: includes/theme-comments.php:109
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "ترك الرد إلى٪ s"
+
+#: includes/theme-comments.php:120
+#, php-format
+msgid "You must be <a href=%s>logged in</a> to post a comment."
+msgstr "يجب أن تكون href=٪s> لمرحلة ما بعد تعليق."
+
+#: includes/theme-comments.php:132
+msgid "Logged in as"
+msgstr "مسجله في"
+
+#: includes/theme-comments.php:132
+msgid "Logout of this account"
+msgstr "تسجيل الخروج من هذا الحساب"
+
+#: includes/theme-comments.php:132
+msgid "Logout"
+msgstr "تسجيل الخروج"
+
+#: includes/theme-comments.php:142 includes/admin/admin-options.php:872
+#: includes/admin/admin-options.php:949 includes/admin/admin-options.php:1458
+#: includes/admin/admin-options.php:1754
+#: includes/admin/admin-post-types.php:207 includes/admin/admin-values.php:206
+#: includes/admin/admin-values.php:277 includes/forms/step1-membership.php:60
+msgid "Name"
+msgstr "اسم"
+
+#: includes/theme-comments.php:142 includes/theme-comments.php:149
+msgid "(required)"
+msgstr "((مطلوب))"
+
+#: includes/theme-comments.php:149
+msgid "Email (will not be visible)"
+msgstr "Email (will not be visible)"
+
+#: includes/theme-comments.php:156
+msgid "Website"
+msgstr "الموقع"
+
+#: includes/theme-cron.php:51
+msgid "ClassiPress Ads Expired"
+msgstr "ClassiPress الإعلانات انتهى"
+
+#: includes/theme-cron.php:77
+msgid "Your cron job has run successfully. "
+msgstr "تدير ظيفة كرون بنجاح."
+
+#: includes/theme-cron.php:79
+msgid "No expired ads were found."
+msgstr "لم يتم العثور على إعلانات منتهية الصلاحية."
+
+#: includes/theme-cron.php:81
+msgid "The following ads expired and have been taken down from your website: "
+msgstr "الإعلانات التالية منتهية الصلاحية واتخذت أسفل من موقع الويب الخاص بك:"
+
+#: includes/theme-cron.php:86
+#: includes/theme-cron.php:89 includes/theme-cron.php:150
+#: includes/theme-emails.php:45 includes/theme-emails.php:87
+#: includes/theme-emails.php:136 includes/theme-emails.php:155
+#: includes/theme-emails.php:322 includes/theme-emails.php:349
+msgid "Regards,"
+msgstr "التحيات،"
+
+#: includes/theme-cron.php:90 includes/theme-emails.php:46
+#: includes/theme-emails.php:323 includes/admin/admin-dashboard.php:11
+msgid "ClassiPress"
+msgstr "ClassiPress"
+
+#: includes/theme-cron.php:108
+#, php-format
+msgid "Membership Subscription Ending on %s"
+msgstr "عضوية الاشتراك في نهاية السنة على٪ s"
+
+#: includes/theme-cron.php:139 includes/theme-emails.php:76
+#: includes/theme-emails.php:131 includes/theme-emails.php:147
+#: includes/theme-emails.php:345 includes/theme-options.php:159
+#, php-format
+msgid "Hi %s,"
+msgstr "مرحبا٪ S،"
+
+#: includes/theme-cron.php:140
+#: includes/theme-cron.php:142
+#, php-format
+msgid "Membership Details"
+msgstr "تفاصيل العضوية"
+
+#: includes/theme-cron.php:143 includes/theme-emails.php:38
+#: includes/theme-emails.php:42 includes/theme-emails.php:79
+#: includes/theme-emails.php:84 includes/theme-emails.php:314
+#: includes/theme-emails.php:318
+msgid "-----------------"
+msgstr "-----------------"
+
+#: includes/theme-cron.php:144
+#, php-format
+msgid "Membership Pack: %s"
+msgstr "حزم عضوية"
+
+#: includes/theme-cron.php:145
+#, php-format
+msgid "Membership Expires: %s"
+msgstr "عضوية ينتهي:٪ S"
+
+#: includes/theme-cron.php:146
+#, php-format
+msgid "Renew Your Membership Pack: %s"
+msgstr "تجديد حزم العضوية الخاص بك"
+
+#: includes/theme-cron.php:149
+#, php-format
+msgid "For questions or problems, please contact us directly at %s"
+msgstr "للأسئلة أو مشاكل، يرجى الاتصال بنا مباشرة في٪ s"
+
+#: includes/theme-cron.php:150 includes/theme-emails.php:88
+#: includes/theme-emails.php:137 includes/theme-emails.php:156
+#: includes/theme-emails.php:350 includes/theme-options.php:169
+#, php-format
+msgid "Your %s Team"
+msgstr "فريق٪ s الخاص بك"
+
+#: includes/theme-emails.php:29
+msgid "New Ad Submission"
+msgstr "تقديم إعلان جديد"
+
+#: includes/theme-emails.php:35 includes/theme-emails.php:311
+#: includes/theme-emails.php:424
+msgid "Dear Admin,"
+msgstr "عزيزي المسؤول،"
+
+#: includes/theme-emails.php:36
+#, php-format
+msgid "The following ad listing has just been submitted on your %s website."
+msgstr "وقد تم للتو قدمت قائمة الإعلانات التالية على موقع الويب الخاص بك ليالي٪."
+
+#: includes/theme-emails.php:37 includes/theme-emails.php:78
+#: includes/theme-emails.php:313
+msgid "Ad Details"
+msgstr "تفاصيل الإعلان"
+
+#: includes/theme-emails.php:39 includes/theme-emails.php:80
+#: includes/theme-emails.php:315
+msgid "Title: "
+msgstr "العنوان:"
+
+#: includes/theme-emails.php:40 includes/theme-emails.php:81
+#: includes/theme-emails.php:316
+msgid "Category: "
+msgstr "الفئة:"
+
+#: includes/theme-emails.php:41 includes/theme-emails.php:317
+msgid "Author: "
+msgstr "المؤلف:"
+
+#: includes/theme-emails.php:43 includes/theme-emails.php:319
+msgid "Preview Ad: "
+msgstr "معاينة الإعلان:"
+
+#: includes/theme-emails.php:44 includes/theme-emails.php:320
+#, php-format
+msgid "Edit Ad: %s"
+msgstr "تعديل الإعلان:٪ S"
+
+#: includes/theme-emails.php:74
+#, php-format
+msgid "Your Ad Submission on %s"
+msgstr "تقديم إعلانك على٪ S"
+
+#: includes/theme-emails.php:77
+#: includes/theme-emails.php:82
+#, php-format
+msgid "Status: "
+msgstr "الحالة:"
+
+#: includes/theme-emails.php:85
+#: includes/theme-emails.php:129
+msgid "Your ad has been approved"
+msgstr "وقد تمت الموافقة على إعلانك"
+
+#: includes/theme-emails.php:132
+#, php-format
+msgid "Your ad listing, "%s" has been approved and is now live on our site."
+msgstr "Your ad listing, "%s" has been approved and is now live on our site."
+
+#: includes/theme-emails.php:134
+msgid "You can view your ad by clicking on the following link:"
+msgstr "يمكنك عرض الإعلان الخاص بك عن طريق النقر على الرابط التالي:"
+
+#: includes/theme-emails.php:145
+msgid "Your ad has expired"
+msgstr "انتهت صلاحية إعلانك"
+
+#: includes/theme-emails.php:148
+#, php-format
+msgid "Your ad listing, "%s" has expired."
+msgstr "Your ad listing, "%s" has expired."
+
+#: includes/theme-emails.php:151
+#: includes/theme-emails.php:175
+msgid "ERROR: All fields are required."
+msgstr "خطأ: جميع الحقول مطلوبة."
+
+#: includes/theme-emails.php:184
+msgid "ERROR: Incorrect captcha answer."
+msgstr "خطأ: الجواب CAPTCHA غير صحيحة."
+
+#: includes/theme-emails.php:188
+msgid "ERROR: Incorrect email address."
+msgstr "خطأ: عنوان البريد الإلكتروني غير صحيح."
+
+#: includes/theme-emails.php:193
+msgid "ERROR: Ad does not exist."
+msgstr "خطأ: لا يوجد الإعلان."
+
+#: includes/theme-emails.php:209
+#, php-format
+msgid "Someone is interested in your ad listing: %s"
+msgstr "هناك من هو مهتم في قائمة المفضلة الخاصة بك:٪ S"
+
+#: includes/theme-emails.php:211
+#, php-format
+msgid "Name: %s"
+msgstr "الاسم:٪ S"
+
+#: includes/theme-emails.php:212 includes/theme-emails.php:245
+#, php-format
+msgid "E-mail: %s"
+msgstr "البريد الإلكتروني:٪ S"
+
+#: includes/theme-emails.php:214
+#, php-format
+msgid "This message was sent from %s"
+msgstr "تم إرسال هذه الرسالة من٪ s"
+
+#: includes/theme-emails.php:216
+msgid "Sent from IP Address: "
+msgstr "أرسلت من عنوان IP:"
+
+#: includes/theme-emails.php:243
+#, php-format
+msgid "New user registration on your site %s:"
+msgstr "تسجيل مستخدم جديد على موقعك٪ s:"
+
+#: includes/theme-emails.php:247
+#, php-format
+msgid "[%s] New User Registration"
+msgstr "[%s] New User Registration"
+
+#: includes/theme-emails.php:282 includes/theme-options.php:164
+#, php-format
+msgid "Password: %s"
+msgstr "كلمة المرور:٪ S"
+
+#: includes/theme-emails.php:285
+#, php-format
+msgid "[%s] Your username and password"
+msgstr "[%s] Your username and password"
+
+#: includes/theme-emails.php:305
+msgid "Post Reported"
+msgstr "بوست"
+
+#: includes/theme-emails.php:312
+#, php-format
+msgid "The following ad listing has just been reported on your %s website."
+msgstr "وقد تم للتو ذكرت الإعلان التالي نشرها على موقع الويب الخاص بك ليالي٪."
+
+#: includes/theme-emails.php:343
+msgid "Your membership has been activated"
+msgstr "تم تفعيل عضويتك"
+
+#: includes/theme-emails.php:346
+#: includes/theme-emails.php:347
+#, php-format
+msgid "You can post your ad by clicking on the following link:"
+msgstr "يمكنك نشر إعلانك من خلال النقر على الرابط التالي:"
+
+#: includes/theme-emails.php:383
+#, php-format
+msgid "Hello %s,"
+msgstr "مرحبا٪ S،"
+
+#: includes/theme-emails.php:384
+msgid "This email confirms that you have purchased the following items:"
+msgstr "تؤكد هذه الرسالة التي كنت قد اشتريت البنود التالية:"
+
+#: includes/theme-emails.php:386 includes/theme-emails.php:429
+msgid "Order Summary:"
+msgstr "ملخص النظام:"
+
+#: includes/theme-emails.php:390
+#, php-format
+msgid "[%s] Receipt for your order #%s"
+msgstr "[%s] Receipt for your order #%s"
+
+#: includes/theme-emails.php:425
+msgid "You have received payment for the following items:"
+msgstr "كنت قد تلقيت دفع للعناصر التالية:"
+
+#: includes/theme-emails.php:428
+msgid "Please review submitted ad listing, and approve it."
+msgstr "يرجى مراجعة قائمة المقدمة الإعلانية، والموافقة عليه."
+
+#: includes/theme-emails.php:433
+#, php-format
+msgid "[%s] Received payment for order #%s"
+msgstr "[%s] Received payment for order #%s"
+
+#: includes/theme-emails.php:451
+#, php-format
+msgid "[%s] Failed Order #%s"
+msgstr "[%s] Failed Order #%s"
+
+#: includes/theme-emails.php:454
+#, php-format
+msgid "Payment for the order #%s has failed."
+msgstr "فشلت الدفع للأوامر."
+
+#: includes/theme-emails.php:455
+#: includes/theme-enqueue.php:86
+#, php-format
+msgid "Are you sure you want to delete this ad."
+msgstr "هل أنت متأكد أنك تريد حذف هذا الإعلان."
+
+#: includes/theme-enqueue.php:87
+msgid "Navigation"
+msgstr "ملاحة"
+
+#: includes/theme-enqueue.php:93
+msgid "Very weak"
+msgstr "ضعيف جدا"
+
+#: includes/theme-enqueue.php:94
+msgid "Weak"
+msgstr "ضعيف"
+
+#: includes/theme-enqueue.php:95
+msgid "Medium"
+msgstr "متوسط"
+
+#: includes/theme-enqueue.php:96
+msgid "Strong"
+msgstr "قوي"
+
+#: includes/theme-enqueue.php:97
+msgid "Mismatch"
+msgstr "عدم تطابق"
+
+#: includes/theme-functions.php:152
+msgid "Listing"
+msgstr "قائمة"
+
+#: includes/theme-functions.php:157 includes/admin/admin-settings.php:1062
+msgid "Membership"
+msgstr "عضوية"
+
+#: includes/theme-functions.php:194 includes/theme-functions.php:197
+#: includes/forms/step1.php:63 includes/forms/step1.php:65
+msgid "Select one"
+msgstr "اختر واحدا"
+
+#: includes/theme-functions.php:227 includes/theme-functions.php:229
+msgid "Welcome,"
+msgstr "أهلا بك،"
+
+#: includes/theme-functions.php:227 includes/theme-functions.php:281
+msgid "Log out"
+msgstr "تسجيل الخروج"
+
+#: includes/theme-functions.php:229
+msgid "visitor!"
+msgstr "زائر!"
+
+#: includes/theme-functions.php:432
+msgid "No ad details found."
+msgstr "لم يتم العثور على تفاصيل الإعلان."
+
+#: includes/theme-functions.php:636 includes/theme-functions.php:640
+msgid "Image "
+msgstr "صورة"
+
+#: includes/theme-functions.php:784
+#: includes/theme-functions.php:786
+#: includes/theme-functions.php:826
+#, php-format
+msgid "Your ad images are now being processed..."
+msgstr "ويجري حاليا معالجة الصور الإعلانية ..."
+
+#: includes/theme-functions.php:873 includes/admin/admin-addons.php:75
+#: includes/admin/write-panel.php:363
+msgid "Image"
+msgstr "صورة"
+
+#: includes/theme-functions.php:881 includes/admin/write-panel.php:371
+msgid "Delete Image"
+msgstr "حذف صورة"
+
+#: includes/theme-functions.php:882 includes/admin/write-panel.php:372
+msgid "Upload Date:"
+msgstr "تاريخ الرفع:"
+
+#: includes/theme-functions.php:883 includes/admin/write-panel.php:373
+msgid "File Info:"
+msgstr "معلومات عن الملف:"
+
+#: includes/theme-functions.php:892 includes/admin/write-panel.php:382
+msgid "Alt Text:"
+msgstr "نص بديل:"
+
+#: includes/theme-functions.php:920
+msgid "Missing Attachment"
+msgstr "الملحق مفقود"
+
+#: includes/theme-functions.php:988
+#, php-format
+msgid "You are allowed %s image(s) per ad."
+msgstr "You are allowed %s image(s) per ad."
+
+#: includes/theme-functions.php:988
+msgid "KB max file size per image."
+msgstr "KB حجم ملف أقصى لكل صورة."
+
+#: includes/theme-functions.php:988
+msgid "Check the box next to each image you wish to delete."
+msgstr "ضع علامة في المربع بجانب كل صورة التي ترغب في حذفها."
+
+#: includes/theme-functions.php:1014
+msgid "Error in deleting the image."
+msgstr "خطأ في حذف الصورة."
+
+#: includes/theme-functions.php:1183 includes/admin/admin-options.php:901
+msgid "days"
+msgstr "أيام"
+
+#: includes/theme-functions.php:1184
+msgid "day"
+msgstr "يوم"
+
+#: includes/theme-functions.php:1185
+msgid "hours"
+msgstr "ساعات"
+
+#: includes/theme-functions.php:1186
+msgid "hour"
+msgstr "ساعة"
+
+#: includes/theme-functions.php:1187
+msgid "mins"
+msgstr "دقيقة"
+
+#: includes/theme-functions.php:1188
+msgid "min"
+msgstr "دقيقة"
+
+#: includes/theme-functions.php:1189
+msgid "secs"
+msgstr "ثوان"
+
+#: includes/theme-functions.php:1190
+msgid "remaining"
+msgstr "المتبقية"
+
+#: includes/theme-functions.php:1191
+msgid "This ad has expired"
+msgstr "انتهت صلاحية هذا الإعلان"
+
+#: includes/theme-functions.php:1239
+msgid "Ads tagged with"
+msgstr "الإعلانات المفتاحية"
+
+#: includes/theme-functions.php:1342
+msgid "Search results for"
+msgstr "نتائج البحث عن"
+
+#: includes/theme-functions.php:1346
+msgid "Posts tagged with"
+msgstr "المشاركات الموسومة ب"
+
+#: includes/theme-functions.php:1352
+msgid "About"
+msgstr "حول"
+
+#: includes/theme-functions.php:1372
+msgid "Random Ads"
+msgstr "إعلانات عشوائية"
+
+#: includes/theme-functions.php:1374
+msgid "Popular Ads"
+msgstr "الإعلانات الأكثر شعبية"
+
+#: includes/theme-functions.php:1376
+msgid "Latest Ads"
+msgstr "أحدث الإعلانات"
+
+#: includes/theme-functions.php:1380
+msgid "Page not found"
+msgstr "الصفحة غير موجودة"
+
+#: includes/theme-functions.php:1387
+msgid "Page"
+msgstr "صفحة"
+
+#: includes/theme-functions.php:1542
+msgid "No matches found"
+msgstr "لا توجد مباريات"
+
+#: includes/theme-functions.php:1684
+msgid "need at least two characters"
+msgstr "تحتاج اثنين أحرف على الأقل"
+
+#: includes/theme-functions.php:2115
+msgid "New Ad Listings"
+msgstr "أي إعلان جديد"
+
+#: includes/theme-functions.php:2120
+msgid "Total Sales"
+msgstr "إجمالي المبيعات"
+
+#: includes/theme-functions.php:2233
+msgid "Primary Navigation"
+msgstr "التنقل الأساسي"
+
+#: includes/theme-functions.php:2234
+msgid "Footer Navigation"
+msgstr "الإنتقال تذييل"
+
+#: includes/theme-functions.php:2235
+msgid "Theme Dashboard"
+msgstr "لوحة موضوع"
+
+#: includes/theme-functions.php:2255
+#, php-format
+msgid "Classified ad listing on %s for %s days"
+msgstr "سرية الإدراج الإعلان على٪ s ل٪ s أيام"
+
+#: includes/theme-functions.php:2260
+#, php-format
+msgid "Click here to publish your ad on %s"
+msgstr "انقر هنا لنشر إعلانك على٪ s"
+
+#: includes/theme-functions.php:2284
+#, php-format
+msgid "Membership on %s for %s days"
+msgstr "عضوية على٪ s ل٪ s أيام"
+
+#: includes/theme-functions.php:2289
+#, php-format
+msgid "Click here to complete your purchase on %s"
+msgstr "انقر هنا لإتمام عملية الشراء على٪ s"
+
+#: includes/theme-functions.php:2293
+msgid "Sorry, but theres been an error."
+msgstr "آسف، ولكن كان هناك خطأ."
+
+#: includes/theme-functions.php:2404 includes/theme-functions.php:2423
+#: includes/admin/admin-options.php:980 includes/admin/admin-options.php:995
+msgid "of price"
+msgstr "من سعر"
+
+#: includes/theme-functions.php:2408 includes/theme-functions.php:2418
+#: includes/admin/admin-options.php:983 includes/admin/admin-options.php:991
+#, php-format
+msgid "%ss less per ad"
+msgstr "٪ أقل في الإعلان SS"
+
+#: includes/theme-functions.php:2412 includes/theme-functions.php:2428
+msgid "Free Posting"
+msgstr "المشاركة مجانا"
+
+#: includes/theme-functions.php:2413 includes/theme-functions.php:2429
+#: includes/admin/admin-options.php:987 includes/admin/admin-options.php:1000
+#, php-format
+msgid "%s per ad"
+msgstr "٪ S في إعلان"
+
+#: includes/theme-functions.php:2414 includes/theme-functions.php:2419
+#: includes/theme-functions.php:2424 includes/admin/admin-options.php:988
+#: includes/admin/admin-options.php:992 includes/admin/admin-options.php:996
+msgid "required to post"
+msgstr "المطلوب للنشر"
+
+#: includes/theme-functions.php:2652
+msgid "Edit Post"
+msgstr "تعديل آخر"
+
+#: includes/theme-functions.php:2689 includes/theme-functions.php:2690
+#: includes/admin/admin-values.php:79 includes/admin/admin-values.php:258
+#: includes/admin/admin-values.php:367
+msgid "Active"
+msgstr "نشط"
+
+#: includes/theme-functions.php:2691
+msgid "Chargeback"
+msgstr "تحميل التكاليف"
+
+#: includes/theme-functions.php:2692 includes/payments/order-class.php:393
+#: includes/payments/gateways/paypal/paypal.php:183
+msgid "Completed"
+msgstr "الانتهاء"
+
+#: includes/theme-functions.php:2693
+#: includes/payments/gateways/paypal/paypal.php:185
+msgid "Denied"
+msgstr "رفض"
+
+#: includes/theme-functions.php:2694
+msgid "Draft"
+msgstr "مسودة"
+
+#: includes/theme-functions.php:2695
+msgid "Expired"
+msgstr "انتهى"
+
+#: includes/theme-functions.php:2696 includes/payments/order-class.php:392
+#: includes/payments/gateways/paypal/paypal.php:186
+msgid "Failed"
+msgstr "فشل"
+
+#: includes/theme-functions.php:2697
+msgid "Scheduled"
+msgstr "المقرر"
+
+#: includes/theme-functions.php:2698 includes/theme-functions.php:2699
+#: includes/admin/admin-values.php:80 includes/admin/admin-values.php:259
+#: includes/admin/admin-values.php:368
+msgid "Inactive"
+msgstr "غير فعال"
+
+#: includes/theme-functions.php:2700 includes/payments/order-class.php:391
+msgid "Pending"
+msgstr "ريثما"
+
+#: includes/theme-functions.php:2701
+msgid "Private"
+msgstr "خاص"
+
+#: includes/theme-functions.php:2702 includes/admin/admin-settings.php:370
+msgid "Published"
+msgstr "نشرت"
+
+#: includes/theme-functions.php:2703
+msgid "Refunded"
+msgstr "ردها"
+
+#: includes/theme-functions.php:2704
+#: includes/payments/gateways/paypal/paypal.php:184
+msgid "Reversed"
+msgstr "عكس"
+
+#: includes/theme-functions.php:2705
+msgid "Trash"
+msgstr "سلة المهملات"
+
+#: includes/theme-functions.php:2706
+msgid "Unverified"
+msgstr "لم يتم التحقق"
+
+#: includes/theme-functions.php:2707
+msgid "Verified"
+msgstr "التحقق"
+
+#: includes/theme-functions.php:2708
+#: includes/payments/gateways/paypal/paypal.php:187
+msgid "Voided"
+msgstr "يفرغ"
+
+#: includes/theme-functions.php:2796
+#, php-format
+msgid "All times are GMT %s. The time now is %s."
+msgstr "جميع الأوقات بتوقيت GMT٪ ق. الوقت الآن هو٪ s."
+
+#: includes/theme-options.php:47
+msgid "Welcome to our Web site!"
+msgstr "مرحبا بكم في موقعنا على شبكة الانترنت!"
+
+#: includes/theme-options.php:48
+msgid "List Your Classified Ads"
+msgstr "قائمة الإعلانات المبوبة الخاصة بك"
+
+#: includes/theme-options.php:49
+#: includes/theme-options.php:52
+#: includes/theme-options.php:58
+#: includes/theme-options.php:60
+#: includes/theme-options.php:63
+msgid "RULES AND GUIDELINES"
+msgstr "القواعد والمبادئ التوجيهية"
+
+#: includes/theme-options.php:64
+#: includes/theme-options.php:65
+#: includes/theme-options.php:66
+msgid "By posting an ad on our site, you agree to the following statement:"
+msgstr "عن طريق نشر إعلان على موقعنا، فإنك توافق على العبارة التالية:"
+
+#: includes/theme-options.php:67
+#: includes/theme-options.php:68
+#: includes/theme-options.php:70
+#: includes/theme-options.php:71
+msgid "No racist, hateful, or otherwise offensive comments will be tolerated."
+msgstr "سوف لن يتم التسامح لا تعليقات عنصرية ومكروهة، أو الهجوم على خلاف ذلك."
+
+#: includes/theme-options.php:72
+#: includes/theme-options.php:73
+#: includes/theme-options.php:74
+#: includes/theme-options.php:76
+msgid "Thank you for your understanding."
+msgstr "شكرا لكم على تفهمكم."
+
+#: includes/theme-options.php:156
+msgid "Thank you for registering, %username%"
+msgstr "شكرا لكم لتسجيل،٪ USERNAME٪"
+
+#: includes/theme-options.php:160
+#, php-format
+msgid "Welcome to %s, your leader in online classified ad listings."
+msgstr "ترحيب إلى٪ s، زعيم الخاص بك على الانترنت في قوائم الإعلانات المبوبة."
+
+#: includes/theme-options.php:161
+#: includes/theme-options.php:167
+msgid "If you have any questions, please just let us know."
+msgstr "إذا كان لديك أي أسئلة، يرجى فقط اسمحوا لنا أن نعرف."
+
+#: includes/theme-options.php:168
+msgid "Best regards,"
+msgstr "مع أطيب التحيات،"
+
+#: includes/theme-payments.php:162
+msgid "Continue"
+msgstr "استمر"
+
+#: includes/theme-profile.php:28
+msgid "Enter your Twitter username without the URL."
+msgstr "أدخل تويتر اسم المستخدم دون URL."
+
+#: includes/theme-profile.php:29
+#: includes/theme-profile.php:39
+#, php-format
+msgid "Active Membership Pack:"
+msgstr "نشط حزمة العضوية:"
+
+#: includes/theme-profile.php:42
+#: includes/theme-profile.php:43
+msgid "Enter Pack ID to activate membership for user."
+msgstr "أدخل معرف حزمة لتنشيط العضوية عن العضو."
+
+#: includes/theme-profile.php:46
+msgid "Membership Pack Expires Date:"
+msgstr "عضوية حزمة ينتهي التسجيل:"
+
+#: includes/theme-profile.php:49
+#: includes/theme-profile.php:50
+#: includes/theme-profile.php:62
+msgid "Extended Profile"
+msgstr "الموسعة الشخصي"
+
+#: includes/theme-refine.php:104
+msgid "Refine Results"
+msgstr "حدد النتائج"
+
+#: includes/theme-refine.php:160
+#: includes/payments/gateways/bank-transfer/bt-emails.php:16
+#, php-format
+msgid "%s or %s"
+msgstr "٪ S٪ S أو"
+
+#: includes/theme-refine.php:170
+msgid "miles"
+msgstr "كيلومتر"
+
+#: includes/theme-refine.php:170
+msgid "kilometers"
+msgstr "كم"
+
+#: includes/theme-refine.php:196
+msgid "Radius"
+msgstr "نصف القطر"
+
+#: includes/theme-refine.php:239
+msgid "Show Thousands"
+msgstr "تظهر آلاف"
+
+#: includes/theme-refine.php:283
+msgid "Refine Results &rsaquo;&rsaquo;"
+msgstr "حدد النتائج >>"
+
+#: includes/theme-searchbar.php:31 includes/admin/admin-post-types.php:35
+msgid "Search Ads"
+msgstr "بحث الإعلانات"
+
+#: includes/theme-searchbar.php:33 includes/theme-widgets.php:111
+msgid "All Categories"
+msgstr "جميع الفئات"
+
+#: includes/theme-security.php:37
+msgid "Access Denied."
+msgstr "تم رفض الوصول."
+
+#: includes/theme-security.php:43
+#: includes/theme-sidebars.php:14
+msgid "Main Sidebar"
+msgstr "الشريط الجانبي الرئيسي"
+
+#: includes/theme-sidebars.php:16
+msgid "This is your main ClassiPress sidebar."
+msgstr "هذا هو الشريط الجانبي ClassiPress الرئيسي الخاص بك."
+
+#: includes/theme-sidebars.php:24
+msgid "Ad Sidebar"
+msgstr "إعلان الشريط الجانبي"
+
+#: includes/theme-sidebars.php:26
+msgid "This is your ClassiPress single ad listing sidebar."
+msgstr "وهذا هو الخاص ClassiPress واحد إعلان قائمة الشريط الجانبي."
+
+#: includes/theme-sidebars.php:34
+msgid "Page Sidebar"
+msgstr "الصفحة الشريط الجانبي"
+
+#: includes/theme-sidebars.php:36
+msgid "This is your ClassiPress page sidebar."
+msgstr "هذا هو الشريط الجانبي الخاص بك الصفحة ClassiPress."
+
+#: includes/theme-sidebars.php:44
+msgid "Blog Sidebar"
+msgstr "بلوق الشريط الجانبي"
+
+#: includes/theme-sidebars.php:46
+msgid "This is your ClassiPress blog sidebar."
+msgstr "هذا هو الشريط الجانبي الخاص بك بلوق ClassiPress."
+
+#: includes/theme-sidebars.php:54
+msgid "Dashboard Sidebar"
+msgstr "لوحة أجهزة القياس الشريط الجانبي"
+
+#: includes/theme-sidebars.php:56
+msgid "This is your ClassiPress dashboard sidebar."
+msgstr "هذا هو الشريط الجانبي الخاص ClassiPress لوحة أجهزة القياس."
+
+#: includes/theme-sidebars.php:64
+msgid "Author Sidebar"
+msgstr "المؤلف الشريط الجانبي"
+
+#: includes/theme-sidebars.php:66
+msgid "This is your ClassiPress author sidebar."
+msgstr "هذا هو الشريط الجانبي الخاص ClassiPress المؤلف."
+
+#: includes/theme-sidebars.php:74 includes/admin/install-script.php:612
+msgid "Footer"
+msgstr "تذييل"
+
+#: includes/theme-sidebars.php:76
+#: includes/theme-stats.php:28 includes/theme-stats.php:60
+msgid "views"
+msgstr "المشاهدات"
+
+#: includes/theme-stats.php:33 includes/theme-stats.php:65
+msgid "No ads viewed yet."
+msgstr "لم تقم حتى الآن الإعلانات."
+
+#: includes/theme-widgets.php:15
+msgid "Display the ad categories."
+msgstr "عرض الفئات الإعلانية."
+
+#: includes/theme-widgets.php:16
+msgid "CP Ad Categories"
+msgstr "CP الإعلان الفئات"
+
+#: includes/theme-widgets.php:74
+msgid "Number of categories to show (0 for all):"
+msgstr "Number of categories to show (0 for all):"
+
+#: includes/theme-widgets.php:113
+msgid "Search"
+msgstr "بحث"
+
+#: includes/theme-widgets.php:130
+msgid "Filter by City"
+msgstr "النتائج حسب المنطقة"
+
+#: includes/theme-widgets.php:149
+msgid "All"
+msgstr "كل"
+
+#: includes/theme-widgets.php:161
+msgid "No cities found."
+msgstr "لم يتم العثور على المدن."
+
+#: includes/theme-widgets.php:188
+msgid "Places an ad space in the sidebar for 125x125 ads"
+msgstr "يضع المساحة الإعلانية في الشريط الجانبي ل125x125 الإعلانات"
+
+#: includes/theme-widgets.php:190
+msgid "CP 125x125 Ads"
+msgstr "CP 125x125 الإعلانات"
+
+#: includes/theme-widgets.php:252
+msgid "Sponsored Ads"
+msgstr "إعلانات متميزة"
+
+#: includes/theme-widgets.php:261
+msgid "Ads:"
+msgstr "الإعلانات:"
+
+#: includes/theme-widgets.php:263
+#: includes/theme-widgets.php:268
+msgid "Open ads in a new window."
+msgstr "فتح الإعلانات في نافذة جديدة."
+
+#: includes/theme-widgets.php:279
+#: includes/theme-widgets.php:280
+msgid "CP Facebook Like Box"
+msgstr "CP الفيسبوك مثل صندوق"
+
+#: includes/theme-widgets.php:321
+msgid "Facebook Friends"
+msgstr "الفيسبوك أصدقاء"
+
+#: includes/theme-widgets.php:331
+msgid "Facebook ID:"
+msgstr "الفيسبوك ID:"
+
+#: includes/theme-widgets.php:337
+msgid "Connections"
+msgstr "روابط"
+
+#: includes/theme-widgets.php:342
+msgid "Width"
+msgstr "عرض"
+
+#: includes/theme-widgets.php:347
+msgid "Height"
+msgstr "ارتفاع"
+
+#: includes/theme-widgets.php:359
+msgid "This places a real-time Twitter feed in your sidebar."
+msgstr "هذا يضع إس التغريد في الوقت الحقيقي في الشريط الجانبي الخاص بك."
+
+#: includes/theme-widgets.php:360
+msgid "CP Real-Time Twitter Feed"
+msgstr "CP في الوقت الحقيقي التغريد الأعلاف"
+
+#: includes/theme-widgets.php:487
+msgid "Twitter Username:"
+msgstr "تويتر اسم المستخدم:"
+
+#: includes/theme-widgets.php:492
+msgid "Twitter API Key:"
+msgstr "تويتر API الرئيسية:"
+
+#: includes/theme-widgets.php:497
+msgid "Keyword Tweets:"
+msgstr "تغريدات الكلمة:"
+
+#: includes/theme-widgets.php:502
+msgid "Display Type:"
+msgstr "عرض النوع:"
+
+#: includes/theme-widgets.php:504
+msgid "Show Username Tweets"
+msgstr "مشاهدة تغريدات اسم المستخدم"
+
+#: includes/theme-widgets.php:505
+msgid "Show Keyword Tweets"
+msgstr "مشاهدة تغريدات كلمة"
+
+#: includes/theme-widgets.php:510
+msgid "Refresh Mode:"
+msgstr "تحديث الوضع:"
+
+#: includes/theme-widgets.php:512 includes/admin/admin-settings.php:387
+#: includes/forms/step-functions.php:138
+msgid "None"
+msgstr "لا شيء"
+
+#: includes/theme-widgets.php:513
+msgid "Real-Time Updates"
+msgstr "تحديثات في الوقت الحقيقي"
+
+#: includes/theme-widgets.php:514
+msgid "Click Button Updates"
+msgstr "انقر فوق زر التحديثات"
+
+#: includes/theme-widgets.php:519
+msgid "Paging Style:"
+msgstr "ترحيل نمط:"
+
+#: includes/theme-widgets.php:521
+msgid "More Button"
+msgstr "أكثر زر"
+
+#: includes/theme-widgets.php:522
+msgid "Next &amp; Previous Buttons"
+msgstr "أزرار التالي والسابق"
+
+#: includes/theme-widgets.php:523
+msgid "Endless Scrolling"
+msgstr "التمرير التي لا نهاية لها"
+
+#: includes/theme-widgets.php:529
+msgid "Tweets Shown"
+msgstr "تويت ظاهر"
+
+#: includes/theme-widgets.php:534
+msgid "Default Language"
+msgstr "اللغة الافتراضية"
+
+#: includes/theme-widgets.php:539
+msgid "Show Follow Button"
+msgstr "مشاهدة اتبع زر"
+
+#: includes/theme-widgets.php:542
+msgid "Show Connect Button"
+msgstr "مشاهدة ربط زر"
+
+#: includes/theme-widgets.php:569
+msgid "Your most recent blog posts"
+msgstr "مشاركاتك آخر بلوق"
+
+#: includes/theme-widgets.php:570
+msgid "CP Recent Blog Posts"
+msgstr "CP آخر مقالات المدونة"
+
+#: includes/theme-widgets.php:607
+msgid "From the Blog"
+msgstr "من مدونة"
+
+#: includes/theme-widgets.php:617
+msgid "Posts Shown"
+msgstr "الوظائف المبينة"
+
+#: includes/theme-widgets.php:630
+msgid "Your sidebar ad search box"
+msgstr "الشريط الجانبي مربع البحث إضافتك"
+
+#: includes/theme-widgets.php:631
+msgid "CP Ad Search Box"
+msgstr "CP اعلان مربع البحث"
+
+#: includes/theme-widgets.php:637
+msgid "Search Classified Ads"
+msgstr "بحث الإعلانات المبوبة"
+
+#: includes/theme-widgets.php:667
+msgid "Display the top ads today."
+msgstr "عرض أفضل الإعلانات اليوم."
+
+#: includes/theme-widgets.php:668
+msgid "CP Top Ads Today"
+msgstr "CP أفضل الإعلانات اليوم"
+
+#: includes/theme-widgets.php:673
+msgid "Popular Ads Today"
+msgstr "الإعلانات الأكثر شعبية اليوم"
+
+#: includes/theme-widgets.php:705 includes/theme-widgets.php:755
+#: includes/theme-widgets.php:929 includes/theme-widgets.php:1009
+msgid "Number of ads to show:"
+msgstr "عدد الإعلانات لإظهار:"
+
+#: includes/theme-widgets.php:717
+msgid "Display the top ads overall."
+msgstr "عرض أفضل الإعلانات بشكل عام."
+
+#: includes/theme-widgets.php:718
+msgid "CP Top Ads Overall"
+msgstr "CP أفضل الإعلانات الإجمالي"
+
+#: includes/theme-widgets.php:723
+msgid "Popular Ads Overall"
+msgstr "الإعلانات الأكثر شعبية الإجمالي"
+
+#: includes/theme-widgets.php:772
+msgid "Site Sponsors"
+msgstr "موقع الرعاة"
+
+#: includes/theme-widgets.php:793
+msgid "Your most used ad tags in cloud format."
+msgstr "الخاصة بك الأكثر استخداما به الإعلان في شكل سحابة."
+
+#: includes/theme-widgets.php:794
+msgid "CP Ads Tag Cloud"
+msgstr "CP الإعلانات سحابة الكلمة الدلالية"
+
+#: includes/theme-widgets.php:808 includes/admin/admin-post-types.php:79
+msgid "Ad Tags"
+msgstr "إعلان الكلمات"
+
+#: includes/theme-widgets.php:847
+msgid "Taxonomy:"
+msgstr "التصنيف:"
+
+#: includes/theme-widgets.php:860
+msgid "Number of items to show:"
+msgstr "عدد من عناصر لإظهارها:"
+
+#: includes/theme-widgets.php:876
+msgid "Display the featured ads."
+msgstr "عرض الإعلانات المميزة."
+
+#: includes/theme-widgets.php:877
+msgid "CP Featured Ads"
+msgstr "CP الإعلانات المميزة"
+
+#: includes/theme-widgets.php:944
+msgid "Display the ads marked as sold."
+msgstr "عرض إعلانات وضعت بيعها."
+
+#: includes/theme-widgets.php:945
+msgid "CP Sold Ads"
+msgstr "مباع ن الإعلانات"
+
+#: includes/theme-widgets.php:950
+msgid "Sold Ads"
+msgstr "إعلانات بيعها"
+
+#: includes/views.php:6
+msgid "Blog"
+msgstr "بلوق"
+
+#: includes/views.php:18
+msgid "Ad Listings"
+msgstr "قوائم إعلان"
+
+#: includes/views.php:30 includes/admin/admin-options.php:857
+#: includes/admin/admin-options.php:938 includes/admin/admin-options.php:1447
+#: includes/admin/admin-options.php:1743
+#: includes/admin/admin-post-types.php:28
+#: includes/payments/order-functions.php:28
+msgid "Add New"
+msgstr "إضافة جديد"
+
+#: includes/views.php:75
+#: includes/views.php:114
+#, php-format
+msgid "Memberships"
+msgstr "عضوية"
+
+#: includes/views.php:147
+msgid "Edit Item"
+msgstr "تحرير عنصر"
+
+#: includes/views.php:223
+msgid "There was an error trying to update your ad."
+msgstr "كان هناك خطأ أثناء محاولة تحديث إعلانك."
+
+#: includes/views.php:252
+msgid "Your ad has been successfully updated."
+msgstr "تم تحديث إعلانك بنجاح."
+
+#: includes/views.php:252
+msgid "Return to my dashboard"
+msgstr "العودة إلى بلدي لوحة القيادة"
+
+#: includes/views.php:373
+msgid "Ad has been paused."
+msgstr "تم إيقاف الإعلان."
+
+#: includes/views.php:375
+msgid "Ad has been published."
+msgstr "وقد تم نشر الإعلان."
+
+#: includes/views.php:377
+msgid "Ad has been deleted."
+msgstr "تم حذف الإعلان."
+
+#: includes/views.php:379
+msgid "Ad has been marked as sold."
+msgstr "وقد اتسم الإعلان عن بيعها."
+
+#: includes/views.php:381
+msgid "Ad has been unmarked as sold."
+msgstr "وقد تم الإعلان لا تحمل علامات مميزة كما تباع."
+
+#: includes/views.php:383
+msgid "You can not relist this ad. Relisting is currently disabled."
+msgstr "لا يمكنك اعادة تسجيلها هذا الإعلان. تم تعطيل ريليستينغ حاليا."
+
+#: includes/views.php:385
+msgid "You can not relist this ad. Invalid ID of an ad."
+msgstr "لا يمكنك اعادة تسجيلها هذا الإعلان. ID غير صالح أحد الإعلانات."
+
+#: includes/views.php:387
+msgid "You can not relist this ad. Ad is not expired."
+msgstr "لا يمكنك ترسل لك هذه الرسالة الإعلانية. لم تنته مدة صلاحيتها الإعلان."
+
+#: includes/views.php:389
+msgid "You can not edit this ad. Invalid ID of an ad."
+msgstr "لا يمكنك تعديل هذا الإعلان. ID غير صالح أحد الإعلانات."
+
+#: includes/views.php:391
+msgid "You can not edit this ad. Its not your ad."
+msgstr "لا يمكنك تعديل هذا الإعلان. انها ليست إعلانك."
+
+#: includes/views.php:393
+msgid "You can not edit this ad. This is not an ad."
+msgstr "لا يمكنك تعديل هذا الإعلان. هذا ليس إعلانا."
+
+#: includes/views.php:395
+msgid "You can not edit this ad. Editing is currently disabled."
+msgstr "لا يمكنك تعديل هذا الإعلان. تم تعطيل تحرير حاليا."
+
+#: includes/views.php:397
+msgid "You can not edit this ad. Ad is not yet approved."
+msgstr "لا يمكنك تعديل هذا الإعلان. لم تتم الموافقة حتى الآن الإعلان."
+
+#: includes/views.php:399
+msgid "You can not edit this ad. Ad is expired."
+msgstr "لا يمكنك تعديل هذا الإعلان. انتهت مدة صلاحية الإعلان."
+
+#: includes/views.php:401
+msgid "Payments are currently disabled. You cannot purchase anything."
+msgstr "يتم تعطيل المدفوعات حاليا. لا يمكنك شراء أي شيء."
+
+#: includes/views.php:411
+msgid "Profile"
+msgstr "الملف الشخصي"
+
+#: includes/views.php:440 includes/admin/admin-options.php:1460
+msgid "Categories"
+msgstr "التصنيفات"
+
+#: includes/views.php:489
+#: includes/admin/admin-dashboard.php:10
+msgid "ClassiPress Dashboard"
+msgstr "ClassiPress لوحة"
+
+#: includes/admin/admin-dashboard.php:14
+msgid "Stats - Last 30 Days"
+msgstr "الإحصائيات - آخر 30 أيام"
+
+#: includes/admin/admin-dashboard.php:15
+msgid "Support Forum"
+msgstr "منتدى الدعم"
+
+#: includes/admin/admin-dashboard.php:18
+msgid "ClassiPress Info"
+msgstr "ClassiPress معلومات"
+
+#: includes/admin/admin-dashboard.php:31
+msgid "New Registrations"
+msgstr "تسجيلات جديدة"
+
+#: includes/admin/admin-dashboard.php:33
+msgid "Today"
+msgstr "اليوم"
+
+#: includes/admin/admin-dashboard.php:35 includes/admin/admin-dashboard.php:41
+msgid "Customers"
+msgstr "الزبائن"
+
+#: includes/admin/admin-dashboard.php:39
+msgid "Yesterday"
+msgstr "أمس"
+
+#: includes/admin/admin-dashboard.php:50 includes/admin/admin-dashboard.php:55
+msgid "Total Live Ads"
+msgstr "مجموع الإعلانات لايف"
+
+#: includes/admin/admin-dashboard.php:58 includes/admin/admin-dashboard.php:63
+msgid "Total Pending Ads"
+msgstr "مجموع الإعلانات قيد الانتظار"
+
+#: includes/admin/admin-dashboard.php:66
+msgid "Total Users"
+msgstr "عدد الأعضاء"
+
+#: includes/admin/admin-dashboard.php:73
+msgid "Revenue (7 days)"
+msgstr "Revenue (7 days)"
+
+#: includes/admin/admin-dashboard.php:74
+msgid "Total Revenue"
+msgstr "إجمالي الإيرادات"
+
+#: includes/admin/admin-dashboard.php:77
+msgid "Product Version"
+msgstr "إصدار المنتج"
+
+#: includes/admin/admin-dashboard.php:78 includes/admin/admin-dashboard.php:79
+msgid "Product Support"
+msgstr "دعم المنتج"
+
+#: includes/admin/admin-dashboard.php:78
+msgid "Forum"
+msgstr "المنتدى"
+
+#: includes/admin/admin-dashboard.php:79
+msgid "Documentation"
+msgstr "توثيق"
+
+#: includes/admin/admin-options.php:14
+msgid "Packages"
+msgstr "حزم"
+
+#: includes/admin/admin-options.php:15 includes/admin/admin-options.php:1447
+msgid "Form Layouts"
+msgstr "تخطيطات شكل"
+
+#: includes/admin/admin-options.php:15
+msgid " Form Layouts"
+msgstr "تخطيطات شكل"
+
+#: includes/admin/admin-options.php:16 includes/admin/admin-options.php:1743
+msgid "Custom Fields"
+msgstr "الحقول المخصصة"
+
+#: includes/admin/admin-options.php:17
+msgid "System Info"
+msgstr "معلومات نظام"
+
+#: includes/admin/admin-options.php:254
+msgid "Cannot remove from layout"
+msgstr "لا يمكن إزالة من تخطيط"
+
+#: includes/admin/admin-options.php:256
+msgid "Remove from layout"
+msgstr "إزالة من تخطيط"
+
+#: includes/admin/admin-options.php:641
+#: includes/admin/admin-options.php:719
+msgid "New Membership Pack"
+msgstr "حزمة عضوية جديدة"
+
+#: includes/admin/admin-options.php:719
+msgid "New Ad Pack"
+msgstr "اعلان جديد حزمة"
+
+#: includes/admin/admin-options.php:750
+msgid "Creating your ad package....."
+msgstr "إنشاء حزمة إعلانك ....."
+
+#: includes/admin/admin-options.php:764
+msgid "Create New Ad Package"
+msgstr "إنشاء إعلان جديد حزمة"
+
+#: includes/admin/admin-options.php:784
+msgid "Edit Ad Package"
+msgstr "تعديل الإعلان الحزمة"
+
+#: includes/admin/admin-options.php:812 includes/admin/admin-options.php:1162
+#: includes/admin/admin-options.php:1678
+msgid "Saving your changes....."
+msgstr "حفظ التغييرات الخاصة بك ....."
+
+#: includes/admin/admin-options.php:824 includes/admin/admin-options.php:1173
+#: includes/admin/admin-options.php:1693
+msgid "Save changes"
+msgstr "حفظ التغييرات"
+
+#: includes/admin/admin-options.php:844
+msgid "Deleting ad package....."
+msgstr "حذف حزمة إعلان ....."
+
+#: includes/admin/admin-options.php:857
+msgid "Ad Packs"
+msgstr "حزم الإعلان"
+
+#: includes/admin/admin-options.php:862
+#: includes/admin/admin-options.php:865
+#: includes/admin/admin-options.php:874
+#, php-format
+msgid "Price Per Ad"
+msgstr "السعر لكل إعلان"
+
+#: includes/admin/admin-options.php:875 includes/admin/write-panel.php:116
+msgid "Duration"
+msgstr "مدة"
+
+#: includes/admin/admin-options.php:876 includes/admin/admin-options.php:953
+#: includes/admin/admin-options.php:1461 includes/admin/admin-options.php:1757
+msgid "Modified"
+msgstr "تم التعديل"
+
+#: includes/admin/admin-options.php:878 includes/admin/admin-options.php:955
+#: includes/admin/admin-options.php:1463 includes/admin/admin-options.php:1758
+msgid "Actions"
+msgstr "تطبيقات"
+
+#: includes/admin/admin-options.php:905 includes/admin/admin-options.php:1008
+msgid "Edit ad package"
+msgstr "تعديل حزمة الإعلان"
+
+#: includes/admin/admin-options.php:906 includes/admin/admin-options.php:1009
+msgid "Delete ad package"
+msgstr "حذف حزمة الإعلان"
+
+#: includes/admin/admin-options.php:924 includes/admin/admin-options.php:1027
+msgid "No ad packs found."
+msgstr "لم يتم العثور على حزم الإعلان."
+
+#: includes/admin/admin-options.php:938
+msgid "Membership Packs"
+msgstr "حزم العضوية"
+
+#: includes/admin/admin-options.php:942
+#: includes/admin/admin-options.php:951
+#, php-format
+msgid "Price Modifier"
+msgstr "سعر معدل"
+
+#: includes/admin/admin-options.php:952
+msgid "Terms"
+msgstr "شروط"
+
+#: includes/admin/admin-options.php:986 includes/admin/admin-options.php:999
+#: includes/forms/step-functions.php:584 includes/forms/step-functions.php:590
+msgid "Free"
+msgstr "حر"
+
+#: includes/admin/admin-options.php:1004
+#: includes/forms/step1-membership.php:90
+#, php-format
+msgid "%s / %s days"
+msgstr "٪ ق /٪ ق أيام"
+
+#: includes/admin/admin-options.php:1044
+msgid "Are you sure you want to delete this ad package."
+msgstr "هل أنت متأكد أنك تريد حذف هذه الحزمة الإعلانية."
+
+#: includes/admin/admin-options.php:1079
+msgid "New Form Layout"
+msgstr "تخطيط النموذج الجديد"
+
+#: includes/admin/admin-options.php:1088 includes/admin/admin-options.php:1146
+#: includes/admin/admin-options.php:1105
+msgid "Creating your form....."
+msgstr "خلق النموذج الخاص بك ....."
+
+#: includes/admin/admin-options.php:1118
+msgid "Create New Form"
+msgstr "إنشاء نموذج جديد"
+
+#: includes/admin/admin-options.php:1140
+msgid "Edit Form Properties"
+msgstr "تعديل خصائص النموذج"
+
+#: includes/admin/admin-options.php:1200
+msgid "Edit Form Layout"
+msgstr "تعديل تخطيط النموذج"
+
+#: includes/admin/admin-options.php:1249
+msgid "Your changes have been saved."
+msgstr "تم حفظ التغييرات."
+
+#: includes/admin/admin-options.php:1276 includes/admin/admin-values.php:37
+msgid "Form Name"
+msgstr "اسم النموذج"
+
+#: includes/admin/admin-options.php:1283
+msgid "Form Preview"
+msgstr "معاينة شكل"
+
+#: includes/admin/admin-options.php:1284
+msgid "Show field in the category refine search sidebar"
+msgstr "إظهار حقل في فئة صقل الشريط الجانبي بحث"
+
+#: includes/admin/admin-options.php:1284
+msgid "Advanced Search"
+msgstr "بحث متقدم"
+
+#: includes/admin/admin-options.php:1285
+msgid "Required"
+msgstr "مطلوب"
+
+#: includes/admin/admin-options.php:1286
+msgid "Remove"
+msgstr "نزع"
+
+#: includes/admin/admin-options.php:1323
+msgid "No fields have been added to this form layout yet."
+msgstr "لم يتم إضافة أي حقول إلى هذا تخطيط النموذج حتى الآن."
+
+#: includes/admin/admin-options.php:1345
+msgid "Available Fields"
+msgstr "الحقول المتوفرة"
+
+#: includes/admin/admin-options.php:1356 includes/admin/admin-values.php:94
+msgid "Field Name"
+msgstr "اسم الحقل"
+
+#: includes/admin/admin-options.php:1357 includes/admin/admin-options.php:1755
+msgid "Type"
+msgstr "نوع"
+
+#: includes/admin/admin-options.php:1396
+msgid "No fields are available."
+msgstr "لا تتوفر المجالات."
+
+#: includes/admin/admin-options.php:1409
+msgid "Add Fields to Form Layout"
+msgstr "إضافة حقول إلى نموذج تخطيط"
+
+#: includes/admin/admin-options.php:1433
+msgid "Deleting form layout....."
+msgstr "حذف تخطيط النموذج ....."
+
+#: includes/admin/admin-options.php:1451
+#: includes/admin/admin-options.php:1488
+msgid "Edit form layout"
+msgstr "تعديل تخطيط النموذج"
+
+#: includes/admin/admin-options.php:1489
+msgid "Edit form properties"
+msgstr "تعديل خصائص النموذج"
+
+#: includes/admin/admin-options.php:1490
+msgid "Delete form layout"
+msgstr "حذف تخطيط النموذج"
+
+#: includes/admin/admin-options.php:1509
+msgid "No form layouts found."
+msgstr "لم يتم العثور على تخطيطات النموذج."
+
+#: includes/admin/admin-options.php:1526
+msgid "Are you sure you want to delete this."
+msgstr "هل أنت متأكد أنك تريد حذف هذا."
+
+#: includes/admin/admin-options.php:1527
+msgid "Are you sure you want to remove this."
+msgstr "هل أنت متأكد أنك تريد إزالة هذا."
+
+#: includes/admin/admin-options.php:1588
+msgid "New Custom Field"
+msgstr "حقل مخصص جديد"
+
+#: includes/admin/admin-options.php:1617
+msgid "Creating your field....."
+msgstr "خلق مجال عملك ....."
+
+#: includes/admin/admin-options.php:1632
+msgid "Create New Field"
+msgstr "إنشاء حقل جديد"
+
+#: includes/admin/admin-options.php:1654
+msgid "Edit Custom Field"
+msgstr "تحرير حقل مخصص"
+
+#: includes/admin/admin-options.php:1723
+msgid "Deleting custom field....."
+msgstr "حذف الحقل المخصص ....."
+
+#: includes/admin/admin-options.php:1747
+#: includes/admin/admin-options.php:1832
+#: includes/admin/admin-options.php:1851
+#: includes/admin/admin-options.php:1883
+#: includes/admin/admin-options.php:1894
+#, php-format
+msgid "ClassiPress %s cache has been flushed."
+msgstr "وقد تم مسح ذاكرة التخزين المؤقت ClassiPress٪ ق."
+
+#: includes/admin/admin-options.php:1909
+msgid "ClassiPress System Info"
+msgstr "ClassiPress معلومات النظام"
+
+#: includes/admin/admin-options.php:1928
+msgid "ClassiPress was successfully reinstalled."
+msgstr "تم إعادة تثبيت ClassiPress بنجاح."
+
+#: includes/admin/admin-options.php:1944
+msgid "Debug Info"
+msgstr "تصحيح معلومات"
+
+#: includes/admin/admin-options.php:1945
+msgid "Cron Jobs"
+msgstr "وظائف كرون"
+
+#: includes/admin/admin-options.php:1946 includes/admin/admin-settings.php:51
+msgid "Advanced"
+msgstr "متقدم"
+
+#: includes/admin/admin-options.php:1956
+msgid "Theme Info"
+msgstr "معلومات موضوع"
+
+#: includes/admin/admin-options.php:1963
+msgid "ClassiPress Version"
+msgstr "ClassiPress النسخة"
+
+#: includes/admin/admin-options.php:1968
+msgid "ClassiPress DB Version"
+msgstr "ClassiPress DB النسخة"
+
+#: includes/admin/admin-options.php:1973
+msgid "WordPress Version"
+msgstr "وورد النسخة"
+
+#: includes/admin/admin-options.php:1974
+msgid "Multisite"
+msgstr "متعددة المواقع"
+
+#: includes/admin/admin-options.php:1978
+msgid "Theme Path"
+msgstr "مسار الموضوع"
+
+#: includes/admin/admin-options.php:1984
+msgid "Server Info"
+msgstr "معلومات الخادم"
+
+#: includes/admin/admin-options.php:1990
+msgid "PHP Version"
+msgstr "PHP الإصدار"
+
+#: includes/admin/admin-options.php:1995
+msgid "Server Software"
+msgstr "برمجيات الخادم"
+
+#: includes/admin/admin-options.php:2000
+msgid "UPLOAD_MAX_FILESIZE"
+msgstr "المرفوعة"
+
+#: includes/admin/admin-options.php:2005
+msgid "DISPLAY_ERRORS"
+msgstr "DISPLAY_ERRORS"
+
+#: includes/admin/admin-options.php:2012
+msgid "Image Support"
+msgstr "دعم صورة"
+
+#: includes/admin/admin-options.php:2018
+msgid "GD Library Check"
+msgstr "مكتبة GD تحقق"
+
+#: includes/admin/admin-options.php:2019
+msgid "Your server supports the GD Library."
+msgstr "الخادم الخاص بك يدعم مكتبة GD."
+
+#: includes/admin/admin-options.php:2019
+#: includes/admin/admin-options.php:2023
+msgid "Image Upload Path"
+msgstr "صورة الرفع مسار"
+
+#: includes/admin/admin-options.php:2025
+msgid "(change this)"
+msgstr "((تغيير هذا))"
+
+#: includes/admin/admin-options.php:2030
+msgid "PayPal IPN Check"
+msgstr "باي بال IPN تحقق"
+
+#: includes/admin/admin-options.php:2036
+msgid "FSOCKOPEN Check"
+msgstr "FSOCKOPEN تحقق"
+
+#: includes/admin/admin-options.php:2037
+msgid "Your server has fsockopen enabled."
+msgstr "وقد fsockopen الخادم الخاص بك تمكين."
+
+#: includes/admin/admin-options.php:2037
+#: includes/admin/admin-options.php:2041
+msgid "OPENSSL Check"
+msgstr "بينسل تحقق"
+
+#: includes/admin/admin-options.php:2042
+#: includes/admin/admin-options.php:2047
+msgid "WP Remote Post Check"
+msgstr "WP البعيد آخر تحقق"
+
+#: includes/admin/admin-options.php:2064
+msgid "The wp_remote_post() test to PayPal was successful."
+msgstr "The wp_remote_post() test to PayPal was successful."
+
+#: includes/admin/admin-options.php:2064
+#: includes/admin/admin-options.php:2071
+msgid "Other Checks"
+msgstr "الشيكات الأخرى"
+
+#: includes/admin/admin-options.php:2077
+msgid "CURL Check"
+msgstr "CURL تحقق"
+
+#: includes/admin/admin-options.php:2078
+msgid "Your server has curl enabled."
+msgstr "وقد حليقة تمكين الخادم الخاص بك."
+
+#: includes/admin/admin-options.php:2078
+#: includes/admin/admin-options.php:2082
+msgid "JSON DECODE Check"
+msgstr "JSON DECODE تحقق"
+
+#: includes/admin/admin-options.php:2083
+msgid "Your server has json_decode enabled."
+msgstr "وقد json_decode تمكين الخادم الخاص بك."
+
+#: includes/admin/admin-options.php:2083
+#: includes/admin/admin-options.php:2098
+msgid "Next Run Date"
+msgstr "المقبل تشغيل التسجيل"
+
+#: includes/admin/admin-options.php:2099
+msgid "Frequency"
+msgstr "تردد"
+
+#: includes/admin/admin-options.php:2100
+msgid "Hook Name"
+msgstr "اسم هوك"
+
+#: includes/admin/admin-options.php:2108
+msgctxt "Cron date/time format"
+msgid "M j, Y @ G:i"
+msgstr "M ي، Y @ G: أنا"
+
+#: includes/admin/admin-options.php:2127
+msgid "One-off event"
+msgstr "حدث لمرة واحدة"
+
+#: includes/admin/admin-options.php:2148
+msgid "Theme Cache"
+msgstr "موضوع الكاش"
+
+#: includes/admin/admin-options.php:2155
+msgid "Flush Theme Cache"
+msgstr "دافق مخبأ الموضوع"
+
+#: includes/admin/admin-options.php:2157
+msgid "Flush Entire ClassiPress Cache"
+msgstr "مسح ذاكرة التخزين المؤقت بالكامل ClassiPress"
+
+#: includes/admin/admin-options.php:2158
+#: includes/admin/admin-options.php:2167
+msgid "Uninstall Theme"
+msgstr "إلغاء الموضوع"
+
+#: includes/admin/admin-options.php:2174
+msgid "Delete Database Tables"
+msgstr "حذف جداول قاعدة البيانات"
+
+#: includes/admin/admin-options.php:2176
+msgid "Delete ClassiPress Database Tables"
+msgstr "حذف ClassiPress جداول قاعدة البيانات"
+
+#: includes/admin/admin-options.php:2177
+#: includes/admin/admin-options.php:2186
+msgid "Delete Config Options"
+msgstr "حذف خيارات التكوين"
+
+#: includes/admin/admin-options.php:2188
+msgid "Delete ClassiPress Config Options"
+msgstr "حذف ClassiPress خيارات التكوين"
+
+#: includes/admin/admin-options.php:2189
+#: includes/admin/admin-options.php:2198
+msgid "Theme"
+msgstr "موضوع"
+
+#: includes/admin/admin-options.php:2203
+msgid "Rerun Migration Script"
+msgstr "أعد سيناريو الهجرة"
+
+#: includes/admin/admin-options.php:2207
+msgid "Rerun ClassiPress Migration Script"
+msgstr "أعد تشغيل ClassiPress سيناريو الهجرة"
+
+#: includes/admin/admin-options.php:2208
+#: includes/admin/admin-options.php:2227
+#: includes/admin/admin-options.php:2228
+#: includes/admin/admin-post-types.php:27
+msgid "Ad"
+msgstr "إعلان"
+
+#: includes/admin/admin-post-types.php:29
+msgid "Create New Ad"
+msgstr "إنشاء إعلان جديد"
+
+#: includes/admin/admin-post-types.php:32
+msgid "New Ad"
+msgstr "اعلان جديد"
+
+#: includes/admin/admin-post-types.php:33
+msgid "View Ads"
+msgstr "عرض الإعلانات"
+
+#: includes/admin/admin-post-types.php:34
+msgid "View Ad"
+msgstr "عرض الإعلان"
+
+#: includes/admin/admin-post-types.php:36
+msgid "No ads found"
+msgstr "العثور على أية إعلانات"
+
+#: includes/admin/admin-post-types.php:37
+msgid "No ads found in trash"
+msgstr "لم يتم العثور على إعلانات في القمامة"
+
+#: includes/admin/admin-post-types.php:38
+msgid "Parent Ad"
+msgstr "الإعلان الرئيسي"
+
+#: includes/admin/admin-post-types.php:40
+msgid "This is where you can create new classified ads on your site."
+msgstr "هذا هو المكان الذي يمكن أن تخلق الإعلانات المبوبة جديدة على موقع الويب الخاص بك."
+
+#: includes/admin/admin-post-types.php:59
+msgid "Ad Category"
+msgstr "إعلان الفئة"
+
+#: includes/admin/admin-post-types.php:60
+msgid "Search Ad Categories"
+msgstr "بحث اعلان الفئات"
+
+#: includes/admin/admin-post-types.php:61
+msgid "All Ad Categories"
+msgstr "جميع الفئات الإعلان"
+
+#: includes/admin/admin-post-types.php:62
+msgid "Parent Ad Category"
+msgstr "الوالد الإعلان الفئة"
+
+#: includes/admin/admin-post-types.php:63
+msgid "Parent Ad Category:"
+msgstr "الأم الفئة الإعلان:"
+
+#: includes/admin/admin-post-types.php:64
+msgid "Edit Ad Category"
+msgstr "تعديل الإعلان الفئة"
+
+#: includes/admin/admin-post-types.php:65
+msgid "Update Ad Category"
+msgstr "Update الصنف الإعلان"
+
+#: includes/admin/admin-post-types.php:66
+msgid "Add New Ad Category"
+msgstr "أضف اعلان جديد الفئة"
+
+#: includes/admin/admin-post-types.php:67
+msgid "New Ad Category Name"
+msgstr "اعلان جديد اسم التصنيف"
+
+#: includes/admin/admin-post-types.php:80
+msgid "Ad Tag"
+msgstr "إعلان الدلالية"
+
+#: includes/admin/admin-post-types.php:81
+msgid "Search Ad Tags"
+msgstr "بحث اعلان الكلمات"
+
+#: includes/admin/admin-post-types.php:82
+msgid "All Ad Tags"
+msgstr "جميع الكلمات الإعلان"
+
+#: includes/admin/admin-post-types.php:83
+msgid "Parent Ad Tag"
+msgstr "الوالد العلامة الإعلان"
+
+#: includes/admin/admin-post-types.php:84
+msgid "Parent Ad Tag:"
+msgstr "الوالد الإعلان الدلالية:"
+
+#: includes/admin/admin-post-types.php:85
+msgid "Edit Ad Tag"
+msgstr "تعديل الإعلان الدلالية"
+
+#: includes/admin/admin-post-types.php:86
+msgid "Update Ad Tag"
+msgstr "الكلمات الدلالية تحديث اعلان"
+
+#: includes/admin/admin-post-types.php:87
+msgid "Add New Ad Tag"
+msgstr "أضف شعارا إعلان جديد"
+
+#: includes/admin/admin-post-types.php:88
+msgid "New Ad Tag Name"
+msgstr "اعلان جديد اسم العلامة"
+
+#: includes/admin/admin-post-types.php:107
+#: includes/payments/admin/order-list.php:16
+msgid "Author"
+msgstr "الكاتب"
+
+#: includes/admin/admin-post-types.php:108
+msgid "Category"
+msgstr "فئة"
+
+#: includes/admin/admin-post-types.php:110
+#: includes/payments/admin/order-list.php:18
+#: includes/payments/admin/order-meta.php:146
+#: includes/payments/admin/order-single.php:56
+msgid "Price"
+msgstr "السعر"
+
+#: includes/admin/admin-post-types.php:111 includes/admin/write-panel.php:82
+msgid "Views Today"
+msgstr "مشاهدات اليوم"
+
+#: includes/admin/admin-post-types.php:112
+msgid "Views Total"
+msgstr "المشاهدات مجموع"
+
+#: includes/admin/admin-post-types.php:113
+msgid "Expires"
+msgstr "تنتهي"
+
+#: includes/admin/admin-post-types.php:115
+#: includes/payments/admin/order-list.php:19
+#: includes/payments/admin/order-meta.php:148
+msgid "Date"
+msgstr "تاريخ"
+
+#: includes/admin/admin-post-types.php:209
+msgid "Slug"
+msgstr "رخوي"
+
+#: includes/admin/admin-post-types.php:230
+#: includes/admin/admin-post-types.php:253
+msgid "Featured Ad (sticky)"
+msgstr "Featured Ad (sticky)"
+
+#: includes/admin/admin-post-types.php:265
+msgid "Id"
+msgstr "معرف"
+
+#: includes/admin/admin-post-types.php:269
+msgid "Last Login"
+msgstr "آخر تسجيل دخول"
+
+#: includes/admin/admin-post-types.php:270
+msgid "Registered"
+msgstr "مسجل"
+
+#: includes/admin/admin-post-types.php:298
+msgid "View ads by this author"
+msgstr "عرض الإعلانات كتبها هذا الكاتب"
+
+#: includes/admin/admin-settings.php:9
+msgid "ClassiPress Settings"
+msgstr "ClassiPress إعدادات"
+
+#: includes/admin/admin-settings.php:26
+msgid "Expired ads have been pruned."
+msgstr "تم مجردة الإعلانات منتهية الصلاحية."
+
+#: includes/admin/admin-settings.php:31
+msgid "Statistics have been reseted."
+msgstr "تم reseted الإحصاءات."
+
+#: includes/admin/admin-settings.php:47 includes/admin/admin-settings.php:907
+#: includes/admin/admin-settings.php:1061
+#: includes/payments/admin/settings.php:31
+msgid "General"
+msgstr "عام"
+
+#: includes/admin/admin-settings.php:48
+msgid "Listings"
+msgstr "قوائم"
+
+#: includes/admin/admin-settings.php:49
+msgid "Security"
+msgstr "أمن"
+
+#: includes/admin/admin-settings.php:50
+msgid "Advertising"
+msgstr "إعلان"
+
+#: includes/admin/admin-settings.php:54
+msgid "Site Configuration"
+msgstr "تكوين موقع"
+
+#: includes/admin/admin-settings.php:57
+msgid "Home Page Layout"
+msgstr "الصفحة الرئيسية تخطيط"
+
+#: includes/admin/admin-settings.php:61
+msgid "Standard Style"
+msgstr "نمط قياسي"
+
+#: includes/admin/admin-settings.php:62
+msgid "Directory Style"
+msgstr "الدليل ستايل"
+
+#: includes/admin/admin-settings.php:64
+#: includes/admin/admin-settings.php:67
+msgid "Color Scheme"
+msgstr "نظام الألوان"
+
+#: includes/admin/admin-settings.php:71
+msgid "Aqua Theme"
+msgstr "أكوا الموضوع"
+
+#: includes/admin/admin-settings.php:72
+msgid "Blue Theme"
+msgstr "الأزرق الموضوع"
+
+#: includes/admin/admin-settings.php:73
+msgid "Green Theme"
+msgstr "الموضوع الخضراء"
+
+#: includes/admin/admin-settings.php:74
+msgid "Red Theme"
+msgstr "موضوع الأحمر"
+
+#: includes/admin/admin-settings.php:75
+msgid "Teal Theme"
+msgstr "موضوع البط البري"
+
+#: includes/admin/admin-settings.php:76
+msgid "Aqua Theme - Black Header"
+msgstr "أكوا قضاء وقت الفراغ - رأس أسود"
+
+#: includes/admin/admin-settings.php:77
+msgid "Blue Theme - Black Header"
+msgstr "الأزرق قضاء وقت الفراغ - أسود رأس"
+
+#: includes/admin/admin-settings.php:78
+msgid "Green Theme - Black Header"
+msgstr "الموضوع الخضراء - رأس أسود"
+
+#: includes/admin/admin-settings.php:79
+msgid "Red Theme - Black Header"
+msgstr "موضوع الأحمر - رأس أسود"
+
+#: includes/admin/admin-settings.php:80
+msgid "Teal Theme - Black Header"
+msgstr "موضوع البط البري - رأس أسود"
+
+#: includes/admin/admin-settings.php:82
+msgid "Select the color scheme you would like your classified ads site to use."
+msgstr "حدد نظام الألوان الذي ترغب الخاص الإعلانات المبوبة موقع للاستخدام."
+
+#: includes/admin/admin-settings.php:85
+msgid "User Set Password"
+msgstr "تعيين كلمة مرور"
+
+#: includes/admin/admin-settings.php:88 includes/admin/admin-settings.php:95
+#: includes/admin/admin-settings.php:179 includes/admin/admin-settings.php:186
+#: includes/admin/admin-settings.php:193 includes/admin/admin-settings.php:231
+#: includes/admin/admin-settings.php:238 includes/admin/admin-settings.php:245
+#: includes/admin/admin-settings.php:315 includes/admin/admin-settings.php:322
+#: includes/admin/admin-settings.php:330 includes/admin/admin-settings.php:340
+#: includes/admin/admin-settings.php:347 includes/admin/admin-settings.php:354
+#: includes/admin/admin-settings.php:361 includes/admin/admin-settings.php:378
+#: includes/admin/admin-settings.php:419 includes/admin/admin-settings.php:426
+#: includes/admin/admin-settings.php:495 includes/admin/admin-settings.php:535
+#: includes/admin/admin-settings.php:573 includes/admin/admin-settings.php:632
+#: includes/admin/admin-settings.php:639 includes/admin/admin-settings.php:646
+#: includes/admin/admin-settings.php:653 includes/admin/admin-settings.php:660
+#: includes/admin/admin-settings.php:667 includes/admin/admin-settings.php:674
+#: includes/admin/admin-settings.php:681 includes/admin/admin-settings.php:688
+#: includes/admin/admin-settings.php:753 includes/admin/admin-settings.php:781
+#: includes/admin/admin-settings.php:788 includes/admin/admin-settings.php:926
+#: includes/admin/admin-settings.php:933 includes/admin/admin-settings.php:940
+#: includes/admin/admin-settings.php:947 includes/admin/admin-settings.php:954
+#: includes/admin/admin-settings.php:961 includes/admin/admin-settings.php:968
+#: includes/admin/admin-settings.php:982
+#: includes/admin/admin-settings.php:1008
+#: includes/admin/admin-settings.php:1075
+#: includes/admin/admin-settings.php:1082
+#: includes/admin/admin-settings.php:1102
+#: includes/admin/admin-settings.php:1109
+#: includes/admin/admin-settings.php:1116
+#: includes/admin/admin-settings.php:1162
+#: includes/admin/admin-settings.php:1231 includes/admin/admin-values.php:354
+msgid "Yes"
+msgstr "نعم"
+
+#: includes/admin/admin-settings.php:89
+#: includes/admin/admin-settings.php:92
+msgid "Enable Logo"
+msgstr "تمكين شعار"
+
+#: includes/admin/admin-settings.php:96
+#: includes/admin/admin-settings.php:99
+msgid "Web Site Logo"
+msgstr "logo الموقع"
+
+#: includes/admin/admin-settings.php:100
+msgid "Upload a logo or paste an image URL directly."
+msgstr "تحميل شعار أو الصق عنوان URL للصورة مباشرة."
+
+#: includes/admin/admin-settings.php:103
+#: includes/admin/admin-settings.php:106
+msgid "Feedburner URL"
+msgstr "فيدبورنر URL"
+
+#: includes/admin/admin-settings.php:107
+#: includes/admin/admin-settings.php:110
+#: includes/admin/admin-settings.php:113
+#, php-format
+msgid "Twitter Username"
+msgstr "تويتر اسم المستخدم"
+
+#: includes/admin/admin-settings.php:114
+#, php-format
+msgid "Sign up for a free <a target="_new" href="%s">Twitter account</a>."
+msgstr "Sign up for a free <a target="_new" href="%s">Twitter account</a>."
+
+#: includes/admin/admin-settings.php:117
+#: includes/admin/admin-settings.php:120
+msgid "Facebook Page ID"
+msgstr "الفيسبوك صفحة رقم"
+
+#: includes/admin/admin-settings.php:121
+#, php-format
+msgid "Sign up for a free <a target="_new" href="%s">Facebook account</a>."
+msgstr "Sign up for a free <a target="_new" href="%s">Facebook account</a>."
+
+#: includes/admin/admin-settings.php:124
+#: includes/admin/admin-settings.php:127
+msgid "Tracking Code"
+msgstr "شفرة تتبع"
+
+#: includes/admin/admin-settings.php:128
+#: includes/admin/admin-settings.php:135
+#: includes/admin/admin-settings.php:141
+#, php-format
+msgid "Google Maps Settings"
+msgstr "إعدادات خرائط جوجل"
+
+#: includes/admin/admin-settings.php:144
+msgid "Region Biasing"
+msgstr "المنطقة يتحامل"
+
+#: includes/admin/admin-settings.php:145
+#, php-format
+msgid "Find your two-letter ISO 3166-1 region code <a href="%s">here</a>."
+msgstr "Find your two-letter ISO 3166-1 region code <a href="%s">here</a>."
+
+#: includes/admin/admin-settings.php:149
+#: includes/admin/admin-settings.php:152
+msgid "Language"
+msgstr "لغة"
+
+#: includes/admin/admin-settings.php:153
+#, php-format
+msgid "Find your two-letter language code <a href="%s">here</a>."
+msgstr "Find your two-letter language code <a href="%s">here</a>."
+
+#: includes/admin/admin-settings.php:157
+#: includes/admin/admin-settings.php:160
+msgid "Distance Unit"
+msgstr "وحدة عن بعد"
+
+#: includes/admin/admin-settings.php:164
+msgid "Kilometers"
+msgstr "كم"
+
+#: includes/admin/admin-settings.php:165
+msgid "Miles"
+msgstr "كيلومتر"
+
+#: includes/admin/admin-settings.php:167
+msgid "Use Kilometers or Miles for your sites unit of measure for distances."
+msgstr "استخدام كيلومترات أو ميلا للحدتك مواقع القياس للمسافات."
+
+#: includes/admin/admin-settings.php:173
+msgid "Search Settings"
+msgstr "إعدادات البحث"
+
+#: includes/admin/admin-settings.php:176
+msgid "Exclude Pages"
+msgstr "استبعاد صفحات"
+
+#: includes/admin/admin-settings.php:180
+msgid "Should the pages be excluded from your website search results."
+msgstr "ينبغي استبعاد صفحات من نتائج البحث الخاصة بك على شبكة الإنترنت."
+
+#: includes/admin/admin-settings.php:183
+msgid "Exclude Blog Posts"
+msgstr "استبعاد مقالات المدونة"
+
+#: includes/admin/admin-settings.php:187
+msgid "Should the blog posts be excluded from your website search results."
+msgstr "ينبغي استبعاد بلوق وظائف من نتائج البحث الخاصة بك على شبكة الإنترنت."
+
+#: includes/admin/admin-settings.php:190
+msgid "Search Custom Fields"
+msgstr "بحث الحقول المخصصة"
+
+#: includes/admin/admin-settings.php:194
+#: includes/admin/admin-settings.php:197
+msgid "Search Field Width"
+msgstr "البحث في حقل العرض"
+
+#: includes/admin/admin-settings.php:200
+#: includes/admin/admin-settings.php:206
+msgid "Search Drop-down Options"
+msgstr "بحث المنسدلة خيارات"
+
+#: includes/admin/admin-settings.php:209 includes/admin/admin-settings.php:792
+msgid "Category Depth"
+msgstr "فئة العمق"
+
+#: includes/admin/admin-settings.php:213 includes/admin/admin-settings.php:796
+#: includes/admin/admin-settings.php:816
+msgid "Show All"
+msgstr "مشاهدة جميع"
+
+#: includes/admin/admin-settings.php:225
+#: includes/admin/admin-settings.php:228
+msgid "Category Hierarchy"
+msgstr "فئة التسلسل الهرمي"
+
+#: includes/admin/admin-settings.php:232
+#: includes/admin/admin-settings.php:235
+msgid "Show Ad Count"
+msgstr "مشاهدة عدد الإعلانات"
+
+#: includes/admin/admin-settings.php:239
+#: includes/admin/admin-settings.php:242
+msgid "Hide Empty Categories"
+msgstr "إخفاء فارغ الفئات"
+
+#: includes/admin/admin-settings.php:246
+msgid "This will hide any empty categories within the category drop-down."
+msgstr "هذا وسوف يخفي أي فئات فارغة ضمن فئة المنسدلة."
+
+#: includes/admin/admin-settings.php:252
+msgid "Categories Menu Item Options"
+msgstr "فئات القائمة خيارات الإغلاق"
+
+#: includes/admin/admin-settings.php:257
+msgid "Categories Page Options"
+msgstr "فئات خيارات الصفحة"
+
+#: includes/admin/admin-settings.php:262
+msgid "Classified Ads Messages"
+msgstr "الإعلانات المبوبة رسائل"
+
+#: includes/admin/admin-settings.php:265
+msgid "Home Page Message"
+msgstr "الصفحة الرئيسية رسالة"
+
+#: includes/admin/admin-settings.php:272
+#: includes/admin/admin-settings.php:275
+msgid "New Ad Message"
+msgstr "جديدة الرسالة إعلان"
+
+#: includes/admin/admin-settings.php:282 includes/admin/admin-settings.php:292
+#: includes/admin/admin-settings.php:285
+msgid "Membership Purchase Message"
+msgstr "عضوية شراء رسالة"
+
+#: includes/admin/admin-settings.php:295
+msgid "Terms of Use"
+msgstr "شروط الاستخدام"
+
+#: includes/admin/admin-settings.php:302
+#: includes/admin/admin-settings.php:309
+msgid "Classified Ads Configuration"
+msgstr "تكوين الإعلانات المبوبة"
+
+#: includes/admin/admin-settings.php:312
+msgid "Allow Ad Editing"
+msgstr "السماح بتحرير الإعلان"
+
+#: includes/admin/admin-settings.php:316
+#: includes/admin/admin-settings.php:319
+msgid "Allow Ad Relisting"
+msgstr "تسمح ريليستينغ الإعلان"
+
+#: includes/admin/admin-settings.php:323
+#: includes/admin/admin-settings.php:326
+msgid "Allow Parent Category Posting"
+msgstr "تسمح الرئيسي الفئة المشاركة"
+
+#: includes/admin/admin-settings.php:331
+msgid "When Empty"
+msgstr "عندما تكون فارغة"
+
+#: includes/admin/admin-settings.php:332
+#: includes/admin/admin-settings.php:1009 includes/admin/admin-values.php:355
+msgid "No"
+msgstr "لا"
+
+#: includes/admin/admin-settings.php:334
+#: includes/admin/admin-settings.php:337
+msgid "Ad Inquiry Form Requires Login"
+msgstr "نموذج الاستفسار عن الإعلان يتطلب تسجيل الدخول"
+
+#: includes/admin/admin-settings.php:341
+#: includes/admin/admin-settings.php:344
+msgid "Allow HTML"
+msgstr "تسمح HTML"
+
+#: includes/admin/admin-settings.php:348
+#: includes/admin/admin-settings.php:351
+msgid "Show Ad Views Counter"
+msgstr "عرض الإعلان المشاهدات عداد"
+
+#: includes/admin/admin-settings.php:355
+#: includes/admin/admin-settings.php:358
+msgid "Show Gravatar Thumbnail"
+msgstr "مشاهدة غرفتر تصغير"
+
+#: includes/admin/admin-settings.php:362
+#: includes/admin/admin-settings.php:365
+msgid "New Ad Status"
+msgstr "جديد حالة الإعلان"
+
+#: includes/admin/admin-settings.php:369
+msgid "Pending Review"
+msgstr "في انتظار المراجعة"
+
+#: includes/admin/admin-settings.php:372
+#: includes/admin/admin-settings.php:375
+msgid "Prune Ads"
+msgstr "تقليم الإعلانات"
+
+#: includes/admin/admin-settings.php:379
+#: includes/admin/admin-settings.php:382
+msgid "Cron Job Schedule"
+msgstr "كرون مواعيد العمل"
+
+#: includes/admin/admin-settings.php:385
+msgid "Note: This feature only works if you have enabled the Prune Ads option."
+msgstr "ملاحظة: هذه الميزة تعمل فقط إذا كان لديك تمكين الخيار الإعلانات الخوخ."
+
+#: includes/admin/admin-settings.php:388
+msgid "Hourly"
+msgstr "كل ساعة"
+
+#: includes/admin/admin-settings.php:389
+msgid "Twice Daily"
+msgstr "مرتين يوميا"
+
+#: includes/admin/admin-settings.php:390
+msgid "Daily"
+msgstr "يوميا"
+
+#: includes/admin/admin-settings.php:392
+#: includes/admin/admin-settings.php:395
+msgid "Ad Listing Period"
+msgstr "إعلان فترة النشر"
+
+#: includes/admin/admin-settings.php:399
+#: includes/admin/admin-settings.php:402
+msgid "Form Validation Language"
+msgstr "شكل اللغة التحقق من صحة"
+
+#: includes/admin/admin-settings.php:403
+msgid "Leave this value blank if your site is in English."
+msgstr "ترك هذه القيمة فارغة إذا كان موقعك باللغة الإنجليزية."
+
+#: includes/admin/admin-settings.php:407
+#: includes/admin/admin-settings.php:413
+msgid "Ad Images Options"
+msgstr "إعلان الصور خيارات"
+
+#: includes/admin/admin-settings.php:416
+msgid "Allow Ad Images"
+msgstr "تسمح اعلان صور"
+
+#: includes/admin/admin-settings.php:420
+#: includes/admin/admin-settings.php:423
+msgid "Show Preview Image"
+msgstr "تظهر معاينة الصورة"
+
+#: includes/admin/admin-settings.php:427
+#: includes/admin/admin-settings.php:430
+msgid "Max Images Per Ad"
+msgstr "ماكس صورة لكل الإعلان"
+
+#: includes/admin/admin-settings.php:445
+msgid "The number of images the ad owner can upload with each of their ads."
+msgstr "عدد الصور صاحب الإعلان يمكن تحميل مع كل من إعلاناتهم."
+
+#: includes/admin/admin-settings.php:448
+msgid "Max Size Per Image"
+msgstr "ماكس الحجم لكل صورة"
+
+#: includes/admin/admin-settings.php:461
+#: includes/admin/admin-settings.php:468
+msgid "Security Settings"
+msgstr "إعدادات الأمان"
+
+#: includes/admin/admin-settings.php:471
+msgid "Back Office Access"
+msgstr "المكتب الخلفي الدخول"
+
+#: includes/admin/admin-settings.php:472
+#: includes/admin/admin-settings.php:476
+#, php-format
+msgid "Admins Only"
+msgstr "المشرفون فقط"
+
+#: includes/admin/admin-settings.php:477
+msgid "Admins, Editors"
+msgstr "مدراء ورؤساء التحرير"
+
+#: includes/admin/admin-settings.php:478
+msgid "Admins, Editors, Authors"
+msgstr "مدراء والمحررين، المؤلفين"
+
+#: includes/admin/admin-settings.php:479
+msgid "Admins, Editors, Authors, Contributors"
+msgstr "مدراء والمحررين والمؤلفين والمساهمين"
+
+#: includes/admin/admin-settings.php:480
+msgid "All Access"
+msgstr "جميع الدخول"
+
+#: includes/admin/admin-settings.php:481
+msgid "Disable"
+msgstr "تعطيل"
+
+#: includes/admin/admin-settings.php:483
+#: includes/admin/admin-settings.php:489
+msgid "reCaptcha Settings"
+msgstr "إعدادات الأخبار الإقتصادية العامة"
+
+#: includes/admin/admin-settings.php:492
+msgid "Enable reCaptcha"
+msgstr "تمكين الأخبار الإقتصادية العامة"
+
+#: includes/admin/admin-settings.php:495
+#: includes/admin/admin-settings.php:496
+#: includes/admin/admin-settings.php:499
+#, php-format
+msgid "reCaptcha Public Key"
+msgstr "الأخبار الإقتصادية العامة المفتاح العام"
+
+#: includes/admin/admin-settings.php:500 includes/admin/admin-settings.php:507
+#: includes/admin/admin-settings.php:503
+#: includes/admin/admin-settings.php:506
+#, php-format
+msgid "reCaptcha Private Key"
+msgstr "الأخبار الإقتصادية العامة المفتاح الخاص"
+
+#: includes/admin/admin-settings.php:510
+#: includes/admin/admin-settings.php:513
+msgid "Choose Theme"
+msgstr "اختيار الموضوع"
+
+#: includes/admin/admin-settings.php:517
+msgid "Red"
+msgstr "أحمر"
+
+#: includes/admin/admin-settings.php:518
+msgid "White"
+msgstr "أبيض"
+
+#: includes/admin/admin-settings.php:519
+msgid "Black"
+msgstr "أسود"
+
+#: includes/admin/admin-settings.php:520
+msgid "Clean"
+msgstr "نظف"
+
+#: includes/admin/admin-settings.php:522
+msgid "Select the color scheme you wish to use for reCaptcha."
+msgstr "حدد نظام الألوان الذي ترغب في استخدامه للالأخبار الإقتصادية العامة."
+
+#: includes/admin/admin-settings.php:529
+msgid "Header Ad (468x60)"
+msgstr "Header Ad (468x60)"
+
+#: includes/admin/admin-settings.php:532 includes/admin/admin-settings.php:570
+msgid "Enable Ad"
+msgstr "تمكين الإعلان"
+
+#: includes/admin/admin-settings.php:536
+#: includes/admin/admin-settings.php:539 includes/admin/admin-settings.php:577
+msgid "Ad Code"
+msgstr "رمز الإعلان"
+
+#: includes/admin/admin-settings.php:540 includes/admin/admin-settings.php:578
+#: includes/admin/admin-settings.php:547 includes/admin/admin-settings.php:585
+#, php-format
+msgid "You may use html and/or javascript code provided by Google AdSense."
+msgstr "يمكنك استخدام HTML و / أو شفرة جافا سكريبت التي تقدمها جوجل AdSense."
+
+#: includes/admin/admin-settings.php:550 includes/admin/admin-settings.php:588
+msgid "Ad Image URL"
+msgstr "إضافة عنوان URL للصورة"
+
+#: includes/admin/admin-settings.php:551 includes/admin/admin-settings.php:589
+msgid "Upload your ad creative or paste the ad creative URL directly."
+msgstr "تحميل إعلانك الإبداعية أو الصق عنوان URL الإبداعية الإعلان مباشرة."
+
+#: includes/admin/admin-settings.php:554 includes/admin/admin-settings.php:592
+#: includes/admin/admin-settings.php:557 includes/admin/admin-settings.php:595
+msgid "Ad Destination"
+msgstr "إعلان الوجهة"
+
+#: includes/admin/admin-settings.php:558 includes/admin/admin-settings.php:596
+#: includes/admin/admin-settings.php:561 includes/admin/admin-settings.php:599
+#: includes/admin/admin-settings.php:567
+msgid "Content Ad (336x280)"
+msgstr "Content Ad (336x280)"
+
+#: includes/admin/admin-settings.php:574
+#: includes/admin/admin-settings.php:606
+msgid "Advanced Options"
+msgstr "خيارات متقدمة"
+
+#: includes/admin/admin-settings.php:609
+msgid "Run Ads Expired Check"
+msgstr "تشغيل الإعلانات انتهى تحقق"
+
+#: includes/admin/admin-settings.php:612
+#, php-format
+msgid "Prune <a href="%s">Expired Ads</a> now."
+msgstr "Prune <a href="%s">Expired Ads</a> now."
+
+#: includes/admin/admin-settings.php:616
+#: includes/admin/admin-settings.php:619
+msgid "Reset Stats"
+msgstr "إعادة تعيين الإحصائيات"
+
+#: includes/admin/admin-settings.php:622
+#, php-format
+msgid "<a href="%s">Reset Stats</a> count now."
+msgstr "<a href="%s">Reset Stats</a> count now."
+
+#: includes/admin/admin-settings.php:626
+#: includes/admin/admin-settings.php:629
+msgid "Disable Core Stylesheets"
+msgstr "تعطيل صفحات الأنماط الأساسية"
+
+#: includes/admin/admin-settings.php:633
+#: includes/admin/admin-settings.php:636
+msgid "Enable Debug Mode"
+msgstr "تمكين وضع التصحيح"
+
+#: includes/admin/admin-settings.php:640
+#: includes/admin/admin-settings.php:643
+msgid "Use Google CDN jQuery"
+msgstr "استخدام Google CDN مسج"
+
+#: includes/admin/admin-settings.php:647
+#: includes/admin/admin-settings.php:650
+msgid "Use SelectBox JS library"
+msgstr "استخدام حدد خانة JS المكتبة"
+
+#: includes/admin/admin-settings.php:654
+#: includes/admin/admin-settings.php:657
+msgid "Disable WordPress Login Page"
+msgstr "تعطيل وورد دخول الصفحة"
+
+#: includes/admin/admin-settings.php:661
+#: includes/admin/admin-settings.php:664
+msgid "Disable WordPress Version Meta Tag"
+msgstr "تعطيل وورد نسخة العلامة الوصفية"
+
+#: includes/admin/admin-settings.php:668
+#: includes/admin/admin-settings.php:671
+msgid "Disable WordPress User Toolbar"
+msgstr "تعطيل وورد شريط الأدوات العضو"
+
+#: includes/admin/admin-settings.php:675
+#: includes/admin/admin-settings.php:678
+msgid "Disable WordPress Embeds"
+msgstr "تعطيل وورد يدمج"
+
+#: includes/admin/admin-settings.php:682
+#: includes/admin/admin-settings.php:685
+msgid "Display Website Time"
+msgstr "عرض الوقت الموقع"
+
+#: includes/admin/admin-settings.php:689
+#: includes/admin/admin-settings.php:692
+msgid "Cache Expires"
+msgstr "ينتهي ذاكرة التخزين المؤقت"
+
+#: includes/admin/admin-settings.php:693
+#: includes/admin/admin-settings.php:697
+#: includes/admin/admin-settings.php:700
+msgid "Admin Table Width"
+msgstr "عرض الجدول المشرف"
+
+#: includes/admin/admin-settings.php:704
+#: includes/admin/admin-settings.php:707
+msgid "Ad Box Right Side"
+msgstr "إعلان صندوق الجانب الأيمن"
+
+#: includes/admin/admin-settings.php:711
+msgid "Normal Full Width"
+msgstr "عادي العرض الكامل"
+
+#: includes/admin/admin-settings.php:712
+msgid "Legacy Ads Width"
+msgstr "إرث إعلانات العرض"
+
+#: includes/admin/admin-settings.php:714
+#: includes/admin/admin-settings.php:720
+msgid "Custom Post Type & Taxonomy URLs"
+msgstr "عرف نوع آخر وعناوين URL للتصنيف"
+
+#: includes/admin/admin-settings.php:723
+msgid "Ad Listing Base URL"
+msgstr "الإعلان URL قاعدة قائمة"
+
+#: includes/admin/admin-settings.php:724 includes/admin/admin-settings.php:731
+#: includes/admin/admin-settings.php:738
+#: includes/admin/admin-settings.php:727
+#: includes/admin/admin-settings.php:730
+#, php-format
+msgid "Ad Category Base URL"
+msgstr "الإعلان URL قاعدة الفئة"
+
+#: includes/admin/admin-settings.php:734
+#: includes/admin/admin-settings.php:737
+msgid "Ad Tag Base URL"
+msgstr "الإعلان URL قاعدة الدلالية"
+
+#: includes/admin/admin-settings.php:741
+#: includes/admin/admin-settings.php:747
+msgid "Cuf&oacute;n Font Replacement"
+msgstr "استبدال الخط CAF é؛ ن"
+
+#: includes/admin/admin-settings.php:750
+msgid "Enable Cuf&oacute;n"
+msgstr "تمكين كف é؛ ن"
+
+#: includes/admin/admin-settings.php:753
+#: includes/admin/admin-settings.php:754
+#: includes/admin/admin-settings.php:757
+#, php-format
+msgid "Cuf&oacute;n Replacement Code"
+msgstr "CAF é؛ رمز استبدال ن"
+
+#: includes/admin/admin-settings.php:758
+#: includes/admin/admin-settings.php:759
+#: includes/admin/admin-settings.php:766
+#: includes/admin/admin-settings.php:778
+#, php-format
+msgid "Show Category Count"
+msgstr "مشاهدة عدد الفئة"
+
+#: includes/admin/admin-settings.php:782
+#: includes/admin/admin-settings.php:785
+msgid "Hide Empty Sub-Categories"
+msgstr "إخفاء فارغ الفئات الفرعية لل"
+
+#: includes/admin/admin-settings.php:789
+msgid "If a category had no listings, should it be hidden."
+msgstr "إذا كان لفئة ليست قوائم، ينبغي أن يكون مخفيا."
+
+#: includes/admin/admin-settings.php:809
+msgid "How many levels deep should the category tree traverse."
+msgstr "كيف العديد من المستويات العميقة يجب أن تجتاز شجرة الفئة."
+
+#: includes/admin/admin-settings.php:812
+msgid "Number of Sub-Categories"
+msgstr "عدد من الفئات الفرعية"
+
+#: includes/admin/admin-settings.php:829
+msgid "How many sub-categories of each parent category should be shown."
+msgstr "كيف العديد من الفئات الفرعية من كل فئة الوالدين ينبغي أن تظهر."
+
+#: includes/admin/admin-settings.php:835
+msgid "Number of Columns"
+msgstr "عدد الأعمدة"
+
+#: includes/admin/admin-settings.php:842
+msgid "How many columns on the directory-style layout should be shown."
+msgstr "ينبغي أن تظهر كيف العديد من الأعمدة على التخطيط على غرار الدليل."
+
+#: includes/admin/admin-settings.php:851
+msgid "Upload Image"
+msgstr "ارفع صورة لل"
+
+#: includes/admin/admin-settings.php:852
+msgid "Clear Image"
+msgstr "صورة واضحة"
+
+#: includes/admin/admin-settings.php:895
+msgid "ClassiPress Emails"
+msgstr "ClassiPress رسائل البريد الإلكتروني"
+
+#: includes/admin/admin-settings.php:896
+msgid "Emails"
+msgstr "رسائل البريد الإلكتروني"
+
+#: includes/admin/admin-settings.php:908
+msgid "New User Email"
+msgstr "مستخدم جديد البريد الإلكتروني"
+
+#: includes/admin/admin-settings.php:911
+msgid "Email Notifications"
+msgstr "إخطارات البريد الإلكتروني"
+
+#: includes/admin/admin-settings.php:914
+msgid "Admin Notifications"
+msgstr "الإخطارات المشرف"
+
+#: includes/admin/admin-settings.php:917
+#, php-format
+msgid "Emails will be sent to: %s (<a href="%s">change</a>)"
+msgstr "Emails will be sent to: %s (<a href="%s">change</a>)"
+
+#: includes/admin/admin-settings.php:923
+msgid "New Ad Email"
+msgstr "اعلان جديد البريد الإلكتروني"
+
+#: includes/admin/admin-settings.php:927
+msgid "Send me an email once a new ad has been submitted."
+msgstr "أرسل لي رسالة عبر البريد الإلكتروني مرة واحدة وقد تم تقديم إعلان جديد."
+
+#: includes/admin/admin-settings.php:930
+msgid "Prune Ads Email"
+msgstr "تقليم إعلانات البريد الإلكتروني"
+
+#: includes/admin/admin-settings.php:934
+msgid "Send me an email every time the system prunes expired ads."
+msgstr "أرسل لي رسالة عبر البريد الإلكتروني في كل مرة نظام الخوخ الإعلانات منتهية الصلاحية."
+
+#: includes/admin/admin-settings.php:937
+msgid "Ad Approved Email"
+msgstr "إعلان المعتمدة البريد الإلكتروني"
+
+#: includes/admin/admin-settings.php:941
+#: includes/admin/admin-settings.php:944
+msgid "Ad Expired Email"
+msgstr "الإعلان منتهي البريد الإلكتروني"
+
+#: includes/admin/admin-settings.php:948
+#: includes/admin/admin-settings.php:951
+msgid "Admin New User Email"
+msgstr "مستخدم جديد المشرف البريد الإلكتروني"
+
+#: includes/admin/admin-settings.php:955
+#: includes/admin/admin-settings.php:958
+msgid "Membership Activated Email"
+msgstr "عضوية المنشط البريد الإلكتروني"
+
+#: includes/admin/admin-settings.php:962
+msgid "Send the user an email once their membership has been activated."
+msgstr "إرسال المستخدم رسالة بريد إلكتروني مرة واحدة وقد تم تفعيل عضويتهم."
+
+#: includes/admin/admin-settings.php:965
+msgid "Send Membership Subscription Reminder Emails"
+msgstr "إرسال رسائل البريد الإلكتروني تذكير عضوية الاشتراك"
+
+#: includes/admin/admin-settings.php:969
+#: includes/admin/admin-settings.php:976
+msgid "New User Registration Email"
+msgstr "تسجيل عضو جديد البريد الإلكتروني"
+
+#: includes/admin/admin-settings.php:979
+msgid "Enable Custom Email"
+msgstr "تمكين مخصص البريد الإلكتروني"
+
+#: includes/admin/admin-settings.php:983
+#: includes/admin/admin-settings.php:986
+msgid "From Name"
+msgstr "من اسم"
+
+#: includes/admin/admin-settings.php:989
+#: includes/admin/admin-settings.php:992
+msgid "From Email"
+msgstr "من البريد الإلكتروني"
+
+#: includes/admin/admin-settings.php:995
+#: includes/admin/admin-settings.php:998
+msgid "Email Subject"
+msgstr "البريد الإلكتروني الموضوع"
+
+#: includes/admin/admin-settings.php:1001
+#: includes/admin/admin-settings.php:1004
+msgid "Allow HTML in Body"
+msgstr "تسمح HTML في الجسم"
+
+#: includes/admin/admin-settings.php:1011
+#: includes/admin/admin-settings.php:1014
+msgid "Email Body"
+msgstr "البريد الالكتروني الجسم"
+
+#: includes/admin/admin-settings.php:1015
+#: includes/admin/admin-settings.php:1016
+#, php-format
+msgid "%s - prints out the username"
+msgstr "٪ S - بطباعة اسم المستخدم"
+
+#: includes/admin/admin-settings.php:1017
+#, php-format
+msgid "%s - prints out the users email address"
+msgstr "٪ S - بطباعة عنوان البريد الإلكتروني للمستخدم"
+
+#: includes/admin/admin-settings.php:1018
+#, php-format
+msgid "%s - prints out the users text password"
+msgstr "٪ S - بطباعة كلمة المرور للمستخدمين النص"
+
+#: includes/admin/admin-settings.php:1019
+#, php-format
+msgid "%s - prints out your website url"
+msgstr "٪ S - بطباعة عنوان موقعك"
+
+#: includes/admin/admin-settings.php:1020
+#, php-format
+msgid "%s - prints out your site name"
+msgstr "٪ S - بطباعة اسم موقعك"
+
+#: includes/admin/admin-settings.php:1021
+#, php-format
+msgid "%s - prints out your sites login url"
+msgstr "٪ S - بطباعة المواقع الخاصة بك تسجيل الدخول URL"
+
+#: includes/admin/admin-settings.php:1022
+#: includes/admin/admin-settings.php:1023
+#: includes/admin/admin-settings.php:1030
+#: includes/admin/admin-settings.php:1047
+msgid "ClassiPress Pricing"
+msgstr "ClassiPress التسعير"
+
+#: includes/admin/admin-settings.php:1048
+msgid "Pricing"
+msgstr "التسعير"
+
+#: includes/admin/admin-settings.php:1064
+#: includes/admin/admin-settings.php:1138
+#: includes/admin/admin-settings.php:1189
+msgid "Price Per Category"
+msgstr "السعر لكل فئة"
+
+#: includes/admin/admin-settings.php:1066
+#: includes/admin/admin-settings.php:1194
+msgid "Membership by Category"
+msgstr "عضوية حسب الفئة"
+
+#: includes/admin/admin-settings.php:1069
+msgid "Pricing Configuration"
+msgstr "تكوين التسعير"
+
+#: includes/admin/admin-settings.php:1072
+msgid "Charge for Listing Ads"
+msgstr "تهمة لقائمة الإعلانات"
+
+#: includes/admin/admin-settings.php:1076
+#: includes/admin/admin-settings.php:1079
+msgid "Show Featured Ads Slider"
+msgstr "تظهر الإعلانات المميزة المتزلج"
+
+#: includes/admin/admin-settings.php:1083
+#: includes/admin/admin-settings.php:1086
+msgid "Featured Ads Title Length"
+msgstr "إعلانات مميزة المسمى طول"
+
+#: includes/admin/admin-settings.php:1089
+#: includes/admin/admin-settings.php:1092
+msgid "Featured Ad Price"
+msgstr "اعلان مميز السعر"
+
+#: includes/admin/admin-settings.php:1093
+#: includes/admin/admin-settings.php:1096
+#: includes/admin/admin-settings.php:1099
+msgid "Clean Ad Price Field"
+msgstr "نظيفة ميلادي السعر الميدانية"
+
+#: includes/admin/admin-settings.php:1102
+msgid "This option should be enabled in order to store valid price values."
+msgstr "وينبغي تمكين هذا الخيار من أجل تخزين قيم هذا السعر صالح."
+
+#: includes/admin/admin-settings.php:1103
+#: includes/admin/admin-settings.php:1106
+msgid "Display Zero for Empty Ad Prices"
+msgstr "عرض صفر لأسعار الإعلان فارغ"
+
+#: includes/admin/admin-settings.php:1110
+#: includes/admin/admin-settings.php:1113
+msgid "Hide Decimals for Prices"
+msgstr "إخفاء الكسور العشرية لأسعار"
+
+#: includes/admin/admin-settings.php:1117
+#: includes/admin/admin-settings.php:1120
+msgid "Ad Currency Symbol"
+msgstr "إضافة رمز العملة"
+
+#: includes/admin/admin-settings.php:1123
+#: includes/admin/admin-settings.php:1129
+msgid "Pricing Model"
+msgstr "نموذج تسعير"
+
+#: includes/admin/admin-settings.php:1132
+msgid "Price Model"
+msgstr "السعر النموذجي"
+
+#: includes/admin/admin-settings.php:1135
+#: includes/admin/admin-settings.php:1137
+#, php-format
+msgid "Fixed Price Per Ad"
+msgstr "سعر ثابت لكل إعلان"
+
+#: includes/admin/admin-settings.php:1139
+#: includes/admin/admin-settings.php:1145
+#, php-format
+msgid "% of Sellers Ad Price"
+msgstr "٪ من البائعين ميلادي السعر"
+
+#: includes/admin/admin-settings.php:1140
+msgid "Only Charge for Featured Ads"
+msgstr "التهمة الوحيدة لالإعلانات المميزة"
+
+#: includes/admin/admin-settings.php:1142
+#: includes/admin/admin-settings.php:1149
+#: includes/admin/admin-settings.php:1156
+#, php-format
+msgid "Membership Options"
+msgstr "خيارات العضوية"
+
+#: includes/admin/admin-settings.php:1159
+msgid "Enable Membership Packs"
+msgstr "تمكين حزم العضوية"
+
+#: includes/admin/admin-settings.php:1162
+#: includes/admin/admin-settings.php:1163
+#: includes/admin/admin-settings.php:1166
+#, php-format
+msgid "Days of Reminder Messages"
+msgstr "أيام من رسائل تذكير"
+
+#: includes/admin/admin-settings.php:1169
+msgid "Affects both emails and website notifications."
+msgstr "يؤثر على كل رسائل البريد الإلكتروني والإخطارات الموقع."
+
+#: includes/admin/admin-settings.php:1171
+#: includes/admin/admin-settings.php:1174
+msgid "Are Membership Packs Required to Purchase Ads."
+msgstr "هي حزم العضوية المطلوبة لشراء الإعلانات."
+
+#: includes/admin/admin-settings.php:1178
+msgid "Not Required"
+msgstr "غير مطلوب"
+
+#: includes/admin/admin-settings.php:1179
+msgid "Required for All"
+msgstr "مطلوب للجميع"
+
+#: includes/admin/admin-settings.php:1180
+msgid "Required by Category"
+msgstr "مطلوب حسب الفئة"
+
+#: includes/admin/admin-settings.php:1182
+#: includes/admin/admin-updates.php:93
+msgid "ClassiPress upgrade required"
+msgstr "ClassiPress الترقية المطلوبة"
+
+#: includes/admin/admin-updates.php:110
+#: includes/admin/admin-updates.php:311
+#: includes/admin/admin-updates.php:323
+#, php-format
+msgid "Ad #%d - %s "
+msgstr "إعلان #٪ د -٪ S"
+
+#: includes/admin/admin-updates.php:330
+msgid "Geocoding complete."
+msgstr "الترميز الجغرافي إكمال."
+
+#: includes/admin/admin-updates.php:332
+msgid "Geocoding failed - address not found."
+msgstr "فشل الترميز الجغرافي - عنوان غير موجود."
+
+#: includes/admin/admin-updates.php:339
+msgid " Geocoding table updated."
+msgstr "جدول الترميز الجغرافي المحدثة."
+
+#: includes/admin/admin-updates.php:340
+#: includes/admin/admin-updates.php:550
+#: includes/payments/order-draft-class.php:45
+#: includes/payments/order-factory.php:19
+msgid "Transaction"
+msgstr "صفقة"
+
+#: includes/admin/admin-updates.php:551 includes/payments/order-factory.php:23
+msgid "Transaction Data"
+msgstr "بيانات المعاملات"
+
+#: includes/admin/admin-values.php:34
+msgid "New Form"
+msgstr "نموذج جديد"
+
+#: includes/admin/admin-values.php:39
+#: includes/admin/admin-values.php:48
+msgid "Form Description"
+msgstr "نموذج الوصف"
+
+#: includes/admin/admin-values.php:50 includes/admin/admin-values.php:119
+#: includes/admin/admin-values.php:59
+msgid "Available Categories"
+msgstr "الفئات المتوفرة"
+
+#: includes/admin/admin-values.php:61
+#: includes/admin/admin-values.php:71
+#: includes/admin/admin-values.php:91
+msgid "Field Information"
+msgstr "المعلومات الميدانية"
+
+#: includes/admin/admin-values.php:96
+#: includes/admin/admin-values.php:105
+msgid "Meta Name"
+msgstr "ميتا"
+
+#: includes/admin/admin-values.php:107
+#: includes/admin/admin-values.php:117
+msgid "Field Description"
+msgstr "حقل الوصف"
+
+#: includes/admin/admin-values.php:128
+msgid "Field Tooltip"
+msgstr "تعريف الأداة الميدان"
+
+#: includes/admin/admin-values.php:130
+#: includes/admin/admin-values.php:139
+msgid "Field Type"
+msgstr "نوع الحقل"
+
+#: includes/admin/admin-values.php:141
+msgid "This is the type of field you want to create."
+msgstr "هذا هو نوع من الحقل الذي تريد إنشاء."
+
+#: includes/admin/admin-values.php:150
+msgid "text box"
+msgstr "مربع النص"
+
+#: includes/admin/admin-values.php:151
+msgid "drop-down"
+msgstr "المنسدلة"
+
+#: includes/admin/admin-values.php:152
+msgid "text area"
+msgstr "منطقة النص"
+
+#: includes/admin/admin-values.php:153
+msgid "radio buttons"
+msgstr "أزرار الراديو"
+
+#: includes/admin/admin-values.php:154
+msgid "checkboxes"
+msgstr "خانات"
+
+#: includes/admin/admin-values.php:158
+msgid "Minimum Length"
+msgstr "الحد الأدنى لطول"
+
+#: includes/admin/admin-values.php:160
+#: includes/admin/admin-values.php:169
+msgid "Field Values"
+msgstr "قيم الحقل"
+
+#: includes/admin/admin-values.php:171
+#: includes/admin/admin-values.php:201
+msgid "Ad Pack Details"
+msgstr "إعلان حزمة التفاصيل"
+
+#: includes/admin/admin-values.php:208
+#: includes/admin/admin-values.php:219
+#: includes/admin/admin-values.php:227
+msgid "Price Per Listing"
+msgstr "السعر لكل قائمة"
+
+#: includes/admin/admin-values.php:229
+#: includes/admin/admin-values.php:238
+msgid "Ad Duration"
+msgstr "إعلان المدة"
+
+#: includes/admin/admin-values.php:240
+#: includes/admin/admin-values.php:249 includes/admin/admin-values.php:358
+msgid "Package Status"
+msgstr "وضع رزمة"
+
+#: includes/admin/admin-values.php:251
+msgid "If you do not want this ad package live on your site, select inactive."
+msgstr "إذا كنت لا تريد صفقة إعلان هذا يعيشون على موقع الويب الخاص بك، حدد غير فعال."
+
+#: includes/admin/admin-values.php:272
+msgid "Membership Pack Details"
+msgstr "عضوية تفاصيل حزمة"
+
+#: includes/admin/admin-values.php:279
+#: includes/admin/admin-values.php:290
+#: includes/admin/admin-values.php:298
+msgid "Package Type"
+msgstr "نوع الحزمة"
+
+#: includes/admin/admin-values.php:300
+#: includes/admin/admin-values.php:307
+msgid "Static Price"
+msgstr "ثابت السعر"
+
+#: includes/admin/admin-values.php:308
+msgid "Discounted Price"
+msgstr "مخفضة السعر"
+
+#: includes/admin/admin-values.php:309
+msgid "% Discounted Price"
+msgstr "٪ الأسعار مخفضة"
+
+#: includes/admin/admin-values.php:311
+msgid "Membership Price"
+msgstr "عضوية السعر"
+
+#: includes/admin/admin-values.php:313
+#: includes/admin/admin-values.php:322
+msgid "Membership Duration"
+msgstr "المدة العضوية"
+
+#: includes/admin/admin-values.php:323
+msgid "Enter a numeric value for the number of days"
+msgstr "أدخل قيمة رقمية لعدد من الأيام"
+
+#: includes/admin/admin-values.php:324
+#: includes/admin/admin-values.php:333
+#: includes/admin/admin-values.php:334
+#: includes/admin/admin-values.php:335
+#: includes/admin/admin-values.php:345
+msgid "Satisfies Membership Requirement"
+msgstr "يلبي متطلبات العضوية"
+
+#: includes/admin/admin-values.php:346
+#: includes/admin/admin-values.php:347
+#: includes/admin/admin-values.php:360
+#: includes/admin/install-script.php:611
+#, php-format
+msgid "Header"
+msgstr "رأس"
+
+#: includes/admin/write-panel.php:9
+msgid "Ad Meta Fields"
+msgstr "الحقول ميتا إعلان"
+
+#: includes/admin/write-panel.php:10
+msgid "Ad Images"
+msgstr "إعلان صور"
+
+#: includes/admin/write-panel.php:79
+msgid "Ad Info"
+msgstr "معلومات إعلان"
+
+#: includes/admin/write-panel.php:81
+msgid "Ad ID"
+msgstr "إعلان ID"
+
+#: includes/admin/write-panel.php:82
+msgid "Views Total:"
+msgstr "المشاهدات إجمالي المشاركات:"
+
+#: includes/admin/write-panel.php:87
+msgid "Submitted By"
+msgstr "المقدمة من"
+
+#: includes/admin/write-panel.php:111
+msgid "Ad Terms"
+msgstr "شروط الإعلان"
+
+#: includes/admin/write-panel.php:112
+#, php-format
+msgid "%s for %s days"
+msgstr "٪ S ل٪ s أيام"
+
+#: includes/admin/write-panel.php:117
+#, php-format
+msgid "Listed for %s days"
+msgstr "سرد ل٪ s أيام"
+
+#: includes/admin/write-panel.php:122
+msgid "Ad Expires"
+msgstr "ينتهي الإعلان"
+
+#: includes/admin/write-panel.php:134
+msgid "Submitted from IP"
+msgstr "المقدمة من IP"
+
+#: includes/admin/write-panel.php:203 includes/forms/step-functions.php:76
+msgid "-- Select --"
+msgstr "- اختر -"
+
+#: includes/admin/write-panel.php:399
+msgid "New Image"
+msgstr "صورة جديدة"
+
+#: includes/forms/step-functions.php:41
+msgid "This field is required."
+msgstr "هذا الحقل مطلوب."
+
+#: includes/forms/step-functions.php:207 includes/forms/step1.php:92
+#: includes/forms/step1.php:121
+msgid "Category:"
+msgstr "الفئة:"
+
+#: includes/forms/step-functions.php:256
+#, php-format
+msgid "Image %s"
+msgstr "صورة٪ S"
+
+#: includes/forms/step-functions.php:265
+#, php-format
+msgid "%sKB max file size per image"
+msgstr "SKB٪ الحد الأقصى لحجم الملف لكل صورة"
+
+#: includes/forms/step-functions.php:302
+#, php-format
+msgid "Featured Listing %s"
+msgstr "قائمة مميزة٪ ق"
+
+#: includes/forms/step-functions.php:306
+#: includes/forms/step-functions.php:318
+msgid "Ad Package:"
+msgstr "إعلان الحزمة:"
+
+#: includes/forms/step-functions.php:344 includes/forms/step2.php:29
+#: includes/forms/step-functions.php:454
+msgid "ERROR: no results found for the default ad form."
+msgstr "خطأ: لايوجد نتائج للنموذج الإعلان الافتراضي."
+
+#: includes/forms/step-functions.php:496
+#: includes/forms/step-functions.php:507
+#, php-format
+msgid "Ad Listing Fee:"
+msgstr "إعلان رسوم الإدراج:"
+
+#: includes/forms/step-functions.php:509
+#: includes/forms/step2-membership.php:76
+msgid "FREE"
+msgstr "مجانا"
+
+#: includes/forms/step-functions.php:516
+msgid "Featured Listing Fee:"
+msgstr "ظهرت رسوم الإدراج:"
+
+#: includes/forms/step-functions.php:526
+#: includes/forms/step2-membership.php:39
+msgid "Membership:"
+msgstr "عضوية:"
+
+#: includes/forms/step-functions.php:538
+#: includes/forms/step2-membership.php:84
+msgid "Total Amount Due:"
+msgstr "مجموع المبلغ المستحق:"
+
+#: includes/forms/step-functions.php:542
+#: includes/forms/step2-membership.php:85
+msgid "--"
+msgstr "-"
+
+#: includes/forms/step-functions.php:567
+msgid "Price depends on category"
+msgstr "السعر يعتمد على الفئة"
+
+#: includes/forms/step-functions.php:571
+msgid "Price depends on ad package selected"
+msgstr "السعر يعتمد على حزمة الإعلانية المحددة"
+
+#: includes/forms/step-functions.php:575
+#, php-format
+msgid "%s of your ad listing price"
+msgstr "٪ S من قائمة الأسعار إعلانك"
+
+#: includes/forms/step-functions.php:579
+msgid "Free listing unless featured."
+msgstr "القائمة الحرة إلا إذا ظهرت."
+
+#: includes/forms/step-functions.php:642
+#, php-format
+msgid "ERROR: no ad packs found for ID %s."
+msgstr "خطأ: حزم أي إعلان تم العثور عليها ل ID٪ ق."
+
+#: includes/forms/step1-membership.php:35
+#, php-format
+msgid "Membership is currently required in order to post to category %s."
+msgstr "مطلوب عضوية حاليا من أجل إضافة إلى الفئة٪ ق."
+
+#: includes/forms/step1-membership.php:38
+msgid "Membership is currently required."
+msgstr "مطلوب حاليا عضوية."
+
+#: includes/forms/step1-membership.php:61
+msgid "Membership Benefit"
+msgstr "عضوية المنافع"
+
+#: includes/forms/step1-membership.php:62
+msgid "Subscription"
+msgstr "اشتراك"
+
+#: includes/forms/step1-membership.php:91
+msgid "Buy Now &rsaquo;&rsaquo;"
+msgstr "شراء الآن >>"
+
+#: includes/forms/step1-membership.php:105
+msgid "No membership packs found."
+msgstr "لم يتم العثور على حزم عضوية."
+
+#: includes/forms/step1.php:18
+msgid "Submit Your Listing"
+msgstr "أرسل الإدراج الخاصة بك"
+
+#: includes/forms/step1.php:41
+msgid "Cost Per Listing:"
+msgstr "التكلفة لكل قائمة:"
+
+#: includes/forms/step1.php:57
+msgid "Select a Category:"
+msgstr "إختر فئة:"
+
+#: includes/forms/step1.php:73 includes/forms/step1.php:97
+msgid "Go &rsaquo;&rsaquo;"
+msgstr "الذهاب >>"
+
+#: includes/forms/step1.php:93 includes/forms/step1.php:122
+msgid "(change)"
+msgstr "((تغيير))"
+
+#: includes/forms/step1.php:132 includes/forms/step2-membership.php:112
+#: includes/forms/step2.php:165
+msgid "Continue &rsaquo;&rsaquo;"
+msgstr "متابعة >>"
+
+#: includes/forms/step2-membership.php:16
+msgid "Review Your Membership Purchase"
+msgstr "نصيحة شراء عضوية الخاص بك"
+
+#: includes/forms/step2-membership.php:30
+#: includes/forms/step2-membership.php:39
+#, php-format
+msgid "Membership Renewal:"
+msgstr "تجديد عضوية:"
+
+#: includes/forms/step2-membership.php:44
+msgid "Membership Benefit:"
+msgstr "عضوية المنافع:"
+
+#: includes/forms/step2-membership.php:49
+msgid "Membership Length:"
+msgstr "عضوية طول:"
+
+#: includes/forms/step2-membership.php:50
+#, php-format
+msgid "%s more days"
+msgstr "٪ S أكثر أيام"
+
+#: includes/forms/step2-membership.php:50
+#, php-format
+msgid "%s days"
+msgstr "٪ S يوما"
+
+#: includes/forms/step2-membership.php:56
+msgid "Previous Expiration:"
+msgstr "انتهاء الصلاحية السابقة:"
+
+#: includes/forms/step2-membership.php:61
+msgid "New Expiration:"
+msgstr "انتهاء الصلاحية الجديد:"
+
+#: includes/forms/step2-membership.php:75
+msgid "Membership Purchase Fee:"
+msgstr "عضوية رسوم الشراء:"
+
+#: includes/forms/step2-membership.php:105 includes/forms/step2.php:158
+#: includes/forms/step2-membership.php:107 includes/forms/step2.php:160
+msgid "Your IP address has been logged for security purposes:"
+msgstr "تم تأمين عنوان IP الخاص بك لأغراض أمنية:"
+
+#: includes/forms/step2-membership.php:111 includes/forms/step2.php:164
+msgid "Go back"
+msgstr "العودة"
+
+#: includes/forms/step2.php:134
+msgid "Review Your Listing"
+msgstr "استعراض قائمة الخاص بك"
+
+#: includes/forms/step2.php:185
+msgid "Go Back"
+msgstr "العودة"
+
+#: includes/forms/step3-membership.php:19 includes/forms/step3.php:34
+msgid "Final Step"
+msgstr "الخطوة النهائية"
+
+#: includes/forms/step3-membership.php:19
+msgid "Membership Updated"
+msgstr "تحديث العضوية"
+
+#: includes/forms/step3-membership.php:34 includes/forms/step3.php:57
+#: includes/payments/admin/order-list.php:20
+msgid "Payment"
+msgstr "دفع"
+
+#: includes/forms/step3-membership.php:35 includes/forms/step3.php:58
+msgid "Please wait while we redirect you to our payment page."
+msgstr "الرجاء الانتظار بينما نحن توجيهك إلى صفحة الدفع لدينا."
+
+#: includes/forms/step3-membership.php:36 includes/forms/step3.php:59
+#: includes/forms/step3-membership.php:37 includes/forms/step3.php:60
+msgid "Continue to Payment"
+msgstr "مواصلة الدفع"
+
+#: includes/forms/step3-membership.php:47
+#: includes/forms/step3-membership.php:49
+msgid "Visit your dashboard to review your membership status details."
+msgstr "زيارة وحة القيادة الخاصة بك لاستعراض تفاصيل صفة العضوية الخاصة بك."
+
+#: includes/forms/step3-membership.php:75
+#: includes/forms/step3.php:34
+msgid "Ad Listing Received"
+msgstr "قائمة إعلان المتلقى"
+
+#: includes/forms/step3.php:74
+msgid "Thank you! Your ad listing has been submitted for review."
+msgstr "شكرا لك! وقد قدمت القائمة إعلانك للمراجعة."
+
+#: includes/forms/step3.php:75
+msgid "You can check the status by viewing your dashboard."
+msgstr "يمكنك التحقق من حالة عن طريق عرض لوحة المعلومات."
+
+#: includes/forms/step3.php:79
+msgid "Thank you! Your ad listing has been submitted and is now live."
+msgstr "شكرا لك! وقد تم تقديم قائمة إعلاناتك ويعيش الآن."
+
+#: includes/forms/step3.php:80
+msgid "Visit your dashboard to make any changes to your ad listing or profile."
+msgstr "زيارة لوحة أجهزة القياس لإجراء أية تغييرات على قائمة الإعلانية أو الشخصي."
+
+#: includes/forms/step3.php:81
+msgid "View your new ad listing."
+msgstr "عرض قائمة الإعلانية الجديدة."
+
+#: includes/forms/step3.php:115
+#: includes/payments/order-class.php:394
+msgid "Activated"
+msgstr "تنشيط"
+
+#: includes/payments/order-functions.php:26
+#: includes/payments/order-functions.php:37
+#: includes/payments/admin/admin.php:33
+msgid "Orders"
+msgstr "الطلبات"
+
+#: includes/payments/order-functions.php:27
+#: includes/payments/admin/order-list.php:15
+msgid "Order"
+msgstr "الطلب"
+
+#: includes/payments/order-functions.php:29
+msgid "Add New Order"
+msgstr "إضافة طلب جديد"
+
+#: includes/payments/order-functions.php:30
+msgid "Edit Order"
+msgstr "تعديل الطلب"
+
+#: includes/payments/order-functions.php:31
+msgid "New Order"
+msgstr "طلب جديد"
+
+#: includes/payments/order-functions.php:32
+msgid "View Order"
+msgstr "عرض الطلب"
+
+#: includes/payments/order-functions.php:33
+msgid "Search Orders"
+msgstr "البحث الطلبات"
+
+#: includes/payments/order-functions.php:34
+msgid "No orders found"
+msgstr "لم يتم العثور على طلبات"
+
+#: includes/payments/order-functions.php:35
+msgid "No orders found in Trash"
+msgstr "لا طلبات وجدت في القمامة"
+
+#: includes/payments/order-functions.php:36
+msgid "Parent Order:"
+msgstr "الطلب الاب:"
+
+#: includes/payments/order-functions.php:49
+#, php-format
+msgid "Pending <span class="count">(%s)</span>"
+msgid_plural "Pending <span class="count">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/order-functions.php:50
+#, php-format
+msgid "Failed <span class="count">(%s)</span>"
+msgid_plural "Failed <span class="count">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/order-functions.php:51
+#, php-format
+msgid "Completed <span class="count">(%s)</span>"
+msgid_plural "Completed <span class="count">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/order-functions.php:52
+#, php-format
+msgid "Activated <span class="count">(%s)</span>"
+msgid_plural "Activated <span class="count">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/order-functions.php:82
+msgid "Regional Taxes"
+msgstr "الضرائب الإقليمية"
+
+#: includes/payments/order-templates.php:291
+#: includes/payments/admin/order-single.php:67
+msgid "Total"
+msgstr "مجموع"
+
+#: includes/payments/admin/admin.php:33
+#: includes/payments/admin/order-meta.php:109
+msgid "Payments"
+msgstr "المدفوعات"
+
+#: includes/payments/admin/order-list.php:17
+msgid "Item"
+msgstr "بند"
+
+#: includes/payments/admin/order-list.php:72
+#, php-format
+msgid "Purchased %s item"
+msgid_plural "Purchased %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/admin/order-list.php:95
+#: includes/payments/admin/order-single.php:151
+msgid "Unknown"
+msgstr "غير معروف"
+
+#: includes/payments/admin/order-list.php:98
+#: includes/payments/admin/order-single.php:154
+msgid "Undecided"
+msgstr "متردد"
+
+#: includes/payments/admin/order-list.php:119
+msgid "Unpublished"
+msgstr "غير منشورة"
+
+#: includes/payments/admin/order-list.php:122
+msgctxt "Order Date Format"
+msgid "Y/m/d g:i:s A"
+msgstr "Y / M / د ز: أنا: S A"
+
+#: includes/payments/admin/order-list.php:131
+msgctxt "Order Date Format"
+msgid "Y/m/d"
+msgstr "Y / M / D"
+
+#: includes/payments/admin/order-meta.php:67
+#: includes/payments/admin/order-meta.php:117
+msgid "Connected Orders"
+msgstr "أوامر متصل"
+
+#: includes/payments/admin/order-meta.php:145
+msgid "Last 10 Orders"
+msgstr "آخر 10 طلبات"
+
+#: includes/payments/admin/order-single.php:57
+msgid "Affects"
+msgstr "يؤثر"
+
+#: includes/payments/admin/order-single.php:82
+#: includes/payments/admin/order-single.php:108
+msgid "Order Status"
+msgstr "حالة الطلب"
+
+#: includes/payments/admin/order-single.php:133
+msgid "ID"
+msgstr "ID"
+
+#: includes/payments/admin/order-single.php:141
+msgid "Gateway"
+msgstr "بوابة"
+
+#: includes/payments/admin/order-single.php:160
+#: includes/payments/admin/settings.php:37
+msgid "Currency"
+msgstr "عملة"
+
+#: includes/payments/admin/order-single.php:167
+msgid "Recurs"
+msgstr "يتكرر"
+
+#: includes/payments/admin/order-single.php:168
+#, php-format
+msgid "Every day"
+msgid_plural "Every %d days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/payments/admin/order-single.php:173
+msgid "Previously"
+msgstr "سابقا"
+
+#: includes/payments/admin/order-single.php:194
+msgid "Order Author"
+msgstr "النظام المؤلف"
+
+#: includes/payments/admin/order-single.php:254
+msgid "Order Actions"
+msgstr "أجل تطبيقات"
+
+#: includes/payments/admin/order-single.php:266
+#: includes/payments/gateways/bank-transfer/bt-admin.php:38
+msgid "Mark as Completed"
+msgstr "نحتفل كما مكتمل"
+
+#: includes/payments/admin/order-single.php:267
+msgid "Mark as Failed"
+msgstr "إجعلها فشل"
+
+#: includes/payments/admin/order-single.php:268
+msgid "Reset Gateway"
+msgstr "إعادة تعيين بوابة"
+
+#: includes/payments/admin/order-single.php:272
+msgid "Reset Order"
+msgstr "إعادة ترتيب"
+
+#: includes/payments/admin/order-single.php:275
+msgid "Activate Order"
+msgstr "تنشيط ترتيب"
+
+#: includes/payments/admin/order-single.php:278
+msgid "No actions available"
+msgstr "لا اتخاذ الإجراءات المتاحة"
+
+#: includes/payments/admin/order-single.php:371
+msgid "Logged Date"
+msgstr "تاريخ تسجيل"
+
+#: includes/payments/admin/order-single.php:371
+msgid "Message"
+msgstr "رسالة"
+
+#: includes/payments/admin/settings.php:16
+msgid "Payments Settings"
+msgstr "إعدادات المدفوعات"
+
+#: includes/payments/admin/settings.php:34
+msgid "Regional"
+msgstr "إقليمي"
+
+#: includes/payments/admin/settings.php:43
+msgid "Identifier"
+msgstr "معرف"
+
+#: includes/payments/admin/settings.php:47
+#, php-format
+msgid "Symbol (%s)"
+msgstr "رمز (%s)"
+
+#: includes/payments/admin/settings.php:48
+#, php-format
+msgid "Code (%s)"
+msgstr "شفرة (%s)"
+
+#: includes/payments/admin/settings.php:52
+msgid "Position"
+msgstr "موقع"
+
+#: includes/payments/admin/settings.php:63
+msgid "Thousands Separator"
+msgstr "الآلاف فاصل"
+
+#: includes/payments/admin/settings.php:66
+msgid "This sets the thousand separator of displayed prices."
+msgstr "هذا يضع فاصل ألف من الأسعار المعروضة."
+
+#: includes/payments/admin/settings.php:73
+msgid "Decimal Separator"
+msgstr "فاصل عشري"
+
+#: includes/payments/admin/settings.php:76
+msgid "This sets the decimal separator of displayed prices."
+msgstr "يحدد هذا الفاصل العشري من الأسعار المعروضة."
+
+#: includes/payments/admin/settings.php:83
+msgid "Tax Charge"
+msgstr "تتقاضى ضريبة"
+
+#: includes/payments/admin/settings.php:86
+msgid "%"
+msgstr "%"
+
+#: includes/payments/admin/settings.php:96
+msgid "Installed Gateways"
+msgstr "بوابات تثبيت"
+
+#: includes/payments/admin/settings.php:117
+#: includes/payments/admin/settings.php:171
+msgid "Enable"
+msgstr "تمكين"
+
+#: includes/payments/gateways/boomerang-class.php:51
+msgid "You are now being redirected."
+msgstr "ويجري الآن إعادة توجيهك."
+
+#: includes/payments/gateways/gateway-class.php:74
+msgid "This gateway has not implemented a recurring order processor."
+msgstr "وهذه العبارة لم تنفذ معالج النظام المتكررة."
+
+#: includes/payments/gateways/gateway-functions.php:71
+msgid " (disabled)"
+msgstr " (معطل)"
+
+#: includes/payments/gateways/gateway-functions.php:79
+msgid "-- No Gateways are currently available. --"
+msgstr "- لا تتوفر حاليا بوابات. -"
+
+#: includes/payments/gateways/bank-transfer/bank-transfer.php:21
+#: includes/payments/gateways/bank-transfer/bank-transfer.php:22
+#: includes/payments/gateways/bank-transfer/bank-transfer.php:85
+#: includes/payments/gateways/bank-transfer/bt-admin.php:6
+msgid "Bank Transfer"
+msgstr "حوالة مصرفية"
+
+#: includes/payments/gateways/bank-transfer/bank-transfer.php:36
+msgid "Transfer Information"
+msgstr "نقل المعلومات"
+
+#: includes/payments/gateways/bank-transfer/bank-transfer.php:47
+#: includes/payments/gateways/paypal/paypal.php:121
+msgid "General Information"
+msgstr "معلومات عامة"
+
+#: includes/payments/gateways/bank-transfer/bank-transfer.php:88
+msgid "Instructions:"
+msgstr "التعليمات:"
+
+#: includes/payments/gateways/bank-transfer/bank-transfer.php:95
+msgid "Order Information:"
+msgstr "معلومات الطلب:"
+
+#: includes/payments/gateways/bank-transfer/bank-transfer.php:98
+msgid "Order ID:"
+msgstr "معرف الطلب:"
+
+#: includes/payments/gateways/bank-transfer/bank-transfer.php:99
+msgid "Order Total:"
+msgstr "المجموع الكلي للطلب:"
+
+#: includes/payments/gateways/bank-transfer/bank-transfer.php:102
+msgid "For questions or problems, please contact us directly at"
+msgstr "للأسئلة أو المشاكل، يرجى الاتصال بنا مباشرة على"
+
+#: includes/payments/gateways/bank-transfer/bt-admin.php:33
+#: includes/payments/gateways/bank-transfer/bt-emails.php:7
+#: includes/payments/gateways/bank-transfer/bt-emails.php:9
+#, php-format
+msgid "<a href="%s">Review this order</a>"
+msgstr "<a href=\"%s\">مراجعة هذا الطلب</a>"
+
+#: includes/payments/gateways/bank-transfer/bt-emails.php:13
+msgid "review all pending orders"
+msgstr "استعراض جميع الطلبات المعلقة"
+
+#: includes/payments/gateways/bank-transfer/bt-emails.php:18
+#, php-format
+msgid "[%s] Pending Order #%s"
+msgstr "[%s] طلب معلق #%s"
+
+#: includes/payments/gateways/paypal/paypal-form.php:45
+#, php-format
+msgid "Continue to %s"
+msgstr "تستمر إلى %s"
+
+#: includes/payments/gateways/paypal/paypal.php:39
+#: includes/payments/gateways/paypal/paypal.php:40
+msgid "PayPal"
+msgstr "باي بال"
+
+#: includes/payments/gateways/paypal/paypal.php:75
+#: includes/payments/gateways/paypal/paypal.php:100
+msgid "You are now being redirected to PayPal."
+msgstr "ويجري الآن إعادة توجيهك إلى PayPal."
+
+#: includes/payments/gateways/paypal/paypal.php:124
+msgid "PayPal Email"
+msgstr "باي بال البريد الإلكتروني"
+
+#: includes/payments/gateways/paypal/paypal.php:125
+#: includes/payments/gateways/paypal/paypal.php:131
+msgid "Sandbox Mode"
+msgstr "الطور الاختباري"
+
+#: includes/payments/gateways/paypal/paypal.php:132
+#: includes/payments/gateways/paypal/paypal.php:133
+#: includes/payments/gateways/paypal/paypal.php:141
+#, php-format
+msgid "Payment Data Transfer (PDT)"
+msgstr "نقل بيانات الدفع (PDT)"
+
+#: includes/payments/gateways/paypal/paypal.php:144
+msgid "Enable PDT"
+msgstr "تمكين PDT"
+
+#: includes/payments/gateways/paypal/paypal.php:145
+#, php-format
+msgid "See our <a href="%s">tutorial</a> on enabling Payment Data Transfer."
+msgstr "See our <a href="%s">tutorial</a> on enabling Payment Data Transfer."
+
+#: includes/payments/gateways/paypal/paypal.php:150
+msgid "Identity Token"
+msgstr "هوية الامارة"
+
+#: includes/payments/gateways/paypal/paypal.php:158
+msgid "Instant Payment Notification (IPN)"
+msgstr "الاخطار الفوري للدفع (IPN)"
+
+#: includes/payments/gateways/paypal/paypal.php:161
+msgid "Enable IPN"
+msgstr "تمكين IPN"
+
+#: includes/payments/gateways/paypal/paypal.php:164
+#: includes/payments/gateways/paypal/paypal.php:167
+#, php-format
+msgid "Listener URL"
+msgstr "URL المستمع"
+
+#: includes/payments/gateways/paypal/paypal.php:176
+msgid "Notifications"
+msgstr "الإخطارات"
+
+#: includes/payments/gateways/paypal/paypal.php:179
+msgid "Notify me when  a payment is.."
+msgstr "يخطر لي عندما دفع هو .."
+
+#: includes/payments/utils/currencies.php:25
+msgid "US Dollars"
+msgstr "دولار أمريكي"
+
+#: includes/payments/utils/currencies.php:30
+msgid "Euros"
+msgstr "يورو"
+
+#: includes/payments/utils/currencies.php:35
+msgid "Pounds Sterling"
+msgstr "جنيه استرليني"
+
+#: includes/payments/utils/currencies.php:40
+msgid "Australian Dollars"
+msgstr "دولار أسترالي"
+
+#: includes/payments/utils/currencies.php:45
+msgid "Brazilian Real"
+msgstr "ريال برازيلي"
+
+#: includes/payments/utils/currencies.php:50
+msgid "Canadian Dollars"
+msgstr "دولار كندي"
+
+#: includes/payments/utils/currencies.php:55
+msgid "Czech Koruna"
+msgstr "الكورونا التشيكية"
+
+#: includes/payments/utils/currencies.php:60
+msgid "Danish Krone"
+msgstr "كرونة دانماركى"
+
+#: includes/payments/utils/currencies.php:65
+msgid "Hong Kong Dollar"
+msgstr "دولار هونج كونج"
+
+#: includes/payments/utils/currencies.php:70
+msgid "Hungarian Forint"
+msgstr "فورنت مجري"
+
+#: includes/payments/utils/currencies.php:75
+msgid "Israeli Shekel"
+msgstr "الشيكل الإسرائيلي"
+
+#: includes/payments/utils/currencies.php:80
+msgid "Japanese Yen"
+msgstr "الين الياباني"
+
+#: includes/payments/utils/currencies.php:85
+msgid "Malaysian Ringgits"
+msgstr "رينغيت ماليزي"
+
+#: includes/payments/utils/currencies.php:90
+msgid "Mexican Peso"
+msgstr "بيزو مكسيكي"
+
+#: includes/payments/utils/currencies.php:95
+msgid "New Zealand Dollar"
+msgstr "دولار نيوزيلندى"
+
+#: includes/payments/utils/currencies.php:100
+msgid "Norwegian Krone"
+msgstr "كرونة نرويجية"
+
+#: includes/payments/utils/currencies.php:105
+msgid "Philippine Pesos"
+msgstr "بيزو فلبيني"
+
+#: includes/payments/utils/currencies.php:110
+msgid "Polish Zloty"
+msgstr "زلوتى بولندى"
+
+#: includes/payments/utils/currencies.php:115
+msgid "Singapore Dollar"
+msgstr "دولار سنغافورى"
+
+#: includes/payments/utils/currencies.php:120
+msgid "Swedish Krona"
+msgstr "كرونة سويدية"
+
+#: includes/payments/utils/currencies.php:125
+msgid "Swiss Franc"
+msgstr "الفرنك السويسري"
+
+#: includes/payments/utils/currencies.php:130
+msgid "Taiwan New Dollar"
+msgstr "تايوان الدولار جديد"
+
+#: includes/payments/utils/currencies.php:135
+msgid "Thai Baht"
+msgstr "البات التايلندي"
+
+#: includes/payments/utils/currencies.php:140
+msgid "Turkish Lira"
+msgstr "الليرة التركية"
+
